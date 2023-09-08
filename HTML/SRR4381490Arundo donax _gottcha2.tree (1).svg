@@ -1,0 +1,1935 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1667.4px"  height="8572px"
+			id="treesvg"
+			xmlns="http://www.w3.org/2000/svg"
+			xmlns:xlink="http://www.w3.org/1999/xlink"
+			preserveAspectRatio="xMidYMin meet">
+<style type="text/css">
+
+<![CDATA[
+	.tree polyline {
+		fill: none;
+		stroke: black;
+	}
+	
+	.tree text {
+		stroke: none;
+		fill: black;
+        font-family: Arial,Verdana,Helvetica,Sans-serif;
+        font-szie: 16px;
+	}
+	
+	.tree circle {
+		fill-opacity: 1;
+		fill: lightgrey;
+	}
+	
+	.text-id-tag {
+		fill-opacity: 1;
+	}
+	
+	]]>
+</style>
+<g id="viewport" class="tree"><text x='5' y='20'>GOTTCHA2</text><g id='2'><polyline id='polyline2' points='200.000000 5495.700000, 30.000000 5495.700000, 30.000000 6964.650000'/>
+<g id='3'><polyline id='polyline3' points='370.000000 2853.200000, 200.000000 2853.200000, 200.000000 5495.700000'/>
+<g id='4'><polyline id='polyline4' points='540.000000 1017.800000, 370.000000 1017.800000, 370.000000 2853.200000'/>
+<g id='5'><polyline id='polyline5' points='710.000000 432.600000, 540.000000 432.600000, 540.000000 1017.800000'/>
+<g id='6'><polyline id='polyline6' points='880.000000 158.200000, 710.000000 158.200000, 710.000000 432.600000'/>
+<g id='7'><polyline id='polyline7' points='1050.000000 102.200000, 880.000000 102.200000, 880.000000 158.200000'/>
+<g id='8'><polyline id='polyline8' points='1220.000000 35.000000, 1050.000000 35.000000, 1050.000000 102.200000'/>
+<circle id='circle8' cx='1220' cy='35' r='20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea agglomerans" x="1235" y="40.3333333333333">Pantoea agglomerans (10.00)</text>\n"</g>
+<g id='9'><polyline id='polyline9' points='1220.000000 57.400000, 1050.000000 57.400000, 1050.000000 102.200000'/>
+<circle id='circle9' cx='1220' cy='57' r='17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea vagans" x="1235" y="62.7333333333333">Pantoea vagans (7.72)</text>\n"</g>
+<g id='68'><polyline id='polyline68' points='1220.000000 79.800000, 1050.000000 79.800000, 1050.000000 102.200000'/>
+<circle id='circle68' cx='1220' cy='79' r='3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea ananatis" x="1235" y="85.1333333333333">Pantoea ananatis (1.49)</text>\n"</g>
+<g id='222'><polyline id='polyline222' points='1220.000000 102.200000, 1050.000000 102.200000, 1050.000000 102.200000'/>
+<circle id='circle222' cx='1220' cy='102' r='-14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea dispersa" x="1235" y="107.533333333333">Pantoea dispersa (0.18)</text>\n"</g>
+<g id='411'><polyline id='polyline411' points='1220.000000 124.600000, 1050.000000 124.600000, 1050.000000 102.200000'/>
+<circle id='circle411' cx='1220' cy='124' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea rwandensis" x="1235" y="129.933333333333">Pantoea rwandensis (0.04)</text>\n"</g>
+<g id='435'><polyline id='polyline435' points='1220.000000 147.000000, 1050.000000 147.000000, 1050.000000 102.200000'/>
+<circle id='circle435' cx='1220' cy='147' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea sp. PSNIH2" x="1235" y="152.333333333333">Pantoea sp. PSNIH2 (0.04)</text>\n"</g>
+<g id='509'><polyline id='polyline509' points='1220.000000 169.400000, 1050.000000 169.400000, 1050.000000 102.200000'/>
+<circle id='circle509' cx='1220' cy='169' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pantoea septica" x="1235" y="174.733333333333">Pantoea septica (0.02)</text>\n"</g>
+<circle id='circle7' cx='1050' cy='102' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='73'><polyline id='polyline73' points='1050.000000 214.200000, 880.000000 214.200000, 880.000000 158.200000'/>
+<g id='74'><polyline id='polyline74' points='1220.000000 191.800000, 1050.000000 191.800000, 1050.000000 214.200000'/>
+<circle id='circle74' cx='1220' cy='191' r='1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Erwinia billingiae" x="1235" y="197.133333333333">Erwinia billingiae (1.19)</text>\n"</g>
+<g id='101'><polyline id='polyline101' points='1220.000000 214.200000, 1050.000000 214.200000, 1050.000000 214.200000'/>
+<circle id='circle101' cx='1220' cy='214' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Erwinia gerundensis" x="1235" y="219.533333333333">Erwinia gerundensis (0.93)</text>\n"</g>
+<g id='418'><polyline id='polyline418' points='1220.000000 236.600000, 1050.000000 236.600000, 1050.000000 214.200000'/>
+<circle id='circle418' cx='1220' cy='236' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Erwinia persicina" x="1235" y="241.933333333333">Erwinia persicina (0.04)</text>\n"</g>
+<circle id='circle73' cx='1050' cy='214' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle6' cx='880' cy='158' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='46'><polyline id='polyline46' points='880.000000 443.800000, 710.000000 443.800000, 710.000000 432.600000'/>
+<g id='47'><polyline id='polyline47' points='1050.000000 270.200000, 880.000000 270.200000, 880.000000 443.800000'/>
+<g id='48'><polyline id='polyline48' points='1220.000000 259.000000, 1050.000000 259.000000, 1050.000000 270.200000'/>
+<circle id='circle48' cx='1220' cy='259' r='7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Lelliottia sp. WB101" x="1235" y="264.333333333333">Lelliottia sp. WB101 (2.38)</text>\n"</g>
+<g id='308'><polyline id='polyline308' points='1220.000000 281.400000, 1050.000000 281.400000, 1050.000000 270.200000'/>
+<circle id='circle308' cx='1220' cy='281' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Lelliottia amnigena" x="1235" y="286.733333333333">Lelliottia amnigena (0.08)</text>\n"</g>
+<circle id='circle47' cx='1050' cy='270' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='105'><polyline id='polyline105' points='1050.000000 348.600000, 880.000000 348.600000, 880.000000 443.800000'/>
+<g id='106'><polyline id='polyline106' points='1220.000000 303.800000, 1050.000000 303.800000, 1050.000000 348.600000'/>
+<circle id='circle106' cx='1220' cy='303' r='-1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Enterobacter cancerogenus" x="1235" y="309.133333333333">Enterobacter cancerogenus (0.88)</text>\n"</g>
+<g id='278'><polyline id='polyline278' points='1220.000000 326.200000, 1050.000000 326.200000, 1050.000000 348.600000'/>
+<circle id='circle278' cx='1220' cy='326' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Enterobacter cloacae" x="1235" y="331.533333333333">Enterobacter cloacae (0.10)</text>\n"</g>
+<g id='311'><polyline id='polyline311' points='1220.000000 348.600000, 1050.000000 348.600000, 1050.000000 348.600000'/>
+<circle id='circle311' cx='1220' cy='348' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Enterobacter hormaechei" x="1235" y="353.933333333333">Enterobacter hormaechei (0.07)</text>\n"</g>
+<g id='446'><polyline id='polyline446' points='1220.000000 371.000000, 1050.000000 371.000000, 1050.000000 348.600000'/>
+<circle id='circle446' cx='1220' cy='370' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Enterobacter sp. CRENT-193" x="1235" y="376.333333333333">Enterobacter sp. CRENT-193 (0.04)</text>\n"</g>
+<g id='488'><polyline id='polyline488' points='1220.000000 393.400000, 1050.000000 393.400000, 1050.000000 348.600000'/>
+<circle id='circle488' cx='1220' cy='393' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Enterobacter cloacae complex sp." x="1235" y="398.733333333333">Enterobacter cloacae complex sp. (0.03)</text>\n"</g>
+<circle id='circle105' cx='1050' cy='348' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='233'><polyline id='polyline233' points='1050.000000 449.400000, 880.000000 449.400000, 880.000000 443.800000'/>
+<g id='234'><polyline id='polyline234' points='1220.000000 415.800000, 1050.000000 415.800000, 1050.000000 449.400000'/>
+<circle id='circle234' cx='1220' cy='415' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klebsiella michiganensis" x="1235" y="421.133333333333">Klebsiella michiganensis (0.15)</text>\n"</g>
+<g id='473'><polyline id='polyline473' points='1220.000000 438.200000, 1050.000000 438.200000, 1050.000000 449.400000'/>
+<circle id='circle473' cx='1220' cy='438' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klebsiella pneumoniae" x="1235" y="443.533333333333">Klebsiella pneumoniae (0.03)</text>\n"</g>
+<g id='573'><polyline id='polyline573' points='1220.000000 460.600000, 1050.000000 460.600000, 1050.000000 449.400000'/>
+<circle id='circle573' cx='1220' cy='460' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klebsiella sp. M5al" x="1235" y="465.933333333333">Klebsiella sp. M5al (0.02)</text>\n"</g>
+<g id='603'><polyline id='polyline603' points='1220.000000 483.000000, 1050.000000 483.000000, 1050.000000 449.400000'/>
+<circle id='circle603' cx='1220' cy='482' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klebsiella variicola" x="1235" y="488.333333333333">Klebsiella variicola (0.01)</text>\n"</g>
+<circle id='circle233' cx='1050' cy='449' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='345'><polyline id='polyline345' points='1050.000000 505.400000, 880.000000 505.400000, 880.000000 443.800000'/>
+<g id='346'><polyline id='polyline346' points='1220.000000 505.400000, 1050.000000 505.400000, 1050.000000 505.400000'/>
+<circle id='circle346' cx='1220' cy='505' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Plautia stali symbiont" x="1235" y="510.733333333333">Plautia stali symbiont (0.06)</text>\n"</g>
+<circle id='circle345' cx='1050' cy='505' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='369'><polyline id='polyline369' points='1050.000000 527.800000, 880.000000 527.800000, 880.000000 443.800000'/>
+<g id='370'><polyline id='polyline370' points='1220.000000 527.800000, 1050.000000 527.800000, 1050.000000 527.800000'/>
+<circle id='circle370' cx='1220' cy='527' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Raoultella ornithinolytica" x="1235" y="533.133333333333">Raoultella ornithinolytica (0.06)</text>\n"</g>
+<circle id='circle369' cx='1050' cy='527' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='384'><polyline id='polyline384' points='1050.000000 550.200000, 880.000000 550.200000, 880.000000 443.800000'/>
+<g id='385'><polyline id='polyline385' points='1220.000000 550.200000, 1050.000000 550.200000, 1050.000000 550.200000'/>
+<circle id='circle385' cx='1220' cy='550' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kosakonia cowanii" x="1235" y="555.533333333333">Kosakonia cowanii (0.05)</text>\n"</g>
+<circle id='circle384' cx='1050' cy='550' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='415'><polyline id='polyline415' points='1050.000000 572.600000, 880.000000 572.600000, 880.000000 443.800000'/>
+<g id='416'><polyline id='polyline416' points='1220.000000 572.600000, 1050.000000 572.600000, 1050.000000 572.600000'/>
+<circle id='circle416' cx='1220' cy='572' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudescherichia vulneris" x="1235" y="577.933333333333">Pseudescherichia vulneris (0.04)</text>\n"</g>
+<circle id='circle415' cx='1050' cy='572' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='501'><polyline id='polyline501' points='1050.000000 595.000000, 880.000000 595.000000, 880.000000 443.800000'/>
+<g id='502'><polyline id='polyline502' points='1220.000000 595.000000, 1050.000000 595.000000, 1050.000000 595.000000'/>
+<circle id='circle502' cx='1220' cy='594' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Escherichia coli" x="1235" y="600.333333333333">Escherichia coli (0.02)</text>\n"</g>
+<circle id='circle501' cx='1050' cy='594' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='618'><polyline id='polyline618' points='1050.000000 617.400000, 880.000000 617.400000, 880.000000 443.800000'/>
+<g id='619'><polyline id='polyline619' points='1220.000000 617.400000, 1050.000000 617.400000, 1050.000000 617.400000'/>
+<circle id='circle619' cx='1220' cy='617' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Citrobacter sp. CRE-46" x="1235" y="622.733333333333">Citrobacter sp. CRE-46 (0.01)</text>\n"</g>
+<circle id='circle618' cx='1050' cy='617' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle46' cx='880' cy='443' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='75'><polyline id='polyline75' points='880.000000 662.200000, 710.000000 662.200000, 710.000000 432.600000'/>
+<g id='76'><polyline id='polyline76' points='1050.000000 662.200000, 880.000000 662.200000, 880.000000 662.200000'/>
+<g id='77'><polyline id='polyline77' points='1220.000000 639.800000, 1050.000000 639.800000, 1050.000000 662.200000'/>
+<circle id='circle77' cx='1220' cy='639' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rahnella aquatilis" x="1235" y="645.133333333333">Rahnella aquatilis (1.11)</text>\n"</g>
+<g id='198'><polyline id='polyline198' points='1220.000000 662.200000, 1050.000000 662.200000, 1050.000000 662.200000'/>
+<circle id='circle198' cx='1220' cy='662' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rahnella sp. Y9602" x="1235" y="667.533333333333">Rahnella sp. Y9602 (0.23)</text>\n"</g>
+<g id='479'><polyline id='polyline479' points='1220.000000 684.600000, 1050.000000 684.600000, 1050.000000 662.200000'/>
+<circle id='circle479' cx='1220' cy='684' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rahnella sp. ERMR1:05" x="1235" y="689.933333333333">Rahnella sp. ERMR1:05 (0.03)</text>\n"</g>
+<circle id='circle76' cx='1050' cy='662' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle75' cx='880' cy='662' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='522'><polyline id='polyline522' points='880.000000 707.000000, 710.000000 707.000000, 710.000000 432.600000'/>
+<g id='523'><polyline id='polyline523' points='1050.000000 707.000000, 880.000000 707.000000, 880.000000 707.000000'/>
+<g id='524'><polyline id='polyline524' points='1220.000000 707.000000, 1050.000000 707.000000, 1050.000000 707.000000'/>
+<circle id='circle524' cx='1220' cy='706' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Edwardsiella tarda" x="1235" y="712.333333333333">Edwardsiella tarda (0.02)</text>\n"</g>
+<circle id='circle523' cx='1050' cy='706' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle522' cx='880' cy='706' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle5' cx='710' cy='432' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='33'><polyline id='polyline33' points='710.000000 981.400000, 540.000000 981.400000, 540.000000 1017.800000'/>
+<g id='34'><polyline id='polyline34' points='880.000000 903.000000, 710.000000 903.000000, 710.000000 981.400000'/>
+<g id='35'><polyline id='polyline35' points='1050.000000 807.800000, 880.000000 807.800000, 880.000000 903.000000'/>
+<g id='36'><polyline id='polyline36' points='1220.000000 729.400000, 1050.000000 729.400000, 1050.000000 807.800000'/>
+<circle id='circle36' cx='1220' cy='729' r='10'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas rhizophila" x="1235" y="734.733333333333">Stenotrophomonas rhizophila (3.47)</text>\n"</g>
+<g id='56'><polyline id='polyline56' points='1220.000000 751.800000, 1050.000000 751.800000, 1050.000000 807.800000'/>
+<circle id='circle56' cx='1220' cy='751' r='5'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas maltophilia" x="1235" y="757.133333333333">Stenotrophomonas maltophilia (1.91)</text>\n"</g>
+<g id='72'><polyline id='polyline72' points='1220.000000 774.200000, 1050.000000 774.200000, 1050.000000 807.800000'/>
+<circle id='circle72' cx='1220' cy='774' r='1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas sp. LM091" x="1235" y="779.533333333333">Stenotrophomonas sp. LM091 (1.21)</text>\n"</g>
+<g id='95'><polyline id='polyline95' points='1220.000000 796.600000, 1050.000000 796.600000, 1050.000000 807.800000'/>
+<circle id='circle95' cx='1220' cy='796' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas sp. MYb57" x="1235" y="801.933333333333">Stenotrophomonas sp. MYb57 (0.96)</text>\n"</g>
+<g id='137'><polyline id='polyline137' points='1220.000000 819.000000, 1050.000000 819.000000, 1050.000000 807.800000'/>
+<circle id='circle137' cx='1220' cy='818' r='-5'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas chelatiphaga" x="1235" y="824.333333333333">Stenotrophomonas chelatiphaga (0.54)</text>\n"</g>
+<g id='173'><polyline id='polyline173' points='1220.000000 841.400000, 1050.000000 841.400000, 1050.000000 807.800000'/>
+<circle id='circle173' cx='1220' cy='841' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas sp. G4" x="1235" y="846.733333333333">Stenotrophomonas sp. G4 (0.32)</text>\n"</g>
+<g id='438'><polyline id='polyline438' points='1220.000000 863.800000, 1050.000000 863.800000, 1050.000000 807.800000'/>
+<circle id='circle438' cx='1220' cy='863' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas sp. WZN-1" x="1235" y="869.133333333333">Stenotrophomonas sp. WZN-1 (0.04)</text>\n"</g>
+<g id='613'><polyline id='polyline613' points='1220.000000 886.200000, 1050.000000 886.200000, 1050.000000 807.800000'/>
+<circle id='circle613' cx='1220' cy='886' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Stenotrophomonas panacihumi" x="1235" y="891.533333333333">Stenotrophomonas panacihumi (0.01)</text>\n"</g>
+<circle id='circle35' cx='1050' cy='807' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='166'><polyline id='polyline166' points='1050.000000 919.800000, 880.000000 919.800000, 880.000000 903.000000'/>
+<g id='167'><polyline id='polyline167' points='1220.000000 908.600000, 1050.000000 908.600000, 1050.000000 919.800000'/>
+<circle id='circle167' cx='1220' cy='908' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Xanthomonas euvesicatoria" x="1235" y="913.933333333333">Xanthomonas euvesicatoria (0.34)</text>\n"</g>
+<g id='318'><polyline id='polyline318' points='1220.000000 931.000000, 1050.000000 931.000000, 1050.000000 919.800000'/>
+<circle id='circle318' cx='1220' cy='930' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Xanthomonas gardneri" x="1235" y="936.333333333333">Xanthomonas gardneri (0.07)</text>\n"</g>
+<circle id='circle166' cx='1050' cy='919' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='256'><polyline id='polyline256' points='1050.000000 964.600000, 880.000000 964.600000, 880.000000 903.000000'/>
+<g id='257'><polyline id='polyline257' points='1220.000000 953.400000, 1050.000000 953.400000, 1050.000000 964.600000'/>
+<circle id='circle257' cx='1220' cy='953' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudoxanthomonas spadix" x="1235" y="958.733333333333">Pseudoxanthomonas spadix (0.12)</text>\n"</g>
+<g id='604'><polyline id='polyline604' points='1220.000000 975.800000, 1050.000000 975.800000, 1050.000000 964.600000'/>
+<circle id='circle604' cx='1220' cy='975' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudoxanthomonas indica" x="1235" y="981.133333333333">Pseudoxanthomonas indica (0.01)</text>\n"</g>
+<circle id='circle256' cx='1050' cy='964' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='356'><polyline id='polyline356' points='1050.000000 998.200000, 880.000000 998.200000, 880.000000 903.000000'/>
+<g id='357'><polyline id='polyline357' points='1220.000000 998.200000, 1050.000000 998.200000, 1050.000000 998.200000'/>
+<circle id='circle357' cx='1220' cy='998' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Luteimonas sp. 100111" x="1235" y="1003.53333333333">Luteimonas sp. 100111 (0.06)</text>\n"</g>
+<circle id='circle356' cx='1050' cy='998' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle34' cx='880' cy='902' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='114'><polyline id='polyline114' points='880.000000 1059.800000, 710.000000 1059.800000, 710.000000 981.400000'/>
+<g id='115'><polyline id='polyline115' points='1050.000000 1031.800000, 880.000000 1031.800000, 880.000000 1059.800000'/>
+<g id='116'><polyline id='polyline116' points='1220.000000 1020.600000, 1050.000000 1020.600000, 1050.000000 1031.800000'/>
+<circle id='circle116' cx='1220' cy='1020' r='-2'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Luteibacter rhizovicinus" x="1235" y="1025.93333333333">Luteibacter rhizovicinus (0.77)</text>\n"</g>
+<g id='171'><polyline id='polyline171' points='1220.000000 1043.000000, 1050.000000 1043.000000, 1050.000000 1031.800000'/>
+<circle id='circle171' cx='1220' cy='1042' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Luteibacter yeojuensis" x="1235" y="1048.33333333333">Luteibacter yeojuensis (0.34)</text>\n"</g>
+<circle id='circle115' cx='1050' cy='1031' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='253'><polyline id='polyline253' points='1050.000000 1065.400000, 880.000000 1065.400000, 880.000000 1059.800000'/>
+<g id='254'><polyline id='polyline254' points='1220.000000 1065.400000, 1050.000000 1065.400000, 1050.000000 1065.400000'/>
+<circle id='circle254' cx='1220' cy='1065' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodanobacter fulvus" x="1235" y="1070.73333333333">Rhodanobacter fulvus (0.12)</text>\n"</g>
+<circle id='circle253' cx='1050' cy='1065' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='503'><polyline id='polyline503' points='1050.000000 1087.800000, 880.000000 1087.800000, 880.000000 1059.800000'/>
+<g id='504'><polyline id='polyline504' points='1220.000000 1087.800000, 1050.000000 1087.800000, 1050.000000 1087.800000'/>
+<circle id='circle504' cx='1220' cy='1087' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Dokdonella koreensis" x="1235" y="1093.13333333333">Dokdonella koreensis (0.02)</text>\n"</g>
+<circle id='circle503' cx='1050' cy='1087' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle114' cx='880' cy='1059' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle33' cx='710' cy='981' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='60'><polyline id='polyline60' points='710.000000 1345.400000, 540.000000 1345.400000, 540.000000 1017.800000'/>
+<g id='61'><polyline id='polyline61' points='880.000000 1345.400000, 710.000000 1345.400000, 710.000000 1345.400000'/>
+<g id='62'><polyline id='polyline62' points='1050.000000 1345.400000, 880.000000 1345.400000, 880.000000 1345.400000'/>
+<g id='63'><polyline id='polyline63' points='1220.000000 1110.200000, 1050.000000 1110.200000, 1050.000000 1345.400000'/>
+<circle id='circle63' cx='1220' cy='1110' r='4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas lutea" x="1235" y="1115.53333333333">Pseudomonas lutea (1.74)</text>\n"</g>
+<g id='64'><polyline id='polyline64' points='1220.000000 1132.600000, 1050.000000 1132.600000, 1050.000000 1345.400000'/>
+<circle id='circle64' cx='1220' cy='1132' r='4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas koreensis" x="1235" y="1137.93333333333">Pseudomonas koreensis (1.61)</text>\n"</g>
+<g id='133'><polyline id='polyline133' points='1220.000000 1155.000000, 1050.000000 1155.000000, 1050.000000 1345.400000'/>
+<circle id='circle133' cx='1220' cy='1154' r='-4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas fluorescens" x="1235" y="1160.33333333333">Pseudomonas fluorescens (0.59)</text>\n"</g>
+<g id='146'><polyline id='polyline146' points='1220.000000 1177.400000, 1050.000000 1177.400000, 1050.000000 1345.400000'/>
+<circle id='circle146' cx='1220' cy='1177' r='-6'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas oryzihabitans" x="1235" y="1182.73333333333">Pseudomonas oryzihabitans (0.48)</text>\n"</g>
+<g id='187'><polyline id='polyline187' points='1220.000000 1199.800000, 1050.000000 1199.800000, 1050.000000 1345.400000'/>
+<circle id='circle187' cx='1220' cy='1199' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas syringae group genomosp. 3" x="1235" y="1205.13333333333">Pseudomonas syringae group genomosp. 3 (0.24)</text>\n"</g>
+<g id='223'><polyline id='polyline223' points='1220.000000 1222.200000, 1050.000000 1222.200000, 1050.000000 1345.400000'/>
+<circle id='circle223' cx='1220' cy='1222' r='-15'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas azotoformans" x="1235" y="1227.53333333333">Pseudomonas azotoformans (0.17)</text>\n"</g>
+<g id='246'><polyline id='polyline246' points='1220.000000 1244.600000, 1050.000000 1244.600000, 1050.000000 1345.400000'/>
+<circle id='circle246' cx='1220' cy='1244' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas fulva" x="1235" y="1249.93333333333">Pseudomonas fulva (0.14)</text>\n"</g>
+<g id='247'><polyline id='polyline247' points='1220.000000 1267.000000, 1050.000000 1267.000000, 1050.000000 1345.400000'/>
+<circle id='circle247' cx='1220' cy='1267' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas rhizosphaerae" x="1235" y="1272.33333333333">Pseudomonas rhizosphaerae (0.13)</text>\n"</g>
+<g id='283'><polyline id='polyline283' points='1220.000000 1289.400000, 1050.000000 1289.400000, 1050.000000 1345.400000'/>
+<circle id='circle283' cx='1220' cy='1289' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas alcaliphila" x="1235" y="1294.73333333333">Pseudomonas alcaliphila (0.09)</text>\n"</g>
+<g id='298'><polyline id='polyline298' points='1220.000000 1311.800000, 1050.000000 1311.800000, 1050.000000 1345.400000'/>
+<circle id='circle298' cx='1220' cy='1311' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas kuykendallii" x="1235" y="1317.13333333333">Pseudomonas kuykendallii (0.09)</text>\n"</g>
+<g id='359'><polyline id='polyline359' points='1220.000000 1334.200000, 1050.000000 1334.200000, 1050.000000 1345.400000'/>
+<circle id='circle359' cx='1220' cy='1334' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas syringae" x="1235" y="1339.53333333333">Pseudomonas syringae (0.06)</text>\n"</g>
+<g id='366'><polyline id='polyline366' points='1220.000000 1356.600000, 1050.000000 1356.600000, 1050.000000 1345.400000'/>
+<circle id='circle366' cx='1220' cy='1356' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas sp. St29" x="1235" y="1361.93333333333">Pseudomonas sp. St29 (0.06)</text>\n"</g>
+<g id='371'><polyline id='polyline371' points='1220.000000 1379.000000, 1050.000000 1379.000000, 1050.000000 1345.400000'/>
+<circle id='circle371' cx='1220' cy='1379' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas psychrotolerans" x="1235" y="1384.33333333333">Pseudomonas psychrotolerans (0.06)</text>\n"</g>
+<g id='402'><polyline id='polyline402' points='1220.000000 1401.400000, 1050.000000 1401.400000, 1050.000000 1345.400000'/>
+<circle id='circle402' cx='1220' cy='1401' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas mendocina" x="1235" y="1406.73333333333">Pseudomonas mendocina (0.05)</text>\n"</g>
+<g id='412'><polyline id='polyline412' points='1220.000000 1423.800000, 1050.000000 1423.800000, 1050.000000 1345.400000'/>
+<circle id='circle412' cx='1220' cy='1423' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas lurida" x="1235" y="1429.13333333333">Pseudomonas lurida (0.04)</text>\n"</g>
+<g id='443'><polyline id='polyline443' points='1220.000000 1446.200000, 1050.000000 1446.200000, 1050.000000 1345.400000'/>
+<circle id='circle443' cx='1220' cy='1446' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas avellanae" x="1235" y="1451.53333333333">Pseudomonas avellanae (0.04)</text>\n"</g>
+<g id='476'><polyline id='polyline476' points='1220.000000 1468.600000, 1050.000000 1468.600000, 1050.000000 1345.400000'/>
+<circle id='circle476' cx='1220' cy='1468' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas putida" x="1235" y="1473.93333333333">Pseudomonas putida (0.03)</text>\n"</g>
+<g id='489'><polyline id='polyline489' points='1220.000000 1491.000000, 1050.000000 1491.000000, 1050.000000 1345.400000'/>
+<circle id='circle489' cx='1220' cy='1491' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas sp. M30-35" x="1235" y="1496.33333333333">Pseudomonas sp. M30-35 (0.03)</text>\n"</g>
+<g id='558'><polyline id='polyline558' points='1220.000000 1513.400000, 1050.000000 1513.400000, 1050.000000 1345.400000'/>
+<circle id='circle558' cx='1220' cy='1513' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas amygdali" x="1235" y="1518.73333333333">Pseudomonas amygdali (0.02)</text>\n"</g>
+<g id='588'><polyline id='polyline588' points='1220.000000 1535.800000, 1050.000000 1535.800000, 1050.000000 1345.400000'/>
+<circle id='circle588' cx='1220' cy='1535' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas sp. LG1E9" x="1235" y="1541.13333333333">Pseudomonas sp. LG1E9 (0.02)</text>\n"</g>
+<g id='614'><polyline id='polyline614' points='1220.000000 1558.200000, 1050.000000 1558.200000, 1050.000000 1345.400000'/>
+<circle id='circle614' cx='1220' cy='1558' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas cerasi" x="1235" y="1563.53333333333">Pseudomonas cerasi (0.01)</text>\n"</g>
+<g id='620'><polyline id='polyline620' points='1220.000000 1580.600000, 1050.000000 1580.600000, 1050.000000 1345.400000'/>
+<circle id='circle620' cx='1220' cy='1580' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas sp. FDAARGOS_380" x="1235" y="1585.93333333333">Pseudomonas sp. FDAARGOS_380 (0.01)</text>\n"</g>
+<circle id='circle62' cx='1050' cy='1345' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle61' cx='880' cy='1345' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle60' cx='710' cy='1345' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='284'><polyline id='polyline284' points='710.000000 1603.000000, 540.000000 1603.000000, 540.000000 1017.800000'/>
+<g id='285'><polyline id='polyline285' points='880.000000 1603.000000, 710.000000 1603.000000, 710.000000 1603.000000'/>
+<g id='286'><polyline id='polyline286' points='1050.000000 1603.000000, 880.000000 1603.000000, 880.000000 1603.000000'/>
+<g id='287'><polyline id='polyline287' points='1220.000000 1603.000000, 1050.000000 1603.000000, 1050.000000 1603.000000'/>
+<circle id='circle287' cx='1220' cy='1603' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cellvibrio sp. PSBB023" x="1235" y="1608.33333333333">Cellvibrio sp. PSBB023 (0.09)</text>\n"</g>
+<circle id='circle286' cx='1050' cy='1603' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle285' cx='880' cy='1603' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle284' cx='710' cy='1603' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle4' cx='540' cy='1017' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='16'><polyline id='polyline16' points='540.000000 3159.800000, 370.000000 3159.800000, 370.000000 2853.200000'/>
+<g id='17'><polyline id='polyline17' points='710.000000 2359.000000, 540.000000 2359.000000, 540.000000 3159.800000'/>
+<g id='18'><polyline id='polyline18' points='880.000000 1703.800000, 710.000000 1703.800000, 710.000000 2359.000000'/>
+<g id='19'><polyline id='polyline19' points='1050.000000 1659.000000, 880.000000 1659.000000, 880.000000 1703.800000'/>
+<g id='20'><polyline id='polyline20' points='1220.000000 1625.400000, 1050.000000 1625.400000, 1050.000000 1659.000000'/>
+<circle id='circle20' cx='1220' cy='1625' r='14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ochrobactrum sp. A44" x="1235" y="1630.73333333333">Ochrobactrum sp. A44 (5.50)</text>\n"</g>
+<g id='113'><polyline id='polyline113' points='1220.000000 1647.800000, 1050.000000 1647.800000, 1050.000000 1659.000000'/>
+<circle id='circle113' cx='1220' cy='1647' r='-1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ochrobactrum pseudogrignonense" x="1235" y="1653.13333333334">Ochrobactrum pseudogrignonense (0.84)</text>\n"</g>
+<g id='154'><polyline id='polyline154' points='1220.000000 1670.200000, 1050.000000 1670.200000, 1050.000000 1659.000000'/>
+<circle id='circle154' cx='1220' cy='1670' r='-7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ochrobactrum anthropi" x="1235" y="1675.53333333334">Ochrobactrum anthropi (0.42)</text>\n"</g>
+<g id='164'><polyline id='polyline164' points='1220.000000 1692.600000, 1050.000000 1692.600000, 1050.000000 1659.000000'/>
+<circle id='circle164' cx='1220' cy='1692' r='-8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ochrobactrum pituitosum" x="1235" y="1697.93333333334">Ochrobactrum pituitosum (0.36)</text>\n"</g>
+<circle id='circle19' cx='1050' cy='1659' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='169'><polyline id='polyline169' points='1050.000000 1748.600000, 880.000000 1748.600000, 880.000000 1703.800000'/>
+<g id='170'><polyline id='polyline170' points='1220.000000 1715.000000, 1050.000000 1715.000000, 1050.000000 1748.600000'/>
+<circle id='circle170' cx='1220' cy='1715' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brucella pinnipedialis" x="1235" y="1720.33333333334">Brucella pinnipedialis (0.34)</text>\n"</g>
+<g id='367'><polyline id='polyline367' points='1220.000000 1737.400000, 1050.000000 1737.400000, 1050.000000 1748.600000'/>
+<circle id='circle367' cx='1220' cy='1737' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brucella sp. 09RB8910" x="1235" y="1742.73333333334">Brucella sp. 09RB8910 (0.06)</text>\n"</g>
+<g id='469'><polyline id='polyline469' points='1220.000000 1759.800000, 1050.000000 1759.800000, 1050.000000 1748.600000'/>
+<circle id='circle469' cx='1220' cy='1759' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brucella sp. 141012304" x="1235" y="1765.13333333334">Brucella sp. 141012304 (0.03)</text>\n"</g>
+<g id='548'><polyline id='polyline548' points='1220.000000 1782.200000, 1050.000000 1782.200000, 1050.000000 1748.600000'/>
+<circle id='circle548' cx='1220' cy='1782' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brucella sp. 09RB8471" x="1235" y="1787.53333333334">Brucella sp. 09RB8471 (0.02)</text>\n"</g>
+<circle id='circle169' cx='1050' cy='1748' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle18' cx='880' cy='1703' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='57'><polyline id='polyline57' points='880.000000 1832.600000, 710.000000 1832.600000, 710.000000 2359.000000'/>
+<g id='58'><polyline id='polyline58' points='1050.000000 1815.800000, 880.000000 1815.800000, 880.000000 1832.600000'/>
+<g id='59'><polyline id='polyline59' points='1220.000000 1804.600000, 1050.000000 1804.600000, 1050.000000 1815.800000'/>
+<circle id='circle59' cx='1220' cy='1804' r='4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bosea robiniae" x="1235" y="1809.93333333334">Bosea robiniae (1.75)</text>\n"</g>
+<g id='494'><polyline id='polyline494' points='1220.000000 1827.000000, 1050.000000 1827.000000, 1050.000000 1815.800000'/>
+<circle id='circle494' cx='1220' cy='1827' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bosea thiooxidans" x="1235" y="1832.33333333334">Bosea thiooxidans (0.03)</text>\n"</g>
+<circle id='circle58' cx='1050' cy='1815' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='389'><polyline id='polyline389' points='1050.000000 1849.400000, 880.000000 1849.400000, 880.000000 1832.600000'/>
+<g id='390'><polyline id='polyline390' points='1220.000000 1849.400000, 1050.000000 1849.400000, 1050.000000 1849.400000'/>
+<circle id='circle390' cx='1220' cy='1849' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Tardiphaga robiniae" x="1235" y="1854.73333333334">Tardiphaga robiniae (0.05)</text>\n"</g>
+<circle id='circle389' cx='1050' cy='1849' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle57' cx='880' cy='1832' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='65'><polyline id='polyline65' points='880.000000 2129.400000, 710.000000 2129.400000, 710.000000 2359.000000'/>
+<g id='66'><polyline id='polyline66' points='1050.000000 1916.600000, 880.000000 1916.600000, 880.000000 2129.400000'/>
+<g id='67'><polyline id='polyline67' points='1220.000000 1871.800000, 1050.000000 1871.800000, 1050.000000 1916.600000'/>
+<circle id='circle67' cx='1220' cy='1871' r='3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrobacterium fabrum" x="1235" y="1877.13333333334">Agrobacterium fabrum (1.50)</text>\n"</g>
+<g id='96'><polyline id='polyline96' points='1220.000000 1894.200000, 1050.000000 1894.200000, 1050.000000 1916.600000'/>
+<circle id='circle96' cx='1220' cy='1894' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrobacterium sp. H13-3" x="1235" y="1899.53333333334">Agrobacterium sp. H13-3 (0.96)</text>\n"</g>
+<g id='174'><polyline id='polyline174' points='1220.000000 1916.600000, 1050.000000 1916.600000, 1050.000000 1916.600000'/>
+<circle id='circle174' cx='1220' cy='1916' r='-10'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrobacterium tumefaciens" x="1235" y="1921.93333333334">Agrobacterium tumefaciens (0.31)</text>\n"</g>
+<g id='459'><polyline id='polyline459' points='1220.000000 1939.000000, 1050.000000 1939.000000, 1050.000000 1916.600000'/>
+<circle id='circle459' cx='1220' cy='1939' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrobacterium rubi" x="1235" y="1944.33333333334">Agrobacterium rubi (0.03)</text>\n"</g>
+<g id='495'><polyline id='polyline495' points='1220.000000 1961.400000, 1050.000000 1961.400000, 1050.000000 1916.600000'/>
+<circle id='circle495' cx='1220' cy='1961' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrobacterium larrymoorei" x="1235" y="1966.73333333334">Agrobacterium larrymoorei (0.03)</text>\n"</g>
+<circle id='circle66' cx='1050' cy='1916' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='199'><polyline id='polyline199' points='1050.000000 2062.200000, 880.000000 2062.200000, 880.000000 2129.400000'/>
+<g id='200'><polyline id='polyline200' points='1220.000000 1983.800000, 1050.000000 1983.800000, 1050.000000 2062.200000'/>
+<circle id='circle200' cx='1220' cy='1983' r='-13'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium sp. N113" x="1235" y="1989.13333333334">Rhizobium sp. N113 (0.22)</text>\n"</g>
+<g id='320'><polyline id='polyline320' points='1220.000000 2006.200000, 1050.000000 2006.200000, 1050.000000 2062.200000'/>
+<circle id='circle320' cx='1220' cy='2006' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium leguminosarum" x="1235" y="2011.53333333334">Rhizobium leguminosarum (0.07)</text>\n"</g>
+<g id='347'><polyline id='polyline347' points='1220.000000 2028.600000, 1050.000000 2028.600000, 1050.000000 2062.200000'/>
+<circle id='circle347' cx='1220' cy='2028' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium sp. IRBG74" x="1235" y="2033.93333333334">Rhizobium sp. IRBG74 (0.06)</text>\n"</g>
+<g id='360'><polyline id='polyline360' points='1220.000000 2051.000000, 1050.000000 2051.000000, 1050.000000 2062.200000'/>
+<circle id='circle360' cx='1220' cy='2051' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium sp. Y9" x="1235" y="2056.33333333334">Rhizobium sp. Y9 (0.06)</text>\n"</g>
+<g id='372'><polyline id='polyline372' points='1220.000000 2073.400000, 1050.000000 2073.400000, 1050.000000 2062.200000'/>
+<circle id='circle372' cx='1220' cy='2073' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium sp. S41" x="1235" y="2078.73333333334">Rhizobium sp. S41 (0.06)</text>\n"</g>
+<g id='421'><polyline id='polyline421' points='1220.000000 2095.800000, 1050.000000 2095.800000, 1050.000000 2062.200000'/>
+<circle id='circle421' cx='1220' cy='2095' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium alamii" x="1235" y="2101.13333333334">Rhizobium alamii (0.04)</text>\n"</g>
+<g id='460'><polyline id='polyline460' points='1220.000000 2118.200000, 1050.000000 2118.200000, 1050.000000 2062.200000'/>
+<circle id='circle460' cx='1220' cy='2118' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium oryzae" x="1235" y="2123.53333333334">Rhizobium oryzae (0.03)</text>\n"</g>
+<g id='532'><polyline id='polyline532' points='1220.000000 2140.600000, 1050.000000 2140.600000, 1050.000000 2062.200000'/>
+<circle id='circle532' cx='1220' cy='2140' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobium arenae" x="1235" y="2145.93333333334">Rhizobium arenae (0.02)</text>\n"</g>
+<circle id='circle199' cx='1050' cy='2062' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='265'><polyline id='polyline265' points='1050.000000 2174.200000, 880.000000 2174.200000, 880.000000 2129.400000'/>
+<g id='266'><polyline id='polyline266' points='1220.000000 2163.000000, 1050.000000 2163.000000, 1050.000000 2174.200000'/>
+<circle id='circle266' cx='1220' cy='2163' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Neorhizobium sp. NCHU2750" x="1235" y="2168.33333333334">Neorhizobium sp. NCHU2750 (0.11)</text>\n"</g>
+<g id='314'><polyline id='polyline314' points='1220.000000 2185.400000, 1050.000000 2185.400000, 1050.000000 2174.200000'/>
+<circle id='circle314' cx='1220' cy='2185' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Neorhizobium galegae" x="1235" y="2190.73333333334">Neorhizobium galegae (0.07)</text>\n"</g>
+<circle id='circle265' cx='1050' cy='2174' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='280'><polyline id='polyline280' points='1050.000000 2219.000000, 880.000000 2219.000000, 880.000000 2129.400000'/>
+<g id='281'><polyline id='polyline281' points='1220.000000 2207.800000, 1050.000000 2207.800000, 1050.000000 2219.000000'/>
+<circle id='circle281' cx='1220' cy='2207' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sinorhizobium sp. RAC02" x="1235" y="2213.13333333334">Sinorhizobium sp. RAC02 (0.09)</text>\n"</g>
+<g id='413'><polyline id='polyline413' points='1220.000000 2230.200000, 1050.000000 2230.200000, 1050.000000 2219.000000'/>
+<circle id='circle413' cx='1220' cy='2230' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sinorhizobium meliloti" x="1235" y="2235.53333333334">Sinorhizobium meliloti (0.04)</text>\n"</g>
+<circle id='circle280' cx='1050' cy='2219' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='361'><polyline id='polyline361' points='1050.000000 2275.000000, 880.000000 2275.000000, 880.000000 2129.400000'/>
+<g id='362'><polyline id='polyline362' points='1220.000000 2252.600000, 1050.000000 2252.600000, 1050.000000 2275.000000'/>
+<circle id='circle362' cx='1220' cy='2252' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kaistia adipata" x="1235" y="2257.93333333334">Kaistia adipata (0.06)</text>\n"</g>
+<g id='386'><polyline id='polyline386' points='1220.000000 2275.000000, 1050.000000 2275.000000, 1050.000000 2275.000000'/>
+<circle id='circle386' cx='1220' cy='2275' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kaistia soli" x="1235" y="2280.33333333334">Kaistia soli (0.05)</text>\n"</g>
+<g id='403'><polyline id='polyline403' points='1220.000000 2297.400000, 1050.000000 2297.400000, 1050.000000 2275.000000'/>
+<circle id='circle403' cx='1220' cy='2297' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kaistia granuli" x="1235" y="2302.73333333334">Kaistia granuli (0.05)</text>\n"</g>
+<circle id='circle361' cx='1050' cy='2275' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='406'><polyline id='polyline406' points='1050.000000 2319.800000, 880.000000 2319.800000, 880.000000 2129.400000'/>
+<g id='407'><polyline id='polyline407' points='1220.000000 2319.800000, 1050.000000 2319.800000, 1050.000000 2319.800000'/>
+<circle id='circle407' cx='1220' cy='2319' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Shinella sp. HZN7" x="1235" y="2325.13333333334">Shinella sp. HZN7 (0.05)</text>\n"</g>
+<circle id='circle406' cx='1050' cy='2319' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='541'><polyline id='polyline541' points='1050.000000 2342.200000, 880.000000 2342.200000, 880.000000 2129.400000'/>
+<g id='542'><polyline id='polyline542' points='1220.000000 2342.200000, 1050.000000 2342.200000, 1050.000000 2342.200000'/>
+<circle id='circle542' cx='1220' cy='2342' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pararhizobium polonicum" x="1235" y="2347.53333333334">Pararhizobium polonicum (0.02)</text>\n"</g>
+<circle id='circle541' cx='1050' cy='2342' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle65' cx='880' cy='2129' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='102'><polyline id='polyline102' points='880.000000 2387.000000, 710.000000 2387.000000, 710.000000 2359.000000'/>
+<g id='103'><polyline id='polyline103' points='1050.000000 2387.000000, 880.000000 2387.000000, 880.000000 2387.000000'/>
+<g id='104'><polyline id='polyline104' points='1220.000000 2364.600000, 1050.000000 2364.600000, 1050.000000 2387.000000'/>
+<circle id='circle104' cx='1220' cy='2364' r='-1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Aureimonas altamirensis" x="1235" y="2369.93333333334">Aureimonas altamirensis (0.89)</text>\n"</g>
+<g id='508'><polyline id='polyline508' points='1220.000000 2387.000000, 1050.000000 2387.000000, 1050.000000 2387.000000'/>
+<circle id='circle508' cx='1220' cy='2387' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Aureimonas frigidaquae" x="1235" y="2392.33333333334">Aureimonas frigidaquae (0.02)</text>\n"</g>
+<g id='632'><polyline id='polyline632' points='1220.000000 2409.400000, 1050.000000 2409.400000, 1050.000000 2387.000000'/>
+<circle id='circle632' cx='1220' cy='2409' r='-39'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Aureimonas sp. AU20" x="1235" y="2414.73333333334">Aureimonas sp. AU20 (0.01)</text>\n"</g>
+<circle id='circle103' cx='1050' cy='2387' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle102' cx='880' cy='2387' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='147'><polyline id='polyline147' points='880.000000 2611.000000, 710.000000 2611.000000, 710.000000 2359.000000'/>
+<g id='148'><polyline id='polyline148' points='1050.000000 2543.800000, 880.000000 2543.800000, 880.000000 2611.000000'/>
+<g id='149'><polyline id='polyline149' points='1220.000000 2431.800000, 1050.000000 2431.800000, 1050.000000 2543.800000'/>
+<circle id='circle149' cx='1220' cy='2431' r='-6'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia riboflavina" x="1235" y="2437.13333333334">Devosia riboflavina (0.47)</text>\n"</g>
+<g id='275'><polyline id='polyline275' points='1220.000000 2454.200000, 1050.000000 2454.200000, 1050.000000 2543.800000'/>
+<circle id='circle275' cx='1220' cy='2454' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia psychrophila" x="1235" y="2459.53333333334">Devosia psychrophila (0.11)</text>\n"</g>
+<g id='282'><polyline id='polyline282' points='1220.000000 2476.600000, 1050.000000 2476.600000, 1050.000000 2543.800000'/>
+<circle id='circle282' cx='1220' cy='2476' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia limi" x="1235" y="2481.93333333334">Devosia limi (0.09)</text>\n"</g>
+<g id='339'><polyline id='polyline339' points='1220.000000 2499.000000, 1050.000000 2499.000000, 1050.000000 2543.800000'/>
+<circle id='circle339' cx='1220' cy='2499' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia soli" x="1235" y="2504.33333333334">Devosia soli (0.06)</text>\n"</g>
+<g id='376'><polyline id='polyline376' points='1220.000000 2521.400000, 1050.000000 2521.400000, 1050.000000 2543.800000'/>
+<circle id='circle376' cx='1220' cy='2521' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia chinhatensis" x="1235" y="2526.73333333334">Devosia chinhatensis (0.06)</text>\n"</g>
+<g id='414'><polyline id='polyline414' points='1220.000000 2543.800000, 1050.000000 2543.800000, 1050.000000 2543.800000'/>
+<circle id='circle414' cx='1220' cy='2543' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia epidermidihirudinis" x="1235" y="2549.13333333334">Devosia epidermidihirudinis (0.04)</text>\n"</g>
+<g id='425'><polyline id='polyline425' points='1220.000000 2566.200000, 1050.000000 2566.200000, 1050.000000 2543.800000'/>
+<circle id='circle425' cx='1220' cy='2566' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia insulae" x="1235" y="2571.53333333334">Devosia insulae (0.04)</text>\n"</g>
+<g id='462'><polyline id='polyline462' points='1220.000000 2588.600000, 1050.000000 2588.600000, 1050.000000 2543.800000'/>
+<circle id='circle462' cx='1220' cy='2588' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia crocina" x="1235" y="2593.93333333334">Devosia crocina (0.03)</text>\n"</g>
+<g id='487'><polyline id='polyline487' points='1220.000000 2611.000000, 1050.000000 2611.000000, 1050.000000 2543.800000'/>
+<circle id='circle487' cx='1220' cy='2611' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia lucknowensis" x="1235" y="2616.33333333334">Devosia lucknowensis (0.03)</text>\n"</g>
+<g id='500'><polyline id='polyline500' points='1220.000000 2633.400000, 1050.000000 2633.400000, 1050.000000 2543.800000'/>
+<circle id='circle500' cx='1220' cy='2633' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia sp. I507" x="1235" y="2638.73333333334">Devosia sp. I507 (0.02)</text>\n"</g>
+<g id='601'><polyline id='polyline601' points='1220.000000 2655.800000, 1050.000000 2655.800000, 1050.000000 2543.800000'/>
+<circle id='circle601' cx='1220' cy='2655' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Devosia sp. A16" x="1235" y="2661.13333333334">Devosia sp. A16 (0.02)</text>\n"</g>
+<circle id='circle148' cx='1050' cy='2543' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='374'><polyline id='polyline374' points='1050.000000 2678.200000, 880.000000 2678.200000, 880.000000 2611.000000'/>
+<g id='375'><polyline id='polyline375' points='1220.000000 2678.200000, 1050.000000 2678.200000, 1050.000000 2678.200000'/>
+<circle id='circle375' cx='1220' cy='2678' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pelagibacterium halotolerans" x="1235" y="2683.53333333334">Pelagibacterium halotolerans (0.06)</text>\n"</g>
+<circle id='circle374' cx='1050' cy='2678' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle147' cx='880' cy='2611' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='228'><polyline id='polyline228' points='880.000000 2756.600000, 710.000000 2756.600000, 710.000000 2359.000000'/>
+<g id='229'><polyline id='polyline229' points='1050.000000 2711.800000, 880.000000 2711.800000, 880.000000 2756.600000'/>
+<g id='230'><polyline id='polyline230' points='1220.000000 2700.600000, 1050.000000 2700.600000, 1050.000000 2711.800000'/>
+<circle id='circle230' cx='1220' cy='2700' r='-15'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylorubrum extorquens" x="1235" y="2705.93333333334">Methylorubrum extorquens (0.16)</text>\n"</g>
+<g id='313'><polyline id='polyline313' points='1220.000000 2723.000000, 1050.000000 2723.000000, 1050.000000 2711.800000'/>
+<circle id='circle313' cx='1220' cy='2723' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylorubrum zatmanii" x="1235" y="2728.33333333334">Methylorubrum zatmanii (0.07)</text>\n"</g>
+<circle id='circle229' cx='1050' cy='2711' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='404'><polyline id='polyline404' points='1050.000000 2801.400000, 880.000000 2801.400000, 880.000000 2756.600000'/>
+<g id='405'><polyline id='polyline405' points='1220.000000 2745.400000, 1050.000000 2745.400000, 1050.000000 2801.400000'/>
+<circle id='circle405' cx='1220' cy='2745' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium radiotolerans" x="1235" y="2750.73333333334">Methylobacterium radiotolerans (0.05)</text>\n"</g>
+<g id='468'><polyline id='polyline468' points='1220.000000 2767.800000, 1050.000000 2767.800000, 1050.000000 2801.400000'/>
+<circle id='circle468' cx='1220' cy='2767' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium sp. C1" x="1235" y="2773.13333333334">Methylobacterium sp. C1 (0.03)</text>\n"</g>
+<g id='547'><polyline id='polyline547' points='1220.000000 2790.200000, 1050.000000 2790.200000, 1050.000000 2801.400000'/>
+<circle id='circle547' cx='1220' cy='2790' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium gossipiicola" x="1235" y="2795.53333333334">Methylobacterium gossipiicola (0.02)</text>\n"</g>
+<g id='563'><polyline id='polyline563' points='1220.000000 2812.600000, 1050.000000 2812.600000, 1050.000000 2801.400000'/>
+<circle id='circle563' cx='1220' cy='2812' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium oryzae" x="1235" y="2817.93333333334">Methylobacterium oryzae (0.02)</text>\n"</g>
+<g id='574'><polyline id='polyline574' points='1220.000000 2835.000000, 1050.000000 2835.000000, 1050.000000 2801.400000'/>
+<circle id='circle574' cx='1220' cy='2835' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium sp. XJLM" x="1235" y="2840.33333333334">Methylobacterium sp. XJLM (0.02)</text>\n"</g>
+<g id='576'><polyline id='polyline576' points='1220.000000 2857.400000, 1050.000000 2857.400000, 1050.000000 2801.400000'/>
+<circle id='circle576' cx='1220' cy='2857' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacterium phyllostachyos" x="1235" y="2862.73333333334">Methylobacterium phyllostachyos (0.02)</text>\n"</g>
+<circle id='circle404' cx='1050' cy='2801' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle228' cx='880' cy='2756' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='261'><polyline id='polyline261' points='880.000000 2891.000000, 710.000000 2891.000000, 710.000000 2359.000000'/>
+<g id='262'><polyline id='polyline262' points='1050.000000 2879.800000, 880.000000 2879.800000, 880.000000 2891.000000'/>
+<g id='263'><polyline id='polyline263' points='1220.000000 2879.800000, 1050.000000 2879.800000, 1050.000000 2879.800000'/>
+<circle id='circle263' cx='1220' cy='2879' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Starkeya novella" x="1235" y="2885.13333333334">Starkeya novella (0.11)</text>\n"</g>
+<circle id='circle262' cx='1050' cy='2879' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='289'><polyline id='polyline289' points='1050.000000 2902.200000, 880.000000 2902.200000, 880.000000 2891.000000'/>
+<g id='290'><polyline id='polyline290' points='1220.000000 2902.200000, 1050.000000 2902.200000, 1050.000000 2902.200000'/>
+<circle id='circle290' cx='1220' cy='2902' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ancylobacter rudongensis" x="1235" y="2907.53333333334">Ancylobacter rudongensis (0.09)</text>\n"</g>
+<circle id='circle289' cx='1050' cy='2902' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle261' cx='880' cy='2891' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='553'><polyline id='polyline553' points='880.000000 2969.400000, 710.000000 2969.400000, 710.000000 2359.000000'/>
+<g id='554'><polyline id='polyline554' points='1050.000000 2947.000000, 880.000000 2947.000000, 880.000000 2969.400000'/>
+<g id='555'><polyline id='polyline555' points='1220.000000 2924.600000, 1050.000000 2924.600000, 1050.000000 2947.000000'/>
+<circle id='circle555' cx='1220' cy='2924' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mesorhizobium loti" x="1235" y="2929.93333333334">Mesorhizobium loti (0.02)</text>\n"</g>
+<g id='600'><polyline id='polyline600' points='1220.000000 2947.000000, 1050.000000 2947.000000, 1050.000000 2947.000000'/>
+<circle id='circle600' cx='1220' cy='2947' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mesorhizobium sp. WSM1497" x="1235" y="2952.33333333334">Mesorhizobium sp. WSM1497 (0.02)</text>\n"</g>
+<g id='606'><polyline id='polyline606' points='1220.000000 2969.400000, 1050.000000 2969.400000, 1050.000000 2947.000000'/>
+<circle id='circle606' cx='1220' cy='2969' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mesorhizobium plurifarium" x="1235" y="2974.73333333334">Mesorhizobium plurifarium (0.01)</text>\n"</g>
+<circle id='circle554' cx='1050' cy='2947' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='607'><polyline id='polyline607' points='1050.000000 2991.800000, 880.000000 2991.800000, 880.000000 2969.400000'/>
+<g id='608'><polyline id='polyline608' points='1220.000000 2991.800000, 1050.000000 2991.800000, 1050.000000 2991.800000'/>
+<circle id='circle608' cx='1220' cy='2991' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nitratireductor soli" x="1235" y="2997.13333333334">Nitratireductor soli (0.01)</text>\n"</g>
+<circle id='circle607' cx='1050' cy='2991' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle553' cx='880' cy='2969' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='622'><polyline id='polyline622' points='880.000000 3014.200000, 710.000000 3014.200000, 710.000000 2359.000000'/>
+<g id='623'><polyline id='polyline623' points='1050.000000 3014.200000, 880.000000 3014.200000, 880.000000 3014.200000'/>
+<g id='624'><polyline id='polyline624' points='1220.000000 3014.200000, 1050.000000 3014.200000, 1050.000000 3014.200000'/>
+<circle id='circle624' cx='1220' cy='3014' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudorhodoplanes sinuspersici" x="1235" y="3019.53333333334">Pseudorhodoplanes sinuspersici (0.01)</text>\n"</g>
+<circle id='circle623' cx='1050' cy='3014' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle622' cx='880' cy='3014' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle17' cx='710' cy='2359' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='28'><polyline id='polyline28' points='710.000000 3036.600000, 540.000000 3036.600000, 540.000000 3159.800000'/>
+<g id='29'><polyline id='polyline29' points='880.000000 3036.600000, 710.000000 3036.600000, 710.000000 3036.600000'/>
+<g id='30'><polyline id='polyline30' points='1050.000000 3036.600000, 880.000000 3036.600000, 880.000000 3036.600000'/>
+<g id='31'><polyline id='polyline31' points='1220.000000 3036.600000, 1050.000000 3036.600000, 1050.000000 3036.600000'/>
+<circle id='circle31' cx='1220' cy='3036' r='12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Ketogulonicigenium vulgare" x="1235" y="3041.93333333334">Ketogulonicigenium vulgare (4.23)</text>\n"</g>
+<circle id='circle30' cx='1050' cy='3036' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle29' cx='880' cy='3036' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle28' cx='710' cy='3036' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='107'><polyline id='polyline107' points='710.000000 3490.200000, 540.000000 3490.200000, 540.000000 3159.800000'/>
+<g id='108'><polyline id='polyline108' points='880.000000 3490.200000, 710.000000 3490.200000, 710.000000 3490.200000'/>
+<g id='109'><polyline id='polyline109' points='1050.000000 3238.200000, 880.000000 3238.200000, 880.000000 3490.200000'/>
+<g id='110'><polyline id='polyline110' points='1220.000000 3059.000000, 1050.000000 3059.000000, 1050.000000 3238.200000'/>
+<circle id='circle110' cx='1220' cy='3059' r='-1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas taxi" x="1235" y="3064.33333333334">Sphingomonas taxi (0.86)</text>\n"</g>
+<g id='131'><polyline id='polyline131' points='1220.000000 3081.400000, 1050.000000 3081.400000, 1050.000000 3238.200000'/>
+<circle id='circle131' cx='1220' cy='3081' r='-3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas phyllosphaerae" x="1235" y="3086.73333333334">Sphingomonas phyllosphaerae (0.64)</text>\n"</g>
+<g id='235'><polyline id='polyline235' points='1220.000000 3103.800000, 1050.000000 3103.800000, 1050.000000 3238.200000'/>
+<circle id='circle235' cx='1220' cy='3103' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas panacis" x="1235" y="3109.13333333334">Sphingomonas panacis (0.15)</text>\n"</g>
+<g id='279'><polyline id='polyline279' points='1220.000000 3126.200000, 1050.000000 3126.200000, 1050.000000 3238.200000'/>
+<circle id='circle279' cx='1220' cy='3126' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas rubra" x="1235" y="3131.53333333334">Sphingomonas rubra (0.09)</text>\n"</g>
+<g id='388'><polyline id='polyline388' points='1220.000000 3148.600000, 1050.000000 3148.600000, 1050.000000 3238.200000'/>
+<circle id='circle388' cx='1220' cy='3148' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas sp. LM7" x="1235" y="3153.93333333334">Sphingomonas sp. LM7 (0.05)</text>\n"</g>
+<g id='410'><polyline id='polyline410' points='1220.000000 3171.000000, 1050.000000 3171.000000, 1050.000000 3238.200000'/>
+<circle id='circle410' cx='1220' cy='3171' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas wittichii" x="1235" y="3176.33333333334">Sphingomonas wittichii (0.04)</text>\n"</g>
+<g id='432'><polyline id='polyline432' points='1220.000000 3193.400000, 1050.000000 3193.400000, 1050.000000 3238.200000'/>
+<circle id='circle432' cx='1220' cy='3193' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas melonis" x="1235" y="3198.73333333334">Sphingomonas melonis (0.04)</text>\n"</g>
+<g id='472'><polyline id='polyline472' points='1220.000000 3215.800000, 1050.000000 3215.800000, 1050.000000 3238.200000'/>
+<circle id='circle472' cx='1220' cy='3215' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas pituitosa" x="1235" y="3221.13333333334">Sphingomonas pituitosa (0.03)</text>\n"</g>
+<g id='477'><polyline id='polyline477' points='1220.000000 3238.200000, 1050.000000 3238.200000, 1050.000000 3238.200000'/>
+<circle id='circle477' cx='1220' cy='3238' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas sp. NIC1" x="1235" y="3243.53333333334">Sphingomonas sp. NIC1 (0.03)</text>\n"</g>
+<g id='481'><polyline id='polyline481' points='1220.000000 3260.600000, 1050.000000 3260.600000, 1050.000000 3238.200000'/>
+<circle id='circle481' cx='1220' cy='3260' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas adhaesiva" x="1235" y="3265.93333333334">Sphingomonas adhaesiva (0.03)</text>\n"</g>
+<g id='514'><polyline id='polyline514' points='1220.000000 3283.000000, 1050.000000 3283.000000, 1050.000000 3238.200000'/>
+<circle id='circle514' cx='1220' cy='3283' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas sp. Cra20" x="1235" y="3288.33333333334">Sphingomonas sp. Cra20 (0.02)</text>\n"</g>
+<g id='525'><polyline id='polyline525' points='1220.000000 3305.400000, 1050.000000 3305.400000, 1050.000000 3238.200000'/>
+<circle id='circle525' cx='1220' cy='3305' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas dokdonensis" x="1235" y="3310.73333333334">Sphingomonas dokdonensis (0.02)</text>\n"</g>
+<g id='568'><polyline id='polyline568' points='1220.000000 3327.800000, 1050.000000 3327.800000, 1050.000000 3238.200000'/>
+<circle id='circle568' cx='1220' cy='3327' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas sanxanigenens" x="1235" y="3333.13333333334">Sphingomonas sanxanigenens (0.02)</text>\n"</g>
+<g id='569'><polyline id='polyline569' points='1220.000000 3350.200000, 1050.000000 3350.200000, 1050.000000 3238.200000'/>
+<circle id='circle569' cx='1220' cy='3350' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas sp. LK11" x="1235" y="3355.53333333334">Sphingomonas sp. LK11 (0.02)</text>\n"</g>
+<g id='570'><polyline id='polyline570' points='1220.000000 3372.600000, 1050.000000 3372.600000, 1050.000000 3238.200000'/>
+<circle id='circle570' cx='1220' cy='3372' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas hankookensis" x="1235" y="3377.93333333334">Sphingomonas hankookensis (0.02)</text>\n"</g>
+<g id='582'><polyline id='polyline582' points='1220.000000 3395.000000, 1050.000000 3395.000000, 1050.000000 3238.200000'/>
+<circle id='circle582' cx='1220' cy='3395' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas haloaromaticamans" x="1235" y="3400.33333333334">Sphingomonas haloaromaticamans (0.02)</text>\n"</g>
+<g id='605'><polyline id='polyline605' points='1220.000000 3417.400000, 1050.000000 3417.400000, 1050.000000 3238.200000'/>
+<circle id='circle605' cx='1220' cy='3417' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingomonas echinoides" x="1235" y="3422.73333333334">Sphingomonas echinoides (0.01)</text>\n"</g>
+<circle id='circle109' cx='1050' cy='3238' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='188'><polyline id='polyline188' points='1050.000000 3495.800000, 880.000000 3495.800000, 880.000000 3490.200000'/>
+<g id='189'><polyline id='polyline189' points='1220.000000 3439.800000, 1050.000000 3439.800000, 1050.000000 3495.800000'/>
+<circle id='circle189' cx='1220' cy='3439' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium sp. YG1" x="1235" y="3445.13333333334">Sphingobium sp. YG1 (0.24)</text>\n"</g>
+<g id='302'><polyline id='polyline302' points='1220.000000 3462.200000, 1050.000000 3462.200000, 1050.000000 3495.800000'/>
+<circle id='circle302' cx='1220' cy='3462' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium yanoikuyae" x="1235" y="3467.53333333334">Sphingobium yanoikuyae (0.09)</text>\n"</g>
+<g id='397'><polyline id='polyline397' points='1220.000000 3484.600000, 1050.000000 3484.600000, 1050.000000 3495.800000'/>
+<circle id='circle397' cx='1220' cy='3484' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium sp. SYK-6" x="1235" y="3489.93333333334">Sphingobium sp. SYK-6 (0.05)</text>\n"</g>
+<g id='552'><polyline id='polyline552' points='1220.000000 3507.000000, 1050.000000 3507.000000, 1050.000000 3495.800000'/>
+<circle id='circle552' cx='1220' cy='3507' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium hydrophobicum" x="1235" y="3512.33333333334">Sphingobium hydrophobicum (0.02)</text>\n"</g>
+<g id='597'><polyline id='polyline597' points='1220.000000 3529.400000, 1050.000000 3529.400000, 1050.000000 3495.800000'/>
+<circle id='circle597' cx='1220' cy='3529' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium sp. RAC03" x="1235" y="3534.73333333334">Sphingobium sp. RAC03 (0.02)</text>\n"</g>
+<g id='609'><polyline id='polyline609' points='1220.000000 3551.800000, 1050.000000 3551.800000, 1050.000000 3495.800000'/>
+<circle id='circle609' cx='1220' cy='3551' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobium phenoxybenzoativorans" x="1235" y="3557.13333333334">Sphingobium phenoxybenzoativorans (0.01)</text>\n"</g>
+<circle id='circle188' cx='1050' cy='3495' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='190'><polyline id='polyline190' points='1050.000000 3630.200000, 880.000000 3630.200000, 880.000000 3490.200000'/>
+<g id='191'><polyline id='polyline191' points='1220.000000 3574.200000, 1050.000000 3574.200000, 1050.000000 3630.200000'/>
+<circle id='circle191' cx='1220' cy='3574' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis macrogoltabida" x="1235" y="3579.53333333334">Sphingopyxis macrogoltabida (0.23)</text>\n"</g>
+<g id='271'><polyline id='polyline271' points='1220.000000 3596.600000, 1050.000000 3596.600000, 1050.000000 3630.200000'/>
+<circle id='circle271' cx='1220' cy='3596' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis witflariensis" x="1235" y="3601.93333333334">Sphingopyxis witflariensis (0.11)</text>\n"</g>
+<g id='319'><polyline id='polyline319' points='1220.000000 3619.000000, 1050.000000 3619.000000, 1050.000000 3630.200000'/>
+<circle id='circle319' cx='1220' cy='3619' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis fribergensis" x="1235" y="3624.33333333334">Sphingopyxis fribergensis (0.07)</text>\n"</g>
+<g id='557'><polyline id='polyline557' points='1220.000000 3641.400000, 1050.000000 3641.400000, 1050.000000 3630.200000'/>
+<circle id='circle557' cx='1220' cy='3641' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis sp. QXT-31" x="1235" y="3646.73333333334">Sphingopyxis sp. QXT-31 (0.02)</text>\n"</g>
+<g id='580'><polyline id='polyline580' points='1220.000000 3663.800000, 1050.000000 3663.800000, 1050.000000 3630.200000'/>
+<circle id='circle580' cx='1220' cy='3663' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis sp. EG6" x="1235" y="3669.13333333334">Sphingopyxis sp. EG6 (0.02)</text>\n"</g>
+<g id='593'><polyline id='polyline593' points='1220.000000 3686.200000, 1050.000000 3686.200000, 1050.000000 3630.200000'/>
+<circle id='circle593' cx='1220' cy='3686' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingopyxis alaskensis" x="1235" y="3691.53333333334">Sphingopyxis alaskensis (0.02)</text>\n"</g>
+<circle id='circle190' cx='1050' cy='3630' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='276'><polyline id='polyline276' points='1050.000000 3742.200000, 880.000000 3742.200000, 880.000000 3490.200000'/>
+<g id='277'><polyline id='polyline277' points='1220.000000 3708.600000, 1050.000000 3708.600000, 1050.000000 3742.200000'/>
+<circle id='circle277' cx='1220' cy='3708' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Novosphingobium lindaniclasticum" x="1235" y="3713.93333333334">Novosphingobium lindaniclasticum (0.10)</text>\n"</g>
+<g id='301'><polyline id='polyline301' points='1220.000000 3731.000000, 1050.000000 3731.000000, 1050.000000 3742.200000'/>
+<circle id='circle301' cx='1220' cy='3731' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Novosphingobium barchaimii" x="1235" y="3736.33333333334">Novosphingobium barchaimii (0.09)</text>\n"</g>
+<g id='309'><polyline id='polyline309' points='1220.000000 3753.400000, 1050.000000 3753.400000, 1050.000000 3742.200000'/>
+<circle id='circle309' cx='1220' cy='3753' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Novosphingobium resinovorum" x="1235" y="3758.73333333334">Novosphingobium resinovorum (0.08)</text>\n"</g>
+<g id='330'><polyline id='polyline330' points='1220.000000 3775.800000, 1050.000000 3775.800000, 1050.000000 3742.200000'/>
+<circle id='circle330' cx='1220' cy='3775' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Novosphingobium sp. P6W" x="1235" y="3781.13333333334">Novosphingobium sp. P6W (0.07)</text>\n"</g>
+<circle id='circle276' cx='1050' cy='3742' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle108' cx='880' cy='3490' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle107' cx='710' cy='3490' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='214'><polyline id='polyline214' points='710.000000 3876.600000, 540.000000 3876.600000, 540.000000 3159.800000'/>
+<g id='215'><polyline id='polyline215' points='880.000000 3876.600000, 710.000000 3876.600000, 710.000000 3876.600000'/>
+<g id='216'><polyline id='polyline216' points='1050.000000 3843.000000, 880.000000 3843.000000, 880.000000 3876.600000'/>
+<g id='217'><polyline id='polyline217' points='1220.000000 3798.200000, 1050.000000 3798.200000, 1050.000000 3843.000000'/>
+<circle id='circle217' cx='1220' cy='3798' r='-14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brevundimonas sp. GW460-12-10-14-LB2" x="1235" y="3803.53333333334">Brevundimonas sp. GW460-12-10-14-LB2 (0.19)</text>\n"</g>
+<g id='236'><polyline id='polyline236' points='1220.000000 3820.600000, 1050.000000 3820.600000, 1050.000000 3843.000000'/>
+<circle id='circle236' cx='1220' cy='3820' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brevundimonas vesicularis" x="1235" y="3825.93333333334">Brevundimonas vesicularis (0.15)</text>\n"</g>
+<g id='326'><polyline id='polyline326' points='1220.000000 3843.000000, 1050.000000 3843.000000, 1050.000000 3843.000000'/>
+<circle id='circle326' cx='1220' cy='3843' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brevundimonas naejangsanensis" x="1235" y="3848.33333333334">Brevundimonas naejangsanensis (0.07)</text>\n"</g>
+<g id='373'><polyline id='polyline373' points='1220.000000 3865.400000, 1050.000000 3865.400000, 1050.000000 3843.000000'/>
+<circle id='circle373' cx='1220' cy='3865' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brevundimonas sp. DS20" x="1235" y="3870.73333333334">Brevundimonas sp. DS20 (0.06)</text>\n"</g>
+<g id='596'><polyline id='polyline596' points='1220.000000 3887.800000, 1050.000000 3887.800000, 1050.000000 3843.000000'/>
+<circle id='circle596' cx='1220' cy='3887' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brevundimonas subvibrioides" x="1235" y="3893.13333333334">Brevundimonas subvibrioides (0.02)</text>\n"</g>
+<circle id='circle216' cx='1050' cy='3843' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='565'><polyline id='polyline565' points='1050.000000 3910.200000, 880.000000 3910.200000, 880.000000 3876.600000'/>
+<g id='566'><polyline id='polyline566' points='1220.000000 3910.200000, 1050.000000 3910.200000, 1050.000000 3910.200000'/>
+<circle id='circle566' cx='1220' cy='3910' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Caulobacter henricii" x="1235" y="3915.53333333334">Caulobacter henricii (0.02)</text>\n"</g>
+<circle id='circle565' cx='1050' cy='3910' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle215' cx='880' cy='3876' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle214' cx='710' cy='3876' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='515'><polyline id='polyline515' points='710.000000 3960.600000, 540.000000 3960.600000, 540.000000 3159.800000'/>
+<g id='516'><polyline id='polyline516' points='880.000000 3960.600000, 710.000000 3960.600000, 710.000000 3960.600000'/>
+<g id='517'><polyline id='polyline517' points='1050.000000 3943.800000, 880.000000 3943.800000, 880.000000 3960.600000'/>
+<g id='518'><polyline id='polyline518' points='1220.000000 3932.600000, 1050.000000 3932.600000, 1050.000000 3943.800000'/>
+<circle id='circle518' cx='1220' cy='3932' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Belnapia moabensis" x="1235" y="3937.93333333334">Belnapia moabensis (0.02)</text>\n"</g>
+<g id='592'><polyline id='polyline592' points='1220.000000 3955.000000, 1050.000000 3955.000000, 1050.000000 3943.800000'/>
+<circle id='circle592' cx='1220' cy='3955' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Belnapia rosea" x="1235" y="3960.33333333334">Belnapia rosea (0.02)</text>\n"</g>
+<circle id='circle517' cx='1050' cy='3943' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='577'><polyline id='polyline577' points='1050.000000 3977.400000, 880.000000 3977.400000, 880.000000 3960.600000'/>
+<g id='578'><polyline id='polyline578' points='1220.000000 3977.400000, 1050.000000 3977.400000, 1050.000000 3977.400000'/>
+<circle id='circle578' cx='1220' cy='3977' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Acetobacter pomorum" x="1235" y="3982.73333333334">Acetobacter pomorum (0.02)</text>\n"</g>
+<circle id='circle577' cx='1050' cy='3977' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle516' cx='880' cy='3960' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle515' cx='710' cy='3960' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle16' cx='540' cy='3159' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='37'><polyline id='polyline37' points='540.000000 4475.800000, 370.000000 4475.800000, 370.000000 2853.200000'/>
+<g id='38'><polyline id='polyline38' points='710.000000 4319.000000, 540.000000 4319.000000, 540.000000 4475.800000'/>
+<g id='39'><polyline id='polyline39' points='880.000000 4083.800000, 710.000000 4083.800000, 710.000000 4319.000000'/>
+<g id='40'><polyline id='polyline40' points='1050.000000 4022.200000, 880.000000 4022.200000, 880.000000 4083.800000'/>
+<g id='41'><polyline id='polyline41' points='1220.000000 3999.800000, 1050.000000 3999.800000, 1050.000000 4022.200000'/>
+<circle id='circle41' cx='1220' cy='3999' r='9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Achromobacter spanius" x="1235" y="4005.13333333334">Achromobacter spanius (3.04)</text>\n"</g>
+<g id='162'><polyline id='polyline162' points='1220.000000 4022.200000, 1050.000000 4022.200000, 1050.000000 4022.200000'/>
+<circle id='circle162' cx='1220' cy='4022' r='-8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Achromobacter sp. B7" x="1235" y="4027.53333333334">Achromobacter sp. B7 (0.38)</text>\n"</g>
+<g id='543'><polyline id='polyline543' points='1220.000000 4044.600000, 1050.000000 4044.600000, 1050.000000 4022.200000'/>
+<circle id='circle543' cx='1220' cy='4044' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Achromobacter xylosoxidans" x="1235" y="4049.93333333334">Achromobacter xylosoxidans (0.02)</text>\n"</g>
+<circle id='circle40' cx='1050' cy='4022' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='111'><polyline id='polyline111' points='1050.000000 4078.200000, 880.000000 4078.200000, 880.000000 4083.800000'/>
+<g id='112'><polyline id='polyline112' points='1220.000000 4067.000000, 1050.000000 4067.000000, 1050.000000 4078.200000'/>
+<circle id='circle112' cx='1220' cy='4067' r='-1'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Advenella kashmirensis" x="1235" y="4072.33333333334">Advenella kashmirensis (0.86)</text>\n"</g>
+<g id='291'><polyline id='polyline291' points='1220.000000 4089.400000, 1050.000000 4089.400000, 1050.000000 4078.200000'/>
+<circle id='circle291' cx='1220' cy='4089' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Advenella mimigardefordensis" x="1235" y="4094.73333333334">Advenella mimigardefordensis (0.09)</text>\n"</g>
+<circle id='circle111' cx='1050' cy='4078' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='218'><polyline id='polyline218' points='1050.000000 4145.400000, 880.000000 4145.400000, 880.000000 4083.800000'/>
+<g id='219'><polyline id='polyline219' points='1220.000000 4111.800000, 1050.000000 4111.800000, 1050.000000 4145.400000'/>
+<circle id='circle219' cx='1220' cy='4111' r='-14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bordetella bronchiseptica" x="1235" y="4117.13333333334">Bordetella bronchiseptica (0.19)</text>\n"</g>
+<g id='492'><polyline id='polyline492' points='1220.000000 4134.200000, 1050.000000 4134.200000, 1050.000000 4145.400000'/>
+<circle id='circle492' cx='1220' cy='4134' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bordetella genomosp. 8" x="1235" y="4139.53333333334">Bordetella genomosp. 8 (0.03)</text>\n"</g>
+<g id='538'><polyline id='polyline538' points='1220.000000 4156.600000, 1050.000000 4156.600000, 1050.000000 4145.400000'/>
+<circle id='circle538' cx='1220' cy='4156' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bordetella petrii" x="1235" y="4161.93333333334">Bordetella petrii (0.02)</text>\n"</g>
+<g id='591'><polyline id='polyline591' points='1220.000000 4179.000000, 1050.000000 4179.000000, 1050.000000 4145.400000'/>
+<circle id='circle591' cx='1220' cy='4179' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Bordetella flabilis" x="1235" y="4184.33333333334">Bordetella flabilis (0.02)</text>\n"</g>
+<circle id='circle218' cx='1050' cy='4145' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle39' cx='880' cy='4083' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='92'><polyline id='polyline92' points='880.000000 4291.000000, 710.000000 4291.000000, 710.000000 4319.000000'/>
+<g id='93'><polyline id='polyline93' points='1050.000000 4246.200000, 880.000000 4246.200000, 880.000000 4291.000000'/>
+<g id='94'><polyline id='polyline94' points='1220.000000 4201.400000, 1050.000000 4201.400000, 1050.000000 4246.200000'/>
+<circle id='circle94' cx='1220' cy='4201' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Massilia timonae" x="1235" y="4206.73333333334">Massilia timonae (0.99)</text>\n"</g>
+<g id='493'><polyline id='polyline493' points='1220.000000 4223.800000, 1050.000000 4223.800000, 1050.000000 4246.200000'/>
+<circle id='circle493' cx='1220' cy='4223' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Massilia yuzhufengensis" x="1235" y="4229.13333333334">Massilia yuzhufengensis (0.03)</text>\n"</g>
+<g id='521'><polyline id='polyline521' points='1220.000000 4246.200000, 1050.000000 4246.200000, 1050.000000 4246.200000'/>
+<circle id='circle521' cx='1220' cy='4246' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Massilia sp. WG5" x="1235" y="4251.53333333334">Massilia sp. WG5 (0.02)</text>\n"</g>
+<g id='546'><polyline id='polyline546' points='1220.000000 4268.600000, 1050.000000 4268.600000, 1050.000000 4246.200000'/>
+<circle id='circle546' cx='1220' cy='4268' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Massilia alkalitolerans" x="1235" y="4273.93333333334">Massilia alkalitolerans (0.02)</text>\n"</g>
+<g id='581'><polyline id='polyline581' points='1220.000000 4291.000000, 1050.000000 4291.000000, 1050.000000 4246.200000'/>
+<circle id='circle581' cx='1220' cy='4291' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Massilia putida" x="1235" y="4296.33333333334">Massilia putida (0.02)</text>\n"</g>
+<circle id='circle93' cx='1050' cy='4246' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='220'><polyline id='polyline220' points='1050.000000 4313.400000, 880.000000 4313.400000, 880.000000 4291.000000'/>
+<g id='221'><polyline id='polyline221' points='1220.000000 4313.400000, 1050.000000 4313.400000, 1050.000000 4313.400000'/>
+<circle id='circle221' cx='1220' cy='4313' r='-14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Janthinobacterium sp. Marseille" x="1235" y="4318.73333333334">Janthinobacterium sp. Marseille (0.18)</text>\n"</g>
+<circle id='circle220' cx='1050' cy='4313' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='238'><polyline id='polyline238' points='1050.000000 4335.800000, 880.000000 4335.800000, 880.000000 4291.000000'/>
+<g id='239'><polyline id='polyline239' points='1220.000000 4335.800000, 1050.000000 4335.800000, 1050.000000 4335.800000'/>
+<circle id='circle239' cx='1220' cy='4335' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Duganella zoogloeoides" x="1235" y="4341.13333333334">Duganella zoogloeoides (0.14)</text>\n"</g>
+<circle id='circle238' cx='1050' cy='4335' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle92' cx='880' cy='4291' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='268'><polyline id='polyline268' points='880.000000 4358.200000, 710.000000 4358.200000, 710.000000 4319.000000'/>
+<g id='269'><polyline id='polyline269' points='1050.000000 4358.200000, 880.000000 4358.200000, 880.000000 4358.200000'/>
+<g id='270'><polyline id='polyline270' points='1220.000000 4358.200000, 1050.000000 4358.200000, 1050.000000 4358.200000'/>
+<circle id='circle270' cx='1220' cy='4358' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhizobacter gummiphilus" x="1235" y="4363.53333333334">Rhizobacter gummiphilus (0.11)</text>\n"</g>
+<circle id='circle269' cx='1050' cy='4358' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle268' cx='880' cy='4358' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='272'><polyline id='polyline272' points='880.000000 4436.600000, 710.000000 4436.600000, 710.000000 4319.000000'/>
+<g id='273'><polyline id='polyline273' points='1050.000000 4403.000000, 880.000000 4403.000000, 880.000000 4436.600000'/>
+<g id='274'><polyline id='polyline274' points='1220.000000 4380.600000, 1050.000000 4380.600000, 1050.000000 4403.000000'/>
+<circle id='circle274' cx='1220' cy='4380' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Variovorax paradoxus" x="1235" y="4385.93333333334">Variovorax paradoxus (0.11)</text>\n"</g>
+<g id='379'><polyline id='polyline379' points='1220.000000 4403.000000, 1050.000000 4403.000000, 1050.000000 4403.000000'/>
+<circle id='circle379' cx='1220' cy='4403' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Variovorax boronicumulans" x="1235" y="4408.33333333334">Variovorax boronicumulans (0.05)</text>\n"</g>
+<g id='463'><polyline id='polyline463' points='1220.000000 4425.400000, 1050.000000 4425.400000, 1050.000000 4403.000000'/>
+<circle id='circle463' cx='1220' cy='4425' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Variovorax sp. PAMC 28711" x="1235" y="4430.73333333334">Variovorax sp. PAMC 28711 (0.03)</text>\n"</g>
+<circle id='circle273' cx='1050' cy='4403' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='334'><polyline id='polyline334' points='1050.000000 4447.800000, 880.000000 4447.800000, 880.000000 4436.600000'/>
+<g id='335'><polyline id='polyline335' points='1220.000000 4447.800000, 1050.000000 4447.800000, 1050.000000 4447.800000'/>
+<circle id='circle335' cx='1220' cy='4447' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Hylemonella gracilis" x="1235" y="4453.13333333334">Hylemonella gracilis (0.06)</text>\n"</g>
+<circle id='circle334' cx='1050' cy='4447' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='586'><polyline id='polyline586' points='1050.000000 4470.200000, 880.000000 4470.200000, 880.000000 4436.600000'/>
+<g id='587'><polyline id='polyline587' points='1220.000000 4470.200000, 1050.000000 4470.200000, 1050.000000 4470.200000'/>
+<circle id='circle587' cx='1220' cy='4470' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Hydrogenophaga palleronii" x="1235" y="4475.53333333334">Hydrogenophaga palleronii (0.02)</text>\n"</g>
+<circle id='circle586' cx='1050' cy='4470' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle272' cx='880' cy='4436' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='315'><polyline id='polyline315' points='880.000000 4492.600000, 710.000000 4492.600000, 710.000000 4319.000000'/>
+<g id='316'><polyline id='polyline316' points='1050.000000 4492.600000, 880.000000 4492.600000, 880.000000 4492.600000'/>
+<g id='317'><polyline id='polyline317' points='1220.000000 4492.600000, 1050.000000 4492.600000, 1050.000000 4492.600000'/>
+<circle id='circle317' cx='1220' cy='4492' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Xylophilus ampelinus" x="1235" y="4497.93333333334">Xylophilus ampelinus (0.07)</text>\n"</g>
+<circle id='circle316' cx='1050' cy='4492' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle315' cx='880' cy='4492' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='363'><polyline id='polyline363' points='880.000000 4554.200000, 710.000000 4554.200000, 710.000000 4319.000000'/>
+<g id='364'><polyline id='polyline364' points='1050.000000 4526.200000, 880.000000 4526.200000, 880.000000 4554.200000'/>
+<g id='365'><polyline id='polyline365' points='1220.000000 4515.000000, 1050.000000 4515.000000, 1050.000000 4526.200000'/>
+<circle id='circle365' cx='1220' cy='4515' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Burkholderia sp. PAMC 26561" x="1235" y="4520.33333333334">Burkholderia sp. PAMC 26561 (0.06)</text>\n"</g>
+<g id='474'><polyline id='polyline474' points='1220.000000 4537.400000, 1050.000000 4537.400000, 1050.000000 4526.200000'/>
+<circle id='circle474' cx='1220' cy='4537' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Burkholderia sp. PAMC 28687" x="1235" y="4542.73333333334">Burkholderia sp. PAMC 28687 (0.03)</text>\n"</g>
+<circle id='circle364' cx='1050' cy='4526' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='423'><polyline id='polyline423' points='1050.000000 4559.800000, 880.000000 4559.800000, 880.000000 4554.200000'/>
+<g id='424'><polyline id='polyline424' points='1220.000000 4559.800000, 1050.000000 4559.800000, 1050.000000 4559.800000'/>
+<circle id='circle424' cx='1220' cy='4559' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Paucimonas lemoignei" x="1235" y="4565.13333333334">Paucimonas lemoignei (0.04)</text>\n"</g>
+<circle id='circle423' cx='1050' cy='4559' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='510'><polyline id='polyline510' points='1050.000000 4582.200000, 880.000000 4582.200000, 880.000000 4554.200000'/>
+<g id='511'><polyline id='polyline511' points='1220.000000 4582.200000, 1050.000000 4582.200000, 1050.000000 4582.200000'/>
+<circle id='circle511' cx='1220' cy='4582' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Caballeronia sordidicola" x="1235" y="4587.53333333334">Caballeronia sordidicola (0.02)</text>\n"</g>
+<circle id='circle510' cx='1050' cy='4582' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle363' cx='880' cy='4554' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle38' cx='710' cy='4319' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='97'><polyline id='polyline97' points='710.000000 4632.600000, 540.000000 4632.600000, 540.000000 4475.800000'/>
+<g id='98'><polyline id='polyline98' points='880.000000 4632.600000, 710.000000 4632.600000, 710.000000 4632.600000'/>
+<g id='99'><polyline id='polyline99' points='1050.000000 4615.800000, 880.000000 4615.800000, 880.000000 4632.600000'/>
+<g id='100'><polyline id='polyline100' points='1220.000000 4604.600000, 1050.000000 4604.600000, 1050.000000 4615.800000'/>
+<circle id='circle100' cx='1220' cy='4604' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacillus rhizosphaerae" x="1235" y="4609.93333333334">Methylobacillus rhizosphaerae (0.95)</text>\n"</g>
+<g id='288'><polyline id='polyline288' points='1220.000000 4627.000000, 1050.000000 4627.000000, 1050.000000 4615.800000'/>
+<circle id='circle288' cx='1220' cy='4627' r='-20'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylobacillus glycogenes" x="1235" y="4632.33333333334">Methylobacillus glycogenes (0.09)</text>\n"</g>
+<circle id='circle99' cx='1050' cy='4615' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='583'><polyline id='polyline583' points='1050.000000 4649.400000, 880.000000 4649.400000, 880.000000 4632.600000'/>
+<g id='584'><polyline id='polyline584' points='1220.000000 4649.400000, 1050.000000 4649.400000, 1050.000000 4649.400000'/>
+<circle id='circle584' cx='1220' cy='4649' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Methylophilus rhizosphaerae" x="1235" y="4654.73333333334">Methylophilus rhizosphaerae (0.02)</text>\n"</g>
+<circle id='circle583' cx='1050' cy='4649' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle98' cx='880' cy='4632' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle97' cx='710' cy='4632' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle37' cx='540' cy='4475' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='118'><polyline id='polyline118' points='540.000000 4688.600000, 370.000000 4688.600000, 370.000000 2853.200000'/>
+<g id='119'><polyline id='polyline119' points='710.000000 4688.600000, 540.000000 4688.600000, 540.000000 4688.600000'/>
+<g id='120'><polyline id='polyline120' points='880.000000 4688.600000, 710.000000 4688.600000, 710.000000 4688.600000'/>
+<g id='121'><polyline id='polyline121' points='1050.000000 4671.800000, 880.000000 4671.800000, 880.000000 4688.600000'/>
+<g id='122'><polyline id='polyline122' points='1220.000000 4671.800000, 1050.000000 4671.800000, 1050.000000 4671.800000'/>
+<circle id='circle122' cx='1220' cy='4671' r='-3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Corallococcus coralloides" x="1235" y="4677.13333333334">Corallococcus coralloides (0.68)</text>\n"</g>
+<circle id='circle121' cx='1050' cy='4671' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='224'><polyline id='polyline224' points='1050.000000 4705.400000, 880.000000 4705.400000, 880.000000 4688.600000'/>
+<g id='225'><polyline id='polyline225' points='1220.000000 4694.200000, 1050.000000 4694.200000, 1050.000000 4705.400000'/>
+<circle id='circle225' cx='1220' cy='4694' r='-15'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Myxococcus hansupus" x="1235" y="4699.53333333333">Myxococcus hansupus (0.17)</text>\n"</g>
+<g id='631'><polyline id='polyline631' points='1220.000000 4716.600000, 1050.000000 4716.600000, 1050.000000 4705.400000'/>
+<circle id='circle631' cx='1220' cy='4716' r='-38'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Myxococcus xanthus" x="1235" y="4721.93333333333">Myxococcus xanthus (0.01)</text>\n"</g>
+<circle id='circle224' cx='1050' cy='4705' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle120' cx='880' cy='4688' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle119' cx='710' cy='4688' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle118' cx='540' cy='4688' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle3' cx='370' cy='2853' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext3' class='text-id-tag' x='240.08' y='2873.2'>Proteobacteria</text>
+</g>
+<g id='10'><polyline id='polyline10' points='370.000000 5195.400000, 200.000000 5195.400000, 200.000000 5495.700000'/>
+<g id='11'><polyline id='polyline11' points='540.000000 4839.800000, 370.000000 4839.800000, 370.000000 5195.400000'/>
+<g id='12'><polyline id='polyline12' points='710.000000 4839.800000, 540.000000 4839.800000, 540.000000 4839.800000'/>
+<g id='13'><polyline id='polyline13' points='880.000000 4839.800000, 710.000000 4839.800000, 710.000000 4839.800000'/>
+<g id='14'><polyline id='polyline14' points='1050.000000 4739.000000, 880.000000 4739.000000, 880.000000 4839.800000'/>
+<g id='15'><polyline id='polyline15' points='1220.000000 4739.000000, 1050.000000 4739.000000, 1050.000000 4739.000000'/>
+<circle id='circle15' cx='1220' cy='4739' r='16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudosphingobacterium domesticum" x="1235" y="4744.33333333333">Pseudosphingobacterium domesticum (6.40)</text>\n"</g>
+<circle id='circle14' cx='1050' cy='4739' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='138'><polyline id='polyline138' points='1050.000000 4795.000000, 880.000000 4795.000000, 880.000000 4839.800000'/>
+<g id='139'><polyline id='polyline139' points='1220.000000 4761.400000, 1050.000000 4761.400000, 1050.000000 4795.000000'/>
+<circle id='circle139' cx='1220' cy='4761' r='-5'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pedobacter agri" x="1235" y="4766.73333333333">Pedobacter agri (0.52)</text>\n"</g>
+<g id='201'><polyline id='polyline201' points='1220.000000 4783.800000, 1050.000000 4783.800000, 1050.000000 4795.000000'/>
+<circle id='circle201' cx='1220' cy='4783' r='-13'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pedobacter suwonensis" x="1235" y="4789.13333333333">Pedobacter suwonensis (0.21)</text>\n"</g>
+<g id='381'><polyline id='polyline381' points='1220.000000 4806.200000, 1050.000000 4806.200000, 1050.000000 4795.000000'/>
+<circle id='circle381' cx='1220' cy='4806' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pedobacter ginsengisoli" x="1235" y="4811.53333333333">Pedobacter ginsengisoli (0.05)</text>\n"</g>
+<g id='621'><polyline id='polyline621' points='1220.000000 4828.600000, 1050.000000 4828.600000, 1050.000000 4795.000000'/>
+<circle id='circle621' cx='1220' cy='4828' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pedobacter heparinus" x="1235" y="4833.93333333333">Pedobacter heparinus (0.01)</text>\n"</g>
+<circle id='circle138' cx='1050' cy='4795' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='175'><polyline id='polyline175' points='1050.000000 4884.600000, 880.000000 4884.600000, 880.000000 4839.800000'/>
+<g id='176'><polyline id='polyline176' points='1220.000000 4851.000000, 1050.000000 4851.000000, 1050.000000 4884.600000'/>
+<circle id='circle176' cx='1220' cy='4850' r='-10'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobacterium sp. B29" x="1235" y="4856.33333333333">Sphingobacterium sp. B29 (0.29)</text>\n"</g>
+<g id='250'><polyline id='polyline250' points='1220.000000 4873.400000, 1050.000000 4873.400000, 1050.000000 4884.600000'/>
+<circle id='circle250' cx='1220' cy='4873' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobacterium sp. G1-14" x="1235" y="4878.73333333333">Sphingobacterium sp. G1-14 (0.13)</text>\n"</g>
+<g id='342'><polyline id='polyline342' points='1220.000000 4895.800000, 1050.000000 4895.800000, 1050.000000 4884.600000'/>
+<circle id='circle342' cx='1220' cy='4895' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobacterium sp. 21" x="1235" y="4901.13333333333">Sphingobacterium sp. 21 (0.06)</text>\n"</g>
+<g id='556'><polyline id='polyline556' points='1220.000000 4918.200000, 1050.000000 4918.200000, 1050.000000 4884.600000'/>
+<circle id='circle556' cx='1220' cy='4918' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobacterium thalpophilum" x="1235" y="4923.53333333333">Sphingobacterium thalpophilum (0.02)</text>\n"</g>
+<circle id='circle175' cx='1050' cy='4884' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='549'><polyline id='polyline549' points='1050.000000 4940.600000, 880.000000 4940.600000, 880.000000 4839.800000'/>
+<g id='550'><polyline id='polyline550' points='1220.000000 4940.600000, 1050.000000 4940.600000, 1050.000000 4940.600000'/>
+<circle id='circle550' cx='1220' cy='4940' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sphingobacteriaceae bacterium GW460-11-11-14-LB5" x="1235" y="4945.93333333333">Sphingobacteriaceae bacterium GW460-11-11-14-LB5 (0.02)</text>\n"</g>
+<circle id='circle549' cx='1050' cy='4940' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle13' cx='880' cy='4839' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle12' cx='710' cy='4839' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle11' cx='540' cy='4839' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='86'><polyline id='polyline86' points='540.000000 5187.000000, 370.000000 5187.000000, 370.000000 5195.400000'/>
+<g id='87'><polyline id='polyline87' points='710.000000 5187.000000, 540.000000 5187.000000, 540.000000 5187.000000'/>
+<g id='88'><polyline id='polyline88' points='880.000000 5187.000000, 710.000000 5187.000000, 710.000000 5187.000000'/>
+<g id='89'><polyline id='polyline89' points='1050.000000 5075.000000, 880.000000 5075.000000, 880.000000 5187.000000'/>
+<g id='90'><polyline id='polyline90' points='1220.000000 4963.000000, 1050.000000 4963.000000, 1050.000000 5075.000000'/>
+<circle id='circle90' cx='1220' cy='4962' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium marinum" x="1235" y="4968.33333333333">Flavobacterium marinum (1.05)</text>\n"</g>
+<g id='202'><polyline id='polyline202' points='1220.000000 4985.400000, 1050.000000 4985.400000, 1050.000000 5075.000000'/>
+<circle id='circle202' cx='1220' cy='4985' r='-13'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium ummariense" x="1235" y="4990.73333333333">Flavobacterium ummariense (0.21)</text>\n"</g>
+<g id='310'><polyline id='polyline310' points='1220.000000 5007.800000, 1050.000000 5007.800000, 1050.000000 5075.000000'/>
+<circle id='circle310' cx='1220' cy='5007' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium subsaxonicum" x="1235" y="5013.13333333333">Flavobacterium subsaxonicum (0.08)</text>\n"</g>
+<g id='378'><polyline id='polyline378' points='1220.000000 5030.200000, 1050.000000 5030.200000, 1050.000000 5075.000000'/>
+<circle id='circle378' cx='1220' cy='5030' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium sp. HYN0086" x="1235" y="5035.53333333333">Flavobacterium sp. HYN0086 (0.05)</text>\n"</g>
+<g id='380'><polyline id='polyline380' points='1220.000000 5052.600000, 1050.000000 5052.600000, 1050.000000 5075.000000'/>
+<circle id='circle380' cx='1220' cy='5052' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium rivuli" x="1235" y="5057.93333333333">Flavobacterium rivuli (0.05)</text>\n"</g>
+<g id='383'><polyline id='polyline383' points='1220.000000 5075.000000, 1050.000000 5075.000000, 1050.000000 5075.000000'/>
+<circle id='circle383' cx='1220' cy='5074' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium sp. CJ74" x="1235" y="5080.33333333333">Flavobacterium sp. CJ74 (0.05)</text>\n"</g>
+<g id='387'><polyline id='polyline387' points='1220.000000 5097.400000, 1050.000000 5097.400000, 1050.000000 5075.000000'/>
+<circle id='circle387' cx='1220' cy='5097' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium saccharophilum" x="1235" y="5102.73333333333">Flavobacterium saccharophilum (0.05)</text>\n"</g>
+<g id='392'><polyline id='polyline392' points='1220.000000 5119.800000, 1050.000000 5119.800000, 1050.000000 5075.000000'/>
+<circle id='circle392' cx='1220' cy='5119' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium johnsoniae" x="1235" y="5125.13333333333">Flavobacterium johnsoniae (0.05)</text>\n"</g>
+<g id='497'><polyline id='polyline497' points='1220.000000 5142.200000, 1050.000000 5142.200000, 1050.000000 5075.000000'/>
+<circle id='circle497' cx='1220' cy='5142' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium noncentrifugens" x="1235" y="5147.53333333333">Flavobacterium noncentrifugens (0.03)</text>\n"</g>
+<g id='530'><polyline id='polyline530' points='1220.000000 5164.600000, 1050.000000 5164.600000, 1050.000000 5075.000000'/>
+<circle id='circle530' cx='1220' cy='5164' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium akiainvivens" x="1235" y="5169.93333333333">Flavobacterium akiainvivens (0.02)</text>\n"</g>
+<g id='575'><polyline id='polyline575' points='1220.000000 5187.000000, 1050.000000 5187.000000, 1050.000000 5075.000000'/>
+<circle id='circle575' cx='1220' cy='5186' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Flavobacterium sp. HYN0056" x="1235" y="5192.33333333333">Flavobacterium sp. HYN0056 (0.02)</text>\n"</g>
+<circle id='circle89' cx='1050' cy='5074' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='343'><polyline id='polyline343' points='1050.000000 5243.000000, 880.000000 5243.000000, 880.000000 5187.000000'/>
+<g id='344'><polyline id='polyline344' points='1220.000000 5209.400000, 1050.000000 5209.400000, 1050.000000 5243.000000'/>
+<circle id='circle344' cx='1220' cy='5209' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chryseobacterium scophthalmum" x="1235" y="5214.73333333333">Chryseobacterium scophthalmum (0.06)</text>\n"</g>
+<g id='368'><polyline id='polyline368' points='1220.000000 5231.800000, 1050.000000 5231.800000, 1050.000000 5243.000000'/>
+<circle id='circle368' cx='1220' cy='5231' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chryseobacterium halperniae" x="1235" y="5237.13333333333">Chryseobacterium halperniae (0.06)</text>\n"</g>
+<g id='478'><polyline id='polyline478' points='1220.000000 5254.200000, 1050.000000 5254.200000, 1050.000000 5243.000000'/>
+<circle id='circle478' cx='1220' cy='5254' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chryseobacterium caeni" x="1235" y="5259.53333333333">Chryseobacterium caeni (0.03)</text>\n"</g>
+<g id='585'><polyline id='polyline585' points='1220.000000 5276.600000, 1050.000000 5276.600000, 1050.000000 5243.000000'/>
+<circle id='circle585' cx='1220' cy='5276' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chryseobacterium gregarium" x="1235" y="5281.93333333333">Chryseobacterium gregarium (0.02)</text>\n"</g>
+<circle id='circle343' cx='1050' cy='5242' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='436'><polyline id='polyline436' points='1050.000000 5299.000000, 880.000000 5299.000000, 880.000000 5187.000000'/>
+<g id='437'><polyline id='polyline437' points='1220.000000 5299.000000, 1050.000000 5299.000000, 1050.000000 5299.000000'/>
+<circle id='circle437' cx='1220' cy='5298' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Moheibacter sediminis" x="1235" y="5304.33333333332">Moheibacter sediminis (0.04)</text>\n"</g>
+<circle id='circle436' cx='1050' cy='5298' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle88' cx='880' cy='5186' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle87' cx='710' cy='5186' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle86' cx='540' cy='5186' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='204'><polyline id='polyline204' points='540.000000 5411.000000, 370.000000 5411.000000, 370.000000 5195.400000'/>
+<g id='205'><polyline id='polyline205' points='710.000000 5411.000000, 540.000000 5411.000000, 540.000000 5411.000000'/>
+<g id='206'><polyline id='polyline206' points='880.000000 5321.400000, 710.000000 5321.400000, 710.000000 5411.000000'/>
+<g id='207'><polyline id='polyline207' points='1050.000000 5321.400000, 880.000000 5321.400000, 880.000000 5321.400000'/>
+<g id='208'><polyline id='polyline208' points='1220.000000 5321.400000, 1050.000000 5321.400000, 1050.000000 5321.400000'/>
+<circle id='circle208' cx='1220' cy='5321' r='-13'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Algoriphagus terrigena" x="1235" y="5326.73333333332">Algoriphagus terrigena (0.21)</text>\n"</g>
+<circle id='circle207' cx='1050' cy='5321' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle206' cx='880' cy='5321' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='323'><polyline id='polyline323' points='880.000000 5405.400000, 710.000000 5405.400000, 710.000000 5411.000000'/>
+<g id='324'><polyline id='polyline324' points='1050.000000 5366.200000, 880.000000 5366.200000, 880.000000 5405.400000'/>
+<g id='325'><polyline id='polyline325' points='1220.000000 5343.800000, 1050.000000 5343.800000, 1050.000000 5366.200000'/>
+<circle id='circle325' cx='1220' cy='5343' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Dyadobacter koreensis" x="1235" y="5349.13333333332">Dyadobacter koreensis (0.07)</text>\n"</g>
+<g id='351'><polyline id='polyline351' points='1220.000000 5366.200000, 1050.000000 5366.200000, 1050.000000 5366.200000'/>
+<circle id='circle351' cx='1220' cy='5366' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Dyadobacter alkalitolerans" x="1235" y="5371.53333333332">Dyadobacter alkalitolerans (0.06)</text>\n"</g>
+<g id='480'><polyline id='polyline480' points='1220.000000 5388.600000, 1050.000000 5388.600000, 1050.000000 5366.200000'/>
+<circle id='circle480' cx='1220' cy='5388' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Dyadobacter fermentans" x="1235" y="5393.93333333332">Dyadobacter fermentans (0.03)</text>\n"</g>
+<circle id='circle324' cx='1050' cy='5366' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='348'><polyline id='polyline348' points='1050.000000 5444.600000, 880.000000 5444.600000, 880.000000 5405.400000'/>
+<g id='349'><polyline id='polyline349' points='1220.000000 5411.000000, 1050.000000 5411.000000, 1050.000000 5444.600000'/>
+<circle id='circle349' cx='1220' cy='5410' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Spirosoma radiotolerans" x="1235" y="5416.33333333332">Spirosoma radiotolerans (0.06)</text>\n"</g>
+<g id='422'><polyline id='polyline422' points='1220.000000 5433.400000, 1050.000000 5433.400000, 1050.000000 5444.600000'/>
+<circle id='circle422' cx='1220' cy='5433' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Spirosoma endophyticum" x="1235" y="5438.73333333332">Spirosoma endophyticum (0.04)</text>\n"</g>
+<g id='551'><polyline id='polyline551' points='1220.000000 5455.800000, 1050.000000 5455.800000, 1050.000000 5444.600000'/>
+<circle id='circle551' cx='1220' cy='5455' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Spirosoma rigui" x="1235" y="5461.13333333332">Spirosoma rigui (0.02)</text>\n"</g>
+<g id='602'><polyline id='polyline602' points='1220.000000 5478.200000, 1050.000000 5478.200000, 1050.000000 5444.600000'/>
+<circle id='circle602' cx='1220' cy='5478' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Spirosoma pollinicola" x="1235" y="5483.53333333332">Spirosoma pollinicola (0.02)</text>\n"</g>
+<circle id='circle348' cx='1050' cy='5444' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle323' cx='880' cy='5405' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='484'><polyline id='polyline484' points='880.000000 5500.600000, 710.000000 5500.600000, 710.000000 5411.000000'/>
+<g id='485'><polyline id='polyline485' points='1050.000000 5500.600000, 880.000000 5500.600000, 880.000000 5500.600000'/>
+<g id='486'><polyline id='polyline486' points='1220.000000 5500.600000, 1050.000000 5500.600000, 1050.000000 5500.600000'/>
+<circle id='circle486' cx='1220' cy='5500' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Hymenobacter norwichensis" x="1235" y="5505.93333333332">Hymenobacter norwichensis (0.03)</text>\n"</g>
+<circle id='circle485' cx='1050' cy='5500' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle484' cx='880' cy='5500' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle205' cx='710' cy='5410' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle204' cx='540' cy='5410' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='209'><polyline id='polyline209' points='540.000000 5551.000000, 370.000000 5551.000000, 370.000000 5195.400000'/>
+<g id='210'><polyline id='polyline210' points='710.000000 5551.000000, 540.000000 5551.000000, 540.000000 5551.000000'/>
+<g id='211'><polyline id='polyline211' points='880.000000 5551.000000, 710.000000 5551.000000, 710.000000 5551.000000'/>
+<g id='212'><polyline id='polyline212' points='1050.000000 5534.200000, 880.000000 5534.200000, 880.000000 5551.000000'/>
+<g id='213'><polyline id='polyline213' points='1220.000000 5523.000000, 1050.000000 5523.000000, 1050.000000 5534.200000'/>
+<circle id='circle213' cx='1220' cy='5522' r='-14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chitinophaga pinensis" x="1235" y="5528.33333333332">Chitinophaga pinensis (0.20)</text>\n"</g>
+<g id='567'><polyline id='polyline567' points='1220.000000 5545.400000, 1050.000000 5545.400000, 1050.000000 5534.200000'/>
+<circle id='circle567' cx='1220' cy='5545' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Chitinophaga arvensicola" x="1235" y="5550.73333333332">Chitinophaga arvensicola (0.02)</text>\n"</g>
+<circle id='circle212' cx='1050' cy='5534' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='482'><polyline id='polyline482' points='1050.000000 5567.800000, 880.000000 5567.800000, 880.000000 5551.000000'/>
+<g id='483'><polyline id='polyline483' points='1220.000000 5567.800000, 1050.000000 5567.800000, 1050.000000 5567.800000'/>
+<circle id='circle483' cx='1220' cy='5567' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Arachidicoccus rhizosphaerae" x="1235" y="5573.13333333332">Arachidicoccus rhizosphaerae (0.03)</text>\n"</g>
+<circle id='circle482' cx='1050' cy='5567' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle211' cx='880' cy='5550' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle210' cx='710' cy='5550' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle209' cx='540' cy='5550' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle10' cx='370' cy='5195' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext10' class='text-id-tag' x='249.36' y='5215.39999999999'>Bacteroidetes</text>
+</g>
+<g id='21'><polyline id='polyline21' points='370.000000 7490.000000, 200.000000 7490.000000, 200.000000 5495.700000'/>
+<g id='22'><polyline id='polyline22' points='540.000000 6981.800000, 370.000000 6981.800000, 370.000000 7490.000000'/>
+<g id='23'><polyline id='polyline23' points='710.000000 6021.400000, 540.000000 6021.400000, 540.000000 6981.800000'/>
+<g id='24'><polyline id='polyline24' points='880.000000 6021.400000, 710.000000 6021.400000, 710.000000 6021.400000'/>
+<g id='25'><polyline id='polyline25' points='1050.000000 5870.200000, 880.000000 5870.200000, 880.000000 6021.400000'/>
+<g id='26'><polyline id='polyline26' points='1220.000000 5590.200000, 1050.000000 5590.200000, 1050.000000 5870.200000'/>
+<circle id='circle26' cx='1220' cy='5590' r='14'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. SirexAA-E" x="1235" y="5595.53333333332">Streptomyces sp. SirexAA-E (5.37)</text>\n"</g>
+<g id='27'><polyline id='polyline27' points='1220.000000 5612.600000, 1050.000000 5612.600000, 1050.000000 5870.200000'/>
+<circle id='circle27' cx='1220' cy='5612' r='12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces xiamenensis" x="1235" y="5617.93333333332">Streptomyces xiamenensis (4.34)</text>\n"</g>
+<g id='32'><polyline id='polyline32' points='1220.000000 5635.000000, 1050.000000 5635.000000, 1050.000000 5870.200000'/>
+<circle id='circle32' cx='1220' cy='5634' r='11'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. PAMC 26508" x="1235" y="5640.33333333332">Streptomyces sp. PAMC 26508 (3.58)</text>\n"</g>
+<g id='71'><polyline id='polyline71' points='1220.000000 5657.400000, 1050.000000 5657.400000, 1050.000000 5870.200000'/>
+<circle id='circle71' cx='1220' cy='5657' r='2'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces pratensis" x="1235" y="5662.73333333332">Streptomyces pratensis (1.39)</text>\n"</g>
+<g id='134'><polyline id='polyline134' points='1220.000000 5679.800000, 1050.000000 5679.800000, 1050.000000 5870.200000'/>
+<circle id='circle134' cx='1220' cy='5679' r='-4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces olivaceus" x="1235" y="5685.13333333332">Streptomyces olivaceus (0.57)</text>\n"</g>
+<g id='165'><polyline id='polyline165' points='1220.000000 5702.200000, 1050.000000 5702.200000, 1050.000000 5870.200000'/>
+<circle id='circle165' cx='1220' cy='5702' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces globisporus" x="1235" y="5707.53333333332">Streptomyces globisporus (0.34)</text>\n"</g>
+<g id='168'><polyline id='polyline168' points='1220.000000 5724.600000, 1050.000000 5724.600000, 1050.000000 5870.200000'/>
+<circle id='circle168' cx='1220' cy='5724' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces alni" x="1235" y="5729.93333333332">Streptomyces alni (0.34)</text>\n"</g>
+<g id='179'><polyline id='polyline179' points='1220.000000 5747.000000, 1050.000000 5747.000000, 1050.000000 5870.200000'/>
+<circle id='circle179' cx='1220' cy='5746' r='-11'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. SM17" x="1235" y="5752.33333333332">Streptomyces sp. SM17 (0.28)</text>\n"</g>
+<g id='185'><polyline id='polyline185' points='1220.000000 5769.400000, 1050.000000 5769.400000, 1050.000000 5870.200000'/>
+<circle id='circle185' cx='1220' cy='5769' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces fulvissimus" x="1235" y="5774.73333333332">Streptomyces fulvissimus (0.25)</text>\n"</g>
+<g id='203'><polyline id='polyline203' points='1220.000000 5791.800000, 1050.000000 5791.800000, 1050.000000 5870.200000'/>
+<circle id='circle203' cx='1220' cy='5791' r='-13'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces albus" x="1235" y="5797.13333333332">Streptomyces albus (0.21)</text>\n"</g>
+<g id='237'><polyline id='polyline237' points='1220.000000 5814.200000, 1050.000000 5814.200000, 1050.000000 5870.200000'/>
+<circle id='circle237' cx='1220' cy='5814' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces lividans" x="1235" y="5819.53333333332">Streptomyces lividans (0.15)</text>\n"</g>
+<g id='240'><polyline id='polyline240' points='1220.000000 5836.600000, 1050.000000 5836.600000, 1050.000000 5870.200000'/>
+<circle id='circle240' cx='1220' cy='5836' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces pactum" x="1235" y="5841.93333333332">Streptomyces pactum (0.14)</text>\n"</g>
+<g id='241'><polyline id='polyline241' points='1220.000000 5859.000000, 1050.000000 5859.000000, 1050.000000 5870.200000'/>
+<circle id='circle241' cx='1220' cy='5858' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces albidoflavus" x="1235" y="5864.33333333332">Streptomyces albidoflavus (0.14)</text>\n"</g>
+<g id='245'><polyline id='polyline245' points='1220.000000 5881.400000, 1050.000000 5881.400000, 1050.000000 5870.200000'/>
+<circle id='circle245' cx='1220' cy='5881' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces atroolivaceus" x="1235" y="5886.73333333332">Streptomyces atroolivaceus (0.14)</text>\n"</g>
+<g id='249'><polyline id='polyline249' points='1220.000000 5903.800000, 1050.000000 5903.800000, 1050.000000 5870.200000'/>
+<circle id='circle249' cx='1220' cy='5903' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. SM18" x="1235" y="5909.13333333332">Streptomyces sp. SM18 (0.13)</text>\n"</g>
+<g id='267'><polyline id='polyline267' points='1220.000000 5926.200000, 1050.000000 5926.200000, 1050.000000 5870.200000'/>
+<circle id='circle267' cx='1220' cy='5926' r='-19'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. Tue 6075" x="1235" y="5931.53333333331">Streptomyces sp. Tue 6075 (0.11)</text>\n"</g>
+<g id='322'><polyline id='polyline322' points='1220.000000 5948.600000, 1050.000000 5948.600000, 1050.000000 5870.200000'/>
+<circle id='circle322' cx='1220' cy='5948' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces cavourensis" x="1235" y="5953.93333333331">Streptomyces cavourensis (0.07)</text>\n"</g>
+<g id='340'><polyline id='polyline340' points='1220.000000 5971.000000, 1050.000000 5971.000000, 1050.000000 5870.200000'/>
+<circle id='circle340' cx='1220' cy='5970' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces griseus" x="1235" y="5976.33333333331">Streptomyces griseus (0.06)</text>\n"</g>
+<g id='377'><polyline id='polyline377' points='1220.000000 5993.400000, 1050.000000 5993.400000, 1050.000000 5870.200000'/>
+<circle id='circle377' cx='1220' cy='5993' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. CFMR 7" x="1235" y="5998.73333333331">Streptomyces sp. CFMR 7 (0.05)</text>\n"</g>
+<g id='420'><polyline id='polyline420' points='1220.000000 6015.800000, 1050.000000 6015.800000, 1050.000000 5870.200000'/>
+<circle id='circle420' cx='1220' cy='6015' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. FR-008" x="1235" y="6021.13333333331">Streptomyces sp. FR-008 (0.04)</text>\n"</g>
+<g id='439'><polyline id='polyline439' points='1220.000000 6038.200000, 1050.000000 6038.200000, 1050.000000 5870.200000'/>
+<circle id='circle439' cx='1220' cy='6038' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. S8" x="1235" y="6043.53333333331">Streptomyces sp. S8 (0.04)</text>\n"</g>
+<g id='458'><polyline id='polyline458' points='1220.000000 6060.600000, 1050.000000 6060.600000, 1050.000000 5870.200000'/>
+<circle id='circle458' cx='1220' cy='6060' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces paucisporeus" x="1235" y="6065.93333333331">Streptomyces paucisporeus (0.03)</text>\n"</g>
+<g id='461'><polyline id='polyline461' points='1220.000000 6083.000000, 1050.000000 6083.000000, 1050.000000 5870.200000'/>
+<circle id='circle461' cx='1220' cy='6082' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sp. CLI2509" x="1235" y="6088.33333333331">Streptomyces sp. CLI2509 (0.03)</text>\n"</g>
+<g id='466'><polyline id='polyline466' points='1220.000000 6105.400000, 1050.000000 6105.400000, 1050.000000 5870.200000'/>
+<circle id='circle466' cx='1220' cy='6105' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces bacillaris" x="1235" y="6110.73333333331">Streptomyces bacillaris (0.03)</text>\n"</g>
+<g id='475'><polyline id='polyline475' points='1220.000000 6127.800000, 1050.000000 6127.800000, 1050.000000 5870.200000'/>
+<circle id='circle475' cx='1220' cy='6127' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces sampsonii" x="1235" y="6133.13333333331">Streptomyces sampsonii (0.03)</text>\n"</g>
+<g id='539'><polyline id='polyline539' points='1220.000000 6150.200000, 1050.000000 6150.200000, 1050.000000 5870.200000'/>
+<circle id='circle539' cx='1220' cy='6150' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces coelicolor" x="1235" y="6155.53333333331">Streptomyces coelicolor (0.02)</text>\n"</g>
+<circle id='circle25' cx='1050' cy='5870' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='544'><polyline id='polyline544' points='1050.000000 6172.600000, 880.000000 6172.600000, 880.000000 6021.400000'/>
+<g id='545'><polyline id='polyline545' points='1220.000000 6172.600000, 1050.000000 6172.600000, 1050.000000 6172.600000'/>
+<circle id='circle545' cx='1220' cy='6172' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kitasatospora albolonga" x="1235" y="6177.93333333331">Kitasatospora albolonga (0.02)</text>\n"</g>
+<circle id='circle544' cx='1050' cy='6172' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle24' cx='880' cy='6021' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle23' cx='710' cy='6021' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='42'><polyline id='polyline42' points='710.000000 6228.600000, 540.000000 6228.600000, 540.000000 6981.800000'/>
+<g id='43'><polyline id='polyline43' points='880.000000 6228.600000, 710.000000 6228.600000, 710.000000 6228.600000'/>
+<g id='44'><polyline id='polyline44' points='1050.000000 6228.600000, 880.000000 6228.600000, 880.000000 6228.600000'/>
+<g id='45'><polyline id='polyline45' points='1220.000000 6195.000000, 1050.000000 6195.000000, 1050.000000 6228.600000'/>
+<circle id='circle45' cx='1220' cy='6194' r='8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardiopsis flavescens" x="1235" y="6200.33333333331">Nocardiopsis flavescens (2.53)</text>\n"</g>
+<g id='186'><polyline id='polyline186' points='1220.000000 6217.400000, 1050.000000 6217.400000, 1050.000000 6228.600000'/>
+<circle id='circle186' cx='1220' cy='6217' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardiopsis ganjiahuensis" x="1235" y="6222.73333333331">Nocardiopsis ganjiahuensis (0.24)</text>\n"</g>
+<g id='321'><polyline id='polyline321' points='1220.000000 6239.800000, 1050.000000 6239.800000, 1050.000000 6228.600000'/>
+<circle id='circle321' cx='1220' cy='6239' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardiopsis alba" x="1235" y="6245.13333333331">Nocardiopsis alba (0.07)</text>\n"</g>
+<g id='391'><polyline id='polyline391' points='1220.000000 6262.200000, 1050.000000 6262.200000, 1050.000000 6228.600000'/>
+<circle id='circle391' cx='1220' cy='6262' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardiopsis dassonvillei" x="1235" y="6267.53333333331">Nocardiopsis dassonvillei (0.05)</text>\n"</g>
+<circle id='circle44' cx='1050' cy='6228' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle43' cx='880' cy='6228' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle42' cx='710' cy='6228' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='49'><polyline id='polyline49' points='710.000000 6794.200000, 540.000000 6794.200000, 540.000000 6981.800000'/>
+<g id='50'><polyline id='polyline50' points='880.000000 6329.400000, 710.000000 6329.400000, 710.000000 6794.200000'/>
+<g id='51'><polyline id='polyline51' points='1050.000000 6284.600000, 880.000000 6284.600000, 880.000000 6329.400000'/>
+<g id='52'><polyline id='polyline52' points='1220.000000 6284.600000, 1050.000000 6284.600000, 1050.000000 6284.600000'/>
+<circle id='circle52' cx='1220' cy='6284' r='7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Promicromonospora sukumoe" x="1235" y="6289.93333333331">Promicromonospora sukumoe (2.37)</text>\n"</g>
+<circle id='circle51' cx='1050' cy='6284' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='306'><polyline id='polyline306' points='1050.000000 6318.200000, 880.000000 6318.200000, 880.000000 6329.400000'/>
+<g id='307'><polyline id='polyline307' points='1220.000000 6307.000000, 1050.000000 6307.000000, 1050.000000 6318.200000'/>
+<circle id='circle307' cx='1220' cy='6306' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cellulosimicrobium cellulans" x="1235" y="6312.33333333331">Cellulosimicrobium cellulans (0.08)</text>\n"</g>
+<g id='440'><polyline id='polyline440' points='1220.000000 6329.400000, 1050.000000 6329.400000, 1050.000000 6318.200000'/>
+<circle id='circle440' cx='1220' cy='6329' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cellulosimicrobium sp. TH-20" x="1235" y="6334.73333333331">Cellulosimicrobium sp. TH-20 (0.04)</text>\n"</g>
+<circle id='circle306' cx='1050' cy='6318' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='444'><polyline id='polyline444' points='1050.000000 6351.800000, 880.000000 6351.800000, 880.000000 6329.400000'/>
+<g id='445'><polyline id='polyline445' points='1220.000000 6351.800000, 1050.000000 6351.800000, 1050.000000 6351.800000'/>
+<circle id='circle445' cx='1220' cy='6351' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Krasilnikoviella flava" x="1235" y="6357.13333333331">Krasilnikoviella flava (0.04)</text>\n"</g>
+<circle id='circle444' cx='1050' cy='6351' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='571'><polyline id='polyline571' points='1050.000000 6374.200000, 880.000000 6374.200000, 880.000000 6329.400000'/>
+<g id='572'><polyline id='polyline572' points='1220.000000 6374.200000, 1050.000000 6374.200000, 1050.000000 6374.200000'/>
+<circle id='circle572' cx='1220' cy='6374' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Isoptericola dokdonensis" x="1235" y="6379.53333333331">Isoptericola dokdonensis (0.02)</text>\n"</g>
+<circle id='circle571' cx='1050' cy='6374' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle50' cx='880' cy='6329' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='53'><polyline id='polyline53' points='880.000000 6861.400000, 710.000000 6861.400000, 710.000000 6794.200000'/>
+<g id='54'><polyline id='polyline54' points='1050.000000 6575.800000, 880.000000 6575.800000, 880.000000 6861.400000'/>
+<g id='55'><polyline id='polyline55' points='1220.000000 6396.600000, 1050.000000 6396.600000, 1050.000000 6575.800000'/>
+<circle id='circle55' cx='1220' cy='6396' r='7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium oxydans" x="1235" y="6401.93333333331">Microbacterium oxydans (2.29)</text>\n"</g>
+<g id='91'><polyline id='polyline91' points='1220.000000 6419.000000, 1050.000000 6419.000000, 1050.000000 6575.800000'/>
+<circle id='circle91' cx='1220' cy='6418' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium profundi" x="1235" y="6424.33333333331">Microbacterium profundi (0.99)</text>\n"</g>
+<g id='132'><polyline id='polyline132' points='1220.000000 6441.400000, 1050.000000 6441.400000, 1050.000000 6575.800000'/>
+<circle id='circle132' cx='1220' cy='6441' r='-4'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. 1.5R" x="1235" y="6446.73333333331">Microbacterium sp. 1.5R (0.60)</text>\n"</g>
+<g id='145'><polyline id='polyline145' points='1220.000000 6463.800000, 1050.000000 6463.800000, 1050.000000 6575.800000'/>
+<circle id='circle145' cx='1220' cy='6463' r='-6'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. CGR1" x="1235" y="6469.13333333331">Microbacterium sp. CGR1 (0.48)</text>\n"</g>
+<g id='172'><polyline id='polyline172' points='1220.000000 6486.200000, 1050.000000 6486.200000, 1050.000000 6575.800000'/>
+<circle id='circle172' cx='1220' cy='6486' r='-9'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium oleivorans" x="1235" y="6491.53333333331">Microbacterium oleivorans (0.33)</text>\n"</g>
+<g id='232'><polyline id='polyline232' points='1220.000000 6508.600000, 1050.000000 6508.600000, 1050.000000 6575.800000'/>
+<circle id='circle232' cx='1220' cy='6508' r='-16'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium foliorum" x="1235" y="6513.93333333331">Microbacterium foliorum (0.16)</text>\n"</g>
+<g id='248'><polyline id='polyline248' points='1220.000000 6531.000000, 1050.000000 6531.000000, 1050.000000 6575.800000'/>
+<circle id='circle248' cx='1220' cy='6530' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. BH-3-3-3" x="1235" y="6536.3333333333">Microbacterium sp. BH-3-3-3 (0.13)</text>\n"</g>
+<g id='341'><polyline id='polyline341' points='1220.000000 6553.400000, 1050.000000 6553.400000, 1050.000000 6575.800000'/>
+<circle id='circle341' cx='1220' cy='6553' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium paludicola" x="1235" y="6558.7333333333">Microbacterium paludicola (0.06)</text>\n"</g>
+<g id='350'><polyline id='polyline350' points='1220.000000 6575.800000, 1050.000000 6575.800000, 1050.000000 6575.800000'/>
+<circle id='circle350' cx='1220' cy='6575' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium testaceum" x="1235" y="6581.1333333333">Microbacterium testaceum (0.06)</text>\n"</g>
+<g id='417'><polyline id='polyline417' points='1220.000000 6598.200000, 1050.000000 6598.200000, 1050.000000 6575.800000'/>
+<circle id='circle417' cx='1220' cy='6598' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium barkeri" x="1235" y="6603.5333333333">Microbacterium barkeri (0.04)</text>\n"</g>
+<g id='449'><polyline id='polyline449' points='1220.000000 6620.600000, 1050.000000 6620.600000, 1050.000000 6575.800000'/>
+<circle id='circle449' cx='1220' cy='6620' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium maritypicum" x="1235" y="6625.9333333333">Microbacterium maritypicum (0.03)</text>\n"</g>
+<g id='450'><polyline id='polyline450' points='1220.000000 6643.000000, 1050.000000 6643.000000, 1050.000000 6575.800000'/>
+<circle id='circle450' cx='1220' cy='6642' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. XT11" x="1235" y="6648.3333333333">Microbacterium sp. XT11 (0.03)</text>\n"</g>
+<g id='456'><polyline id='polyline456' points='1220.000000 6665.400000, 1050.000000 6665.400000, 1050.000000 6575.800000'/>
+<circle id='circle456' cx='1220' cy='6665' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium pygmaeum" x="1235" y="6670.7333333333">Microbacterium pygmaeum (0.03)</text>\n"</g>
+<g id='457'><polyline id='polyline457' points='1220.000000 6687.800000, 1050.000000 6687.800000, 1050.000000 6575.800000'/>
+<circle id='circle457' cx='1220' cy='6687' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. TPU 3598" x="1235" y="6693.1333333333">Microbacterium sp. TPU 3598 (0.03)</text>\n"</g>
+<g id='491'><polyline id='polyline491' points='1220.000000 6710.200000, 1050.000000 6710.200000, 1050.000000 6575.800000'/>
+<circle id='circle491' cx='1220' cy='6710' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. PAMC 28756" x="1235" y="6715.5333333333">Microbacterium sp. PAMC 28756 (0.03)</text>\n"</g>
+<g id='559'><polyline id='polyline559' points='1220.000000 6732.600000, 1050.000000 6732.600000, 1050.000000 6575.800000'/>
+<circle id='circle559' cx='1220' cy='6732' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium paraoxydans" x="1235" y="6737.9333333333">Microbacterium paraoxydans (0.02)</text>\n"</g>
+<g id='564'><polyline id='polyline564' points='1220.000000 6755.000000, 1050.000000 6755.000000, 1050.000000 6575.800000'/>
+<circle id='circle564' cx='1220' cy='6754' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Microbacterium sp. str. 'China'" x="1235" y="6760.3333333333">Microbacterium sp. str. 'China' (0.02)</text>\n"</g>
+<circle id='circle54' cx='1050' cy='6575' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='69'><polyline id='polyline69' points='1050.000000 6811.000000, 880.000000 6811.000000, 880.000000 6861.400000'/>
+<g id='70'><polyline id='polyline70' points='1220.000000 6777.400000, 1050.000000 6777.400000, 1050.000000 6811.000000'/>
+<circle id='circle70' cx='1220' cy='6777' r='2'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Curtobacterium sp. BH-2-1-1" x="1235" y="6782.7333333333">Curtobacterium sp. BH-2-1-1 (1.39)</text>\n"</g>
+<g id='85'><polyline id='polyline85' points='1220.000000 6799.800000, 1050.000000 6799.800000, 1050.000000 6811.000000'/>
+<circle id='circle85' cx='1220' cy='6799' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Curtobacterium flaccumfaciens" x="1235" y="6805.1333333333">Curtobacterium flaccumfaciens (1.08)</text>\n"</g>
+<g id='117'><polyline id='polyline117' points='1220.000000 6822.200000, 1050.000000 6822.200000, 1050.000000 6811.000000'/>
+<circle id='circle117' cx='1220' cy='6822' r='-2'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Curtobacterium pusillum" x="1235" y="6827.5333333333">Curtobacterium pusillum (0.74)</text>\n"</g>
+<g id='163'><polyline id='polyline163' points='1220.000000 6844.600000, 1050.000000 6844.600000, 1050.000000 6811.000000'/>
+<circle id='circle163' cx='1220' cy='6844' r='-8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Curtobacterium sp. MR_MD2014" x="1235" y="6849.9333333333">Curtobacterium sp. MR_MD2014 (0.37)</text>\n"</g>
+<circle id='circle69' cx='1050' cy='6810' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='123'><polyline id='polyline123' points='1050.000000 6867.000000, 880.000000 6867.000000, 880.000000 6861.400000'/>
+<g id='124'><polyline id='polyline124' points='1220.000000 6867.000000, 1050.000000 6867.000000, 1050.000000 6867.000000'/>
+<circle id='circle124' cx='1220' cy='6866' r='-3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Plantibacter flavus" x="1235" y="6872.3333333333">Plantibacter flavus (0.66)</text>\n"</g>
+<circle id='circle123' cx='1050' cy='6866' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='135'><polyline id='polyline135' points='1050.000000 6900.600000, 880.000000 6900.600000, 880.000000 6861.400000'/>
+<g id='136'><polyline id='polyline136' points='1220.000000 6889.400000, 1050.000000 6889.400000, 1050.000000 6900.600000'/>
+<circle id='circle136' cx='1220' cy='6889' r='-5'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Herbiconiux solani" x="1235" y="6894.7333333333">Herbiconiux solani (0.55)</text>\n"</g>
+<g id='358'><polyline id='polyline358' points='1220.000000 6911.800000, 1050.000000 6911.800000, 1050.000000 6900.600000'/>
+<circle id='circle358' cx='1220' cy='6911' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Herbiconiux ginsengi" x="1235" y="6917.1333333333">Herbiconiux ginsengi (0.06)</text>\n"</g>
+<circle id='circle135' cx='1050' cy='6900' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='155'><polyline id='polyline155' points='1050.000000 6934.200000, 880.000000 6934.200000, 880.000000 6861.400000'/>
+<g id='156'><polyline id='polyline156' points='1220.000000 6934.200000, 1050.000000 6934.200000, 1050.000000 6934.200000'/>
+<circle id='circle156' cx='1220' cy='6934' r='-7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Clavibacter michiganensis" x="1235" y="6939.5333333333">Clavibacter michiganensis (0.41)</text>\n"</g>
+<circle id='circle155' cx='1050' cy='6934' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='180'><polyline id='polyline180' points='1050.000000 6956.600000, 880.000000 6956.600000, 880.000000 6861.400000'/>
+<g id='181'><polyline id='polyline181' points='1220.000000 6956.600000, 1050.000000 6956.600000, 1050.000000 6956.600000'/>
+<circle id='circle181' cx='1220' cy='6956' r='-11'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Okibacterium fritillariae" x="1235" y="6961.9333333333">Okibacterium fritillariae (0.26)</text>\n"</g>
+<circle id='circle180' cx='1050' cy='6956' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='337'><polyline id='polyline337' points='1050.000000 6979.000000, 880.000000 6979.000000, 880.000000 6861.400000'/>
+<g id='338'><polyline id='polyline338' points='1220.000000 6979.000000, 1050.000000 6979.000000, 1050.000000 6979.000000'/>
+<circle id='circle338' cx='1220' cy='6978' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rathayibacter tritici" x="1235" y="6984.3333333333">Rathayibacter tritici (0.06)</text>\n"</g>
+<circle id='circle337' cx='1050' cy='6978' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='398'><polyline id='polyline398' points='1050.000000 7001.400000, 880.000000 7001.400000, 880.000000 6861.400000'/>
+<g id='399'><polyline id='polyline399' points='1220.000000 7001.400000, 1050.000000 7001.400000, 1050.000000 7001.400000'/>
+<circle id='circle399' cx='1220' cy='7001' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Lysinimonas sp. 2DFWR-13" x="1235" y="7006.7333333333">Lysinimonas sp. 2DFWR-13 (0.05)</text>\n"</g>
+<circle id='circle398' cx='1050' cy='7001' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='426'><polyline id='polyline426' points='1050.000000 7023.800000, 880.000000 7023.800000, 880.000000 6861.400000'/>
+<g id='427'><polyline id='polyline427' points='1220.000000 7023.800000, 1050.000000 7023.800000, 1050.000000 7023.800000'/>
+<circle id='circle427' cx='1220' cy='7023' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agromyces aureus" x="1235" y="7029.1333333333">Agromyces aureus (0.04)</text>\n"</g>
+<circle id='circle426' cx='1050' cy='7023' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='433'><polyline id='polyline433' points='1050.000000 7046.200000, 880.000000 7046.200000, 880.000000 6861.400000'/>
+<g id='434'><polyline id='polyline434' points='1220.000000 7046.200000, 1050.000000 7046.200000, 1050.000000 7046.200000'/>
+<circle id='circle434' cx='1220' cy='7046' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agreia bicolorata" x="1235" y="7051.5333333333">Agreia bicolorata (0.04)</text>\n"</g>
+<circle id='circle433' cx='1050' cy='7046' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='464'><polyline id='polyline464' points='1050.000000 7068.600000, 880.000000 7068.600000, 880.000000 6861.400000'/>
+<g id='465'><polyline id='polyline465' points='1220.000000 7068.600000, 1050.000000 7068.600000, 1050.000000 7068.600000'/>
+<circle id='circle465' cx='1220' cy='7068' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Agrococcus jejuensis" x="1235" y="7073.9333333333">Agrococcus jejuensis (0.03)</text>\n"</g>
+<circle id='circle464' cx='1050' cy='7068' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='498'><polyline id='polyline498' points='1050.000000 7091.000000, 880.000000 7091.000000, 880.000000 6861.400000'/>
+<g id='499'><polyline id='polyline499' points='1220.000000 7091.000000, 1050.000000 7091.000000, 1050.000000 7091.000000'/>
+<circle id='circle499' cx='1220' cy='7090' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cnuibacter physcomitrellae" x="1235" y="7096.3333333333">Cnuibacter physcomitrellae (0.03)</text>\n"</g>
+<circle id='circle498' cx='1050' cy='7090' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='526'><polyline id='polyline526' points='1050.000000 7113.400000, 880.000000 7113.400000, 880.000000 6861.400000'/>
+<g id='527'><polyline id='polyline527' points='1220.000000 7113.400000, 1050.000000 7113.400000, 1050.000000 7113.400000'/>
+<circle id='circle527' cx='1220' cy='7113' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudoclavibacter helvolus" x="1235" y="7118.7333333333">Pseudoclavibacter helvolus (0.02)</text>\n"</g>
+<circle id='circle526' cx='1050' cy='7113' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='528'><polyline id='polyline528' points='1050.000000 7147.000000, 880.000000 7147.000000, 880.000000 6861.400000'/>
+<g id='529'><polyline id='polyline529' points='1220.000000 7135.800000, 1050.000000 7135.800000, 1050.000000 7147.000000'/>
+<circle id='circle529' cx='1220' cy='7135' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Leucobacter musarum" x="1235" y="7141.1333333333">Leucobacter musarum (0.02)</text>\n"</g>
+<g id='625'><polyline id='polyline625' points='1220.000000 7158.200000, 1050.000000 7158.200000, 1050.000000 7147.000000'/>
+<circle id='circle625' cx='1220' cy='7158' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Leucobacter celer" x="1235" y="7163.53333333329">Leucobacter celer (0.01)</text>\n"</g>
+<circle id='circle528' cx='1050' cy='7146' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle53' cx='880' cy='6861' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='182'><polyline id='polyline182' points='880.000000 7180.600000, 710.000000 7180.600000, 710.000000 6794.200000'/>
+<g id='183'><polyline id='polyline183' points='1050.000000 7180.600000, 880.000000 7180.600000, 880.000000 7180.600000'/>
+<g id='184'><polyline id='polyline184' points='1220.000000 7180.600000, 1050.000000 7180.600000, 1050.000000 7180.600000'/>
+<circle id='circle184' cx='1220' cy='7180' r='-11'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sanguibacter keddieii" x="1235" y="7185.93333333329">Sanguibacter keddieii (0.25)</text>\n"</g>
+<circle id='circle183' cx='1050' cy='7180' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle182' cx='880' cy='7180' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='258'><polyline id='polyline258' points='880.000000 7214.200000, 710.000000 7214.200000, 710.000000 6794.200000'/>
+<g id='259'><polyline id='polyline259' points='1050.000000 7214.200000, 880.000000 7214.200000, 880.000000 7214.200000'/>
+<g id='260'><polyline id='polyline260' points='1220.000000 7203.000000, 1050.000000 7203.000000, 1050.000000 7214.200000'/>
+<circle id='circle260' cx='1220' cy='7202' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brachybacterium ginsengisoli" x="1235" y="7208.33333333329">Brachybacterium ginsengisoli (0.12)</text>\n"</g>
+<g id='579'><polyline id='polyline579' points='1220.000000 7225.400000, 1050.000000 7225.400000, 1050.000000 7214.200000'/>
+<circle id='circle579' cx='1220' cy='7225' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brachybacterium paraconglomeratum" x="1235" y="7230.73333333329">Brachybacterium paraconglomeratum (0.02)</text>\n"</g>
+<circle id='circle259' cx='1050' cy='7214' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle258' cx='880' cy='7214' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='303'><polyline id='polyline303' points='880.000000 7259.000000, 710.000000 7259.000000, 710.000000 6794.200000'/>
+<g id='304'><polyline id='polyline304' points='1050.000000 7247.800000, 880.000000 7247.800000, 880.000000 7259.000000'/>
+<g id='305'><polyline id='polyline305' points='1220.000000 7247.800000, 1050.000000 7247.800000, 1050.000000 7247.800000'/>
+<circle id='circle305' cx='1220' cy='7247' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cellulomonas iranensis" x="1235" y="7253.13333333329">Cellulomonas iranensis (0.09)</text>\n"</g>
+<circle id='circle304' cx='1050' cy='7247' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='598'><polyline id='polyline598' points='1050.000000 7270.200000, 880.000000 7270.200000, 880.000000 7259.000000'/>
+<g id='599'><polyline id='polyline599' points='1220.000000 7270.200000, 1050.000000 7270.200000, 1050.000000 7270.200000'/>
+<circle id='circle599' cx='1220' cy='7270' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Oerskovia turbata" x="1235" y="7275.53333333329">Oerskovia turbata (0.02)</text>\n"</g>
+<circle id='circle598' cx='1050' cy='7270' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle303' cx='880' cy='7258' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle49' cx='710' cy='6794' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='150'><polyline id='polyline150' points='710.000000 7429.800000, 540.000000 7429.800000, 540.000000 6981.800000'/>
+<g id='151'><polyline id='polyline151' points='880.000000 7343.000000, 710.000000 7343.000000, 710.000000 7429.800000'/>
+<g id='152'><polyline id='polyline152' points='1050.000000 7292.600000, 880.000000 7292.600000, 880.000000 7343.000000'/>
+<g id='153'><polyline id='polyline153' points='1220.000000 7292.600000, 1050.000000 7292.600000, 1050.000000 7292.600000'/>
+<circle id='circle153' cx='1220' cy='7292' r='-7'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycobacteroides franklinii" x="1235" y="7297.93333333329">Mycobacteroides franklinii (0.44)</text>\n"</g>
+<circle id='circle152' cx='1050' cy='7292' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='251'><polyline id='polyline251' points='1050.000000 7326.200000, 880.000000 7326.200000, 880.000000 7343.000000'/>
+<g id='252'><polyline id='polyline252' points='1220.000000 7315.000000, 1050.000000 7315.000000, 1050.000000 7326.200000'/>
+<circle id='circle252' cx='1220' cy='7314' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycobacterium sp. YC-RL4" x="1235" y="7320.33333333329">Mycobacterium sp. YC-RL4 (0.12)</text>\n"</g>
+<g id='513'><polyline id='polyline513' points='1220.000000 7337.400000, 1050.000000 7337.400000, 1050.000000 7326.200000'/>
+<circle id='circle513' cx='1220' cy='7337' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycobacterium sp. djl-10" x="1235" y="7342.73333333329">Mycobacterium sp. djl-10 (0.02)</text>\n"</g>
+<circle id='circle251' cx='1050' cy='7326' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='441'><polyline id='polyline441' points='1050.000000 7393.400000, 880.000000 7393.400000, 880.000000 7343.000000'/>
+<g id='442'><polyline id='polyline442' points='1220.000000 7359.800000, 1050.000000 7359.800000, 1050.000000 7393.400000'/>
+<circle id='circle442' cx='1220' cy='7359' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycolicibacterium setense" x="1235" y="7365.13333333329">Mycolicibacterium setense (0.04)</text>\n"</g>
+<g id='540'><polyline id='polyline540' points='1220.000000 7382.200000, 1050.000000 7382.200000, 1050.000000 7393.400000'/>
+<circle id='circle540' cx='1220' cy='7382' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycolicibacterium bacteremicum" x="1235" y="7387.53333333329">Mycolicibacterium bacteremicum (0.02)</text>\n"</g>
+<g id='590'><polyline id='polyline590' points='1220.000000 7404.600000, 1050.000000 7404.600000, 1050.000000 7393.400000'/>
+<circle id='circle590' cx='1220' cy='7404' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycolicibacterium cosmeticum" x="1235" y="7409.93333333329">Mycolicibacterium cosmeticum (0.02)</text>\n"</g>
+<g id='610'><polyline id='polyline610' points='1220.000000 7427.000000, 1050.000000 7427.000000, 1050.000000 7393.400000'/>
+<circle id='circle610' cx='1220' cy='7426' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Mycolicibacterium peregrinum" x="1235" y="7432.33333333329">Mycolicibacterium peregrinum (0.01)</text>\n"</g>
+<circle id='circle441' cx='1050' cy='7393' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle151' cx='880' cy='7342' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='242'><polyline id='polyline242' points='880.000000 7516.600000, 710.000000 7516.600000, 710.000000 7429.800000'/>
+<g id='243'><polyline id='polyline243' points='1050.000000 7516.600000, 880.000000 7516.600000, 880.000000 7516.600000'/>
+<g id='244'><polyline id='polyline244' points='1220.000000 7449.400000, 1050.000000 7449.400000, 1050.000000 7516.600000'/>
+<circle id='circle244' cx='1220' cy='7449' r='-17'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus sp. H-CA8f" x="1235" y="7454.73333333329">Rhodococcus sp. H-CA8f (0.14)</text>\n"</g>
+<g id='264'><polyline id='polyline264' points='1220.000000 7471.800000, 1050.000000 7471.800000, 1050.000000 7516.600000'/>
+<circle id='circle264' cx='1220' cy='7471' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus sp. PBTS 2" x="1235" y="7477.13333333329">Rhodococcus sp. PBTS 2 (0.11)</text>\n"</g>
+<g id='312'><polyline id='polyline312' points='1220.000000 7494.200000, 1050.000000 7494.200000, 1050.000000 7516.600000'/>
+<circle id='circle312' cx='1220' cy='7494' r='-22'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus fascians" x="1235" y="7499.53333333329">Rhodococcus fascians (0.07)</text>\n"</g>
+<g id='336'><polyline id='polyline336' points='1220.000000 7516.600000, 1050.000000 7516.600000, 1050.000000 7516.600000'/>
+<circle id='circle336' cx='1220' cy='7516' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus erythropolis" x="1235" y="7521.93333333329">Rhodococcus erythropolis (0.06)</text>\n"</g>
+<g id='419'><polyline id='polyline419' points='1220.000000 7539.000000, 1050.000000 7539.000000, 1050.000000 7516.600000'/>
+<circle id='circle419' cx='1220' cy='7538' r='-27'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus sp. 008" x="1235" y="7544.33333333329">Rhodococcus sp. 008 (0.04)</text>\n"</g>
+<g id='448'><polyline id='polyline448' points='1220.000000 7561.400000, 1050.000000 7561.400000, 1050.000000 7516.600000'/>
+<circle id='circle448' cx='1220' cy='7561' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus sp. BH4" x="1235" y="7566.73333333329">Rhodococcus sp. BH4 (0.03)</text>\n"</g>
+<g id='467'><polyline id='polyline467' points='1220.000000 7583.800000, 1050.000000 7583.800000, 1050.000000 7516.600000'/>
+<circle id='circle467' cx='1220' cy='7583' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Rhodococcus qingshengii" x="1235" y="7589.13333333329">Rhodococcus qingshengii (0.03)</text>\n"</g>
+<circle id='circle243' cx='1050' cy='7516' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle242' cx='880' cy='7516' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle150' cx='710' cy='7429' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='157'><polyline id='polyline157' points='710.000000 7712.600000, 540.000000 7712.600000, 540.000000 6981.800000'/>
+<g id='158'><polyline id='polyline158' points='880.000000 7712.600000, 710.000000 7712.600000, 710.000000 7712.600000'/>
+<g id='159'><polyline id='polyline159' points='1050.000000 7617.400000, 880.000000 7617.400000, 880.000000 7712.600000'/>
+<g id='160'><polyline id='polyline160' points='1220.000000 7606.200000, 1050.000000 7606.200000, 1050.000000 7617.400000'/>
+<circle id='circle160' cx='1220' cy='7606' r='-8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Friedmanniella sagamiharensis" x="1235" y="7611.53333333329">Friedmanniella sagamiharensis (0.39)</text>\n"</g>
+<g id='455'><polyline id='polyline455' points='1220.000000 7628.600000, 1050.000000 7628.600000, 1050.000000 7617.400000'/>
+<circle id='circle455' cx='1220' cy='7628' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Friedmanniella flava" x="1235" y="7633.93333333329">Friedmanniella flava (0.03)</text>\n"</g>
+<circle id='circle159' cx='1050' cy='7617' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='177'><polyline id='polyline177' points='1050.000000 7684.600000, 880.000000 7684.600000, 880.000000 7712.600000'/>
+<g id='178'><polyline id='polyline178' points='1220.000000 7651.000000, 1050.000000 7651.000000, 1050.000000 7684.600000'/>
+<circle id='circle178' cx='1220' cy='7650' r='-10'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardioides lianchengensis" x="1235" y="7656.33333333329">Nocardioides lianchengensis (0.29)</text>\n"</g>
+<g id='231'><polyline id='polyline231' points='1220.000000 7673.400000, 1050.000000 7673.400000, 1050.000000 7684.600000'/>
+<circle id='circle231' cx='1220' cy='7673' r='-15'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardioides exalbidus" x="1235" y="7678.73333333329">Nocardioides exalbidus (0.16)</text>\n"</g>
+<g id='382'><polyline id='polyline382' points='1220.000000 7695.800000, 1050.000000 7695.800000, 1050.000000 7684.600000'/>
+<circle id='circle382' cx='1220' cy='7695' r='-25'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardioides luteus" x="1235" y="7701.13333333329">Nocardioides luteus (0.05)</text>\n"</g>
+<g id='520'><polyline id='polyline520' points='1220.000000 7718.200000, 1050.000000 7718.200000, 1050.000000 7684.600000'/>
+<circle id='circle520' cx='1220' cy='7718' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Nocardioides alpinus" x="1235" y="7723.53333333329">Nocardioides alpinus (0.02)</text>\n"</g>
+<circle id='circle177' cx='1050' cy='7684' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='226'><polyline id='polyline226' points='1050.000000 7740.600000, 880.000000 7740.600000, 880.000000 7712.600000'/>
+<g id='227'><polyline id='polyline227' points='1220.000000 7740.600000, 1050.000000 7740.600000, 1050.000000 7740.600000'/>
+<circle id='circle227' cx='1220' cy='7740' r='-15'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Marmoricola scoriae" x="1235" y="7745.93333333329">Marmoricola scoriae (0.16)</text>\n"</g>
+<circle id='circle226' cx='1050' cy='7740' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='331'><polyline id='polyline331' points='1050.000000 7774.200000, 880.000000 7774.200000, 880.000000 7712.600000'/>
+<g id='332'><polyline id='polyline332' points='1220.000000 7763.000000, 1050.000000 7763.000000, 1050.000000 7774.200000'/>
+<circle id='circle332' cx='1220' cy='7762' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Aeromicrobium sp. 592" x="1235" y="7768.33333333328">Aeromicrobium sp. 592 (0.07)</text>\n"</g>
+<g id='333'><polyline id='polyline333' points='1220.000000 7785.400000, 1050.000000 7785.400000, 1050.000000 7774.200000'/>
+<circle id='circle333' cx='1220' cy='7785' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Aeromicrobium choanae" x="1235" y="7790.73333333328">Aeromicrobium choanae (0.07)</text>\n"</g>
+<circle id='circle331' cx='1050' cy='7774' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='626'><polyline id='polyline626' points='1050.000000 7807.800000, 880.000000 7807.800000, 880.000000 7712.600000'/>
+<g id='627'><polyline id='polyline627' points='1220.000000 7807.800000, 1050.000000 7807.800000, 1050.000000 7807.800000'/>
+<circle id='circle627' cx='1220' cy='7807' r='-38'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pimelobacter simplex" x="1235" y="7813.13333333328">Pimelobacter simplex (0.01)</text>\n"</g>
+<circle id='circle626' cx='1050' cy='7807' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle158' cx='880' cy='7712' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle157' cx='710' cy='7712' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='352'><polyline id='polyline352' points='710.000000 7858.200000, 540.000000 7858.200000, 540.000000 6981.800000'/>
+<g id='353'><polyline id='polyline353' points='880.000000 7858.200000, 710.000000 7858.200000, 710.000000 7858.200000'/>
+<g id='354'><polyline id='polyline354' points='1050.000000 7841.400000, 880.000000 7841.400000, 880.000000 7858.200000'/>
+<g id='355'><polyline id='polyline355' points='1220.000000 7830.200000, 1050.000000 7830.200000, 1050.000000 7841.400000'/>
+<circle id='circle355' cx='1220' cy='7830' r='-24'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klenkia soli" x="1235" y="7835.53333333328">Klenkia soli (0.06)</text>\n"</g>
+<g id='531'><polyline id='polyline531' points='1220.000000 7852.600000, 1050.000000 7852.600000, 1050.000000 7841.400000'/>
+<circle id='circle531' cx='1220' cy='7852' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Klenkia taihuensis" x="1235" y="7857.93333333328">Klenkia taihuensis (0.02)</text>\n"</g>
+<circle id='circle354' cx='1050' cy='7841' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='628'><polyline id='polyline628' points='1050.000000 7875.000000, 880.000000 7875.000000, 880.000000 7858.200000'/>
+<g id='629'><polyline id='polyline629' points='1220.000000 7875.000000, 1050.000000 7875.000000, 1050.000000 7875.000000'/>
+<circle id='circle629' cx='1220' cy='7874' r='-38'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Modestobacter marinus" x="1235" y="7880.33333333328">Modestobacter marinus (0.01)</text>\n"</g>
+<circle id='circle628' cx='1050' cy='7874' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle353' cx='880' cy='7858' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle352' cx='710' cy='7858' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='393'><polyline id='polyline393' points='710.000000 7908.600000, 540.000000 7908.600000, 540.000000 6981.800000'/>
+<g id='394'><polyline id='polyline394' points='880.000000 7908.600000, 710.000000 7908.600000, 710.000000 7908.600000'/>
+<g id='395'><polyline id='polyline395' points='1050.000000 7908.600000, 880.000000 7908.600000, 880.000000 7908.600000'/>
+<g id='396'><polyline id='polyline396' points='1220.000000 7897.400000, 1050.000000 7897.400000, 1050.000000 7908.600000'/>
+<circle id='circle396' cx='1220' cy='7897' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudonocardia autotrophica" x="1235" y="7902.73333333328">Pseudonocardia autotrophica (0.05)</text>\n"</g>
+<g id='447'><polyline id='polyline447' points='1220.000000 7919.800000, 1050.000000 7919.800000, 1050.000000 7908.600000'/>
+<circle id='circle447' cx='1220' cy='7919' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudonocardia sp. AL041005-10" x="1235" y="7925.13333333328">Pseudonocardia sp. AL041005-10 (0.04)</text>\n"</g>
+<circle id='circle395' cx='1050' cy='7908' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle394' cx='880' cy='7908' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle393' cx='710' cy='7908' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='451'><polyline id='polyline451' points='710.000000 7942.200000, 540.000000 7942.200000, 540.000000 6981.800000'/>
+<g id='452'><polyline id='polyline452' points='880.000000 7942.200000, 710.000000 7942.200000, 710.000000 7942.200000'/>
+<g id='453'><polyline id='polyline453' points='1050.000000 7942.200000, 880.000000 7942.200000, 880.000000 7942.200000'/>
+<g id='454'><polyline id='polyline454' points='1220.000000 7942.200000, 1050.000000 7942.200000, 1050.000000 7942.200000'/>
+<circle id='circle454' cx='1220' cy='7942' r='-29'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Kineococcus radiotolerans" x="1235" y="7947.53333333328">Kineococcus radiotolerans (0.03)</text>\n"</g>
+<circle id='circle453' cx='1050' cy='7942' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle452' cx='880' cy='7942' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle451' cx='710' cy='7942' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle22' cx='540' cy='6981' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='533'><polyline id='polyline533' points='540.000000 7998.200000, 370.000000 7998.200000, 370.000000 7490.000000'/>
+<g id='534'><polyline id='polyline534' points='710.000000 7998.200000, 540.000000 7998.200000, 540.000000 7998.200000'/>
+<g id='535'><polyline id='polyline535' points='880.000000 7964.600000, 710.000000 7964.600000, 710.000000 7998.200000'/>
+<g id='536'><polyline id='polyline536' points='1050.000000 7964.600000, 880.000000 7964.600000, 880.000000 7964.600000'/>
+<g id='537'><polyline id='polyline537' points='1220.000000 7964.600000, 1050.000000 7964.600000, 1050.000000 7964.600000'/>
+<circle id='circle537' cx='1220' cy='7964' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Conexibacter woesei" x="1235" y="7969.93333333328">Conexibacter woesei (0.02)</text>\n"</g>
+<circle id='circle536' cx='1050' cy='7964' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle535' cx='880' cy='7964' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='560'><polyline id='polyline560' points='880.000000 7998.200000, 710.000000 7998.200000, 710.000000 7998.200000'/>
+<g id='561'><polyline id='polyline561' points='1050.000000 7998.200000, 880.000000 7998.200000, 880.000000 7998.200000'/>
+<g id='562'><polyline id='polyline562' points='1220.000000 7987.000000, 1050.000000 7987.000000, 1050.000000 7998.200000'/>
+<circle id='circle562' cx='1220' cy='7986' r='-34'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Patulibacter minatonensis" x="1235" y="7992.33333333328">Patulibacter minatonensis (0.02)</text>\n"</g>
+<g id='589'><polyline id='polyline589' points='1220.000000 8009.400000, 1050.000000 8009.400000, 1050.000000 7998.200000'/>
+<circle id='circle589' cx='1220' cy='8009' r='-35'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Patulibacter americanus" x="1235" y="8014.73333333328">Patulibacter americanus (0.02)</text>\n"</g>
+<circle id='circle561' cx='1050' cy='7998' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle560' cx='880' cy='7998' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='615'><polyline id='polyline615' points='880.000000 8031.800000, 710.000000 8031.800000, 710.000000 7998.200000'/>
+<g id='616'><polyline id='polyline616' points='1050.000000 8031.800000, 880.000000 8031.800000, 880.000000 8031.800000'/>
+<g id='617'><polyline id='polyline617' points='1220.000000 8031.800000, 1050.000000 8031.800000, 1050.000000 8031.800000'/>
+<circle id='circle617' cx='1220' cy='8031' r='-37'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Solirubrobacter soli" x="1235" y="8037.13333333328">Solirubrobacter soli (0.01)</text>\n"</g>
+<circle id='circle616' cx='1050' cy='8031' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle615' cx='880' cy='8031' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle534' cx='710' cy='7998' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle533' cx='540' cy='7998' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle21' cx='370' cy='7489' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext21' class='text-id-tag' x='240.08' y='7509.99999999996'>Actinobacteria</text>
+</g>
+<g id='192'><polyline id='polyline192' points='370.000000 8054.200000, 200.000000 8054.200000, 200.000000 5495.700000'/>
+<g id='193'><polyline id='polyline193' points='540.000000 8054.200000, 370.000000 8054.200000, 370.000000 8054.200000'/>
+<g id='194'><polyline id='polyline194' points='710.000000 8054.200000, 540.000000 8054.200000, 540.000000 8054.200000'/>
+<g id='195'><polyline id='polyline195' points='880.000000 8054.200000, 710.000000 8054.200000, 710.000000 8054.200000'/>
+<g id='196'><polyline id='polyline196' points='1050.000000 8054.200000, 880.000000 8054.200000, 880.000000 8054.200000'/>
+<g id='197'><polyline id='polyline197' points='1220.000000 8054.200000, 1050.000000 8054.200000, 1050.000000 8054.200000'/>
+<circle id='circle197' cx='1220' cy='8054' r='-12'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Terriglobus roseus" x="1235" y="8059.53333333328">Terriglobus roseus (0.23)</text>\n"</g>
+<circle id='circle196' cx='1050' cy='8054' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle195' cx='880' cy='8054' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle194' cx='710' cy='8054' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle193' cx='540' cy='8054' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle192' cx='370' cy='8054' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext192' class='text-id-tag' x='249.36' y='8074.19999999995'>Acidobacteria</text>
+</g>
+<g id='292'><polyline id='polyline292' points='370.000000 8138.200000, 200.000000 8138.200000, 200.000000 5495.700000'/>
+<g id='293'><polyline id='polyline293' points='540.000000 8138.200000, 370.000000 8138.200000, 370.000000 8138.200000'/>
+<g id='294'><polyline id='polyline294' points='710.000000 8099.000000, 540.000000 8099.000000, 540.000000 8138.200000'/>
+<g id='295'><polyline id='polyline295' points='880.000000 8076.600000, 710.000000 8076.600000, 710.000000 8099.000000'/>
+<g id='296'><polyline id='polyline296' points='1050.000000 8076.600000, 880.000000 8076.600000, 880.000000 8076.600000'/>
+<g id='297'><polyline id='polyline297' points='1220.000000 8076.600000, 1050.000000 8076.600000, 1050.000000 8076.600000'/>
+<circle id='circle297' cx='1220' cy='8076' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptococcus dysgalactiae" x="1235" y="8081.93333333328">Streptococcus dysgalactiae (0.09)</text>\n"</g>
+<circle id='circle296' cx='1050' cy='8076' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle295' cx='880' cy='8076' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='327'><polyline id='polyline327' points='880.000000 8099.000000, 710.000000 8099.000000, 710.000000 8099.000000'/>
+<g id='328'><polyline id='polyline328' points='1050.000000 8099.000000, 880.000000 8099.000000, 880.000000 8099.000000'/>
+<g id='329'><polyline id='polyline329' points='1220.000000 8099.000000, 1050.000000 8099.000000, 1050.000000 8099.000000'/>
+<circle id='circle329' cx='1220' cy='8098' r='-23'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Lactobacillus pentosus" x="1235" y="8104.33333333328">Lactobacillus pentosus (0.07)</text>\n"</g>
+<circle id='circle328' cx='1050' cy='8098' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle327' cx='880' cy='8098' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='505'><polyline id='polyline505' points='880.000000 8121.400000, 710.000000 8121.400000, 710.000000 8099.000000'/>
+<g id='506'><polyline id='polyline506' points='1050.000000 8121.400000, 880.000000 8121.400000, 880.000000 8121.400000'/>
+<g id='507'><polyline id='polyline507' points='1220.000000 8121.400000, 1050.000000 8121.400000, 1050.000000 8121.400000'/>
+<circle id='circle507' cx='1220' cy='8121' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Carnobacterium maltaromaticum" x="1235" y="8126.73333333328">Carnobacterium maltaromaticum (0.02)</text>\n"</g>
+<circle id='circle506' cx='1050' cy='8121' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle505' cx='880' cy='8121' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle294' cx='710' cy='8098' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='428'><polyline id='polyline428' points='710.000000 8177.400000, 540.000000 8177.400000, 540.000000 8138.200000'/>
+<g id='429'><polyline id='polyline429' points='880.000000 8177.400000, 710.000000 8177.400000, 710.000000 8177.400000'/>
+<g id='430'><polyline id='polyline430' points='1050.000000 8177.400000, 880.000000 8177.400000, 880.000000 8177.400000'/>
+<g id='431'><polyline id='polyline431' points='1220.000000 8143.800000, 1050.000000 8143.800000, 1050.000000 8177.400000'/>
+<circle id='circle431' cx='1220' cy='8143' r='-28'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Paenibacillus sp. FSL P4-0081" x="1235" y="8149.13333333328">Paenibacillus sp. FSL P4-0081 (0.04)</text>\n"</g>
+<g id='512'><polyline id='polyline512' points='1220.000000 8166.200000, 1050.000000 8166.200000, 1050.000000 8177.400000'/>
+<circle id='circle512' cx='1220' cy='8166' r='-32'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Paenibacillus sp. FSL R5-0912" x="1235" y="8171.53333333328">Paenibacillus sp. FSL R5-0912 (0.02)</text>\n"</g>
+<g id='519'><polyline id='polyline519' points='1220.000000 8188.600000, 1050.000000 8188.600000, 1050.000000 8177.400000'/>
+<circle id='circle519' cx='1220' cy='8188' r='-33'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Paenibacillus xylanexedens" x="1235" y="8193.93333333328">Paenibacillus xylanexedens (0.02)</text>\n"</g>
+<g id='630'><polyline id='polyline630' points='1220.000000 8211.000000, 1050.000000 8211.000000, 1050.000000 8177.400000'/>
+<circle id='circle630' cx='1220' cy='8210' r='-38'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Paenibacillus borealis" x="1235" y="8216.33333333328">Paenibacillus borealis (0.01)</text>\n"</g>
+<circle id='circle430' cx='1050' cy='8177' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle429' cx='880' cy='8177' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle428' cx='710' cy='8177' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle293' cx='540' cy='8138' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle292' cx='370' cy='8138' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext292' class='text-id-tag' x='277.2' y='8158.19999999995'>Firmicutes</text>
+</g>
+<circle id='circle2' cx='200' cy='5495' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext2' class='text-id-tag' x='125.76' y='5483.69999999997'>Bacteria</text>
+</g>
+<g id='78'><polyline id='polyline78' points='200.000000 8433.600000, 30.000000 8433.600000, 30.000000 6964.650000'/>
+<g id='79'><polyline id='polyline79' points='370.000000 8342.600000, 200.000000 8342.600000, 200.000000 8433.600000'/>
+<g id='80'><polyline id='polyline80' points='540.000000 8342.600000, 370.000000 8342.600000, 370.000000 8342.600000'/>
+<g id='81'><polyline id='polyline81' points='710.000000 8342.600000, 540.000000 8342.600000, 540.000000 8342.600000'/>
+<g id='82'><polyline id='polyline82' points='880.000000 8272.600000, 710.000000 8272.600000, 710.000000 8342.600000'/>
+<g id='83'><polyline id='polyline83' points='1050.000000 8244.600000, 880.000000 8244.600000, 880.000000 8272.600000'/>
+<g id='84'><polyline id='polyline84' points='1220.000000 8233.400000, 1050.000000 8233.400000, 1050.000000 8244.600000'/>
+<circle id='circle84' cx='1220' cy='8233' r='0'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Erwinia phage vB_EamM_Kwan" x="1235" y="8238.73333333328">Erwinia phage vB_EamM_Kwan (1.09)</text>\n"</g>
+<g id='255'><polyline id='polyline255' points='1220.000000 8255.800000, 1050.000000 8255.800000, 1050.000000 8244.600000'/>
+<circle id='circle255' cx='1220' cy='8255' r='-18'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Erwinia phage vB_EamM_Huxley" x="1235" y="8261.13333333328">Erwinia phage vB_EamM_Huxley (0.12)</text>\n"</g>
+<circle id='circle83' cx='1050' cy='8244' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='299'><polyline id='polyline299' points='1050.000000 8278.200000, 880.000000 8278.200000, 880.000000 8272.600000'/>
+<g id='300'><polyline id='polyline300' points='1220.000000 8278.200000, 1050.000000 8278.200000, 1050.000000 8278.200000'/>
+<circle id='circle300' cx='1220' cy='8278' r='-21'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Pseudomonas phage VCM" x="1235" y="8283.53333333328">Pseudomonas phage VCM (0.09)</text>\n"</g>
+<circle id='circle299' cx='1050' cy='8278' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='594'><polyline id='polyline594' points='1050.000000 8300.600000, 880.000000 8300.600000, 880.000000 8272.600000'/>
+<g id='595'><polyline id='polyline595' points='1220.000000 8300.600000, 1050.000000 8300.600000, 1050.000000 8300.600000'/>
+<circle id='circle595' cx='1220' cy='8300' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Xanthomonas phage vB_XveM_DIBBI" x="1235" y="8305.93333333328">Xanthomonas phage vB_XveM_DIBBI (0.02)</text>\n"</g>
+<circle id='circle594' cx='1050' cy='8300' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle82' cx='880' cy='8272' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='140'><polyline id='polyline140' points='880.000000 8412.600000, 710.000000 8412.600000, 710.000000 8342.600000'/>
+<g id='141'><polyline id='polyline141' points='1050.000000 8323.000000, 880.000000 8323.000000, 880.000000 8412.600000'/>
+<g id='142'><polyline id='polyline142' points='1220.000000 8323.000000, 1050.000000 8323.000000, 1050.000000 8323.000000'/>
+<circle id='circle142' cx='1220' cy='8322' r='-6'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces phage ToastyFinz" x="1235" y="8328.33333333328">Streptomyces phage ToastyFinz (0.50)</text>\n"</g>
+<circle id='circle141' cx='1050' cy='8322' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='143'><polyline id='polyline143' points='1050.000000 8367.800000, 880.000000 8367.800000, 880.000000 8412.600000'/>
+<g id='144'><polyline id='polyline144' points='1220.000000 8345.400000, 1050.000000 8345.400000, 1050.000000 8367.800000'/>
+<circle id='circle144' cx='1220' cy='8345' r='-6'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces virus R4" x="1235" y="8350.73333333328">Streptomyces virus R4 (0.50)</text>\n"</g>
+<g id='161'><polyline id='polyline161' points='1220.000000 8367.800000, 1050.000000 8367.800000, 1050.000000 8367.800000'/>
+<circle id='circle161' cx='1220' cy='8367' r='-8'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces virus ELB20" x="1235" y="8373.13333333328">Streptomyces virus ELB20 (0.38)</text>\n"</g>
+<g id='496'><polyline id='polyline496' points='1220.000000 8390.200000, 1050.000000 8390.200000, 1050.000000 8367.800000'/>
+<circle id='circle496' cx='1220' cy='8390' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces phage Daudau" x="1235" y="8395.53333333328">Streptomyces phage Daudau (0.03)</text>\n"</g>
+<circle id='circle143' cx='1050' cy='8367' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='400'><polyline id='polyline400' points='1050.000000 8423.800000, 880.000000 8423.800000, 880.000000 8412.600000'/>
+<g id='401'><polyline id='polyline401' points='1220.000000 8412.600000, 1050.000000 8412.600000, 1050.000000 8423.800000'/>
+<circle id='circle401' cx='1220' cy='8412' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces virus phiC31" x="1235" y="8417.93333333328">Streptomyces virus phiC31 (0.05)</text>\n"</g>
+<g id='490'><polyline id='polyline490' points='1220.000000 8435.000000, 1050.000000 8435.000000, 1050.000000 8423.800000'/>
+<circle id='circle490' cx='1220' cy='8434' r='-31'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces virus phiBT1" x="1235" y="8440.33333333328">Streptomyces virus phiBT1 (0.03)</text>\n"</g>
+<circle id='circle400' cx='1050' cy='8423' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='408'><polyline id='polyline408' points='1050.000000 8457.400000, 880.000000 8457.400000, 880.000000 8412.600000'/>
+<g id='409'><polyline id='polyline409' points='1220.000000 8457.400000, 1050.000000 8457.400000, 1050.000000 8457.400000'/>
+<circle id='circle409' cx='1220' cy='8457' r='-26'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Brucella phage BiPBO1" x="1235" y="8462.73333333328">Brucella phage BiPBO1 (0.05)</text>\n"</g>
+<circle id='circle408' cx='1050' cy='8457' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='470'><polyline id='polyline470' points='1050.000000 8479.800000, 880.000000 8479.800000, 880.000000 8412.600000'/>
+<g id='471'><polyline id='polyline471' points='1220.000000 8479.800000, 1050.000000 8479.800000, 1050.000000 8479.800000'/>
+<circle id='circle471' cx='1220' cy='8479' r='-30'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Streptomyces phage Raleigh" x="1235" y="8485.13333333328">Streptomyces phage Raleigh (0.03)</text>\n"</g>
+<circle id='circle470' cx='1050' cy='8479' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<g id='611'><polyline id='polyline611' points='1050.000000 8502.200000, 880.000000 8502.200000, 880.000000 8412.600000'/>
+<g id='612'><polyline id='polyline612' points='1220.000000 8502.200000, 1050.000000 8502.200000, 1050.000000 8502.200000'/>
+<circle id='circle612' cx='1220' cy='8502' r='-36'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Sinorhizobium phage phiLM21" x="1235" y="8507.53333333327">Sinorhizobium phage phiLM21 (0.01)</text>\n"</g>
+<circle id='circle611' cx='1050' cy='8502' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle140' cx='880' cy='8412' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle81' cx='710' cy='8342' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle80' cx='540' cy='8342' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle79' cx='370' cy='8342' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext79' class='text-id-tag' x='35.92' y='8362.59999999994'>Caudovirales - no_c_rank - no_p_rank</text>
+</g>
+<g id='125'><polyline id='polyline125' points='370.000000 8524.600000, 200.000000 8524.600000, 200.000000 8433.600000'/>
+<g id='126'><polyline id='polyline126' points='540.000000 8524.600000, 370.000000 8524.600000, 370.000000 8524.600000'/>
+<g id='127'><polyline id='polyline127' points='710.000000 8524.600000, 540.000000 8524.600000, 540.000000 8524.600000'/>
+<g id='128'><polyline id='polyline128' points='880.000000 8524.600000, 710.000000 8524.600000, 710.000000 8524.600000'/>
+<g id='129'><polyline id='polyline129' points='1050.000000 8524.600000, 880.000000 8524.600000, 880.000000 8524.600000'/>
+<g id='130'><polyline id='polyline130' points='1220.000000 8524.600000, 1050.000000 8524.600000, 1050.000000 8524.600000'/>
+<circle id='circle130' cx='1220' cy='8524' r='-3'  stroke='grey' stroke-width='1'  />
+<text class="text-taxon" id="Cedratvirus A11" x="1235" y="8529.93333333327">Cedratvirus A11 (0.66)</text>\n"</g>
+<circle id='circle129' cx='1050' cy='8524' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle128' cx='880' cy='8524' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle127' cx='710' cy='8524' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle126' cx='540' cy='8524' r='0' stroke='grey' stroke-width='1'/>
+</g>
+<circle id='circle125' cx='370' cy='8524' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext125' class='text-id-tag' x='-75.4399999999999' y='8544.59999999994'>Pithoviridae - no_o_rank - no_c_rank - no_p_rank</text>
+</g>
+<circle id='circle78' cx='200' cy='8433' r='0' stroke='grey' stroke-width='1'/>
+<text id='idtext78' class='text-id-tag' x='135.04' y='8421.59999999994'>Viruses</text>
+</g>
+</g></svg>

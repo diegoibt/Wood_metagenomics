@@ -1,0 +1,609 @@
+<head>
+<link rel='stylesheet' type='text/css' href='https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css'>
+<script type='text/javascript' charset='utf8' src='https://code.jquery.com/jquery-3.3.1.js'></script>
+<script type='text/javascript' charset='utf8' src='https://cdn.datatables.net/1.10.19/js/jquery.dataTables.min.js'></script>
+</head>
+<body>
+<script>
+        $(document).ready(function() {
+            $('#gottcha2_result_table').DataTable();
+        } );
+        </script><table id='gottcha2_result_table' class='display' style=''>
+<thead><tr><th>LEVEL</th><th>NAME</th><th>TAXID</th><th>READ_COUNT</th><th>TOTAL_BP_MAPPED</th><th>TOTAL_BP_MISMATCH</th><th>LINEAR_LEN</th><th>LINEAR_DOC</th><th>ROLLUP_DOC</th><th>REL_ABUNDANCE</th></tr></thead>
+<tbody>
+<tr>
+<td>superkingdom</td><td>Bacteria</td><td>2</td><td>1419306</td><td>95372314</td><td>2113505</td><td>26304414</td><td>3.625715</td><td>55.938104</td><td>0.979893</td></tr>
+<tr>
+<td>superkingdom</td><td>Viruses</td><td>10239</td><td>1290</td><td>96481</td><td>3151</td><td>60846</td><td>1.585659</td><td>1.147813</td><td>0.020107</td></tr>
+<tr>
+<td>phylum</td><td>Proteobacteria</td><td>1224</td><td>585237</td><td>38540883</td><td>787158</td><td>6773233</td><td>5.690175</td><td>24.664362</td><td>0.432057</td></tr>
+<tr>
+<td>phylum</td><td>Firmicutes</td><td>1239</td><td>571289</td><td>40449182</td><td>984360</td><td>13270383</td><td>3.048079</td><td>19.253827</td><td>0.337278</td></tr>
+<tr>
+<td>phylum</td><td>Actinobacteria</td><td>201174</td><td>252123</td><td>15641256</td><td>318562</td><td>5784499</td><td>2.703995</td><td>11.781805</td><td>0.206387</td></tr>
+<tr>
+<td>phylum</td><td>Caudovirales - no_c_rank - no_p_rank</td><td>0</td><td>394</td><td>25219</td><td>821</td><td>8194</td><td>3.077740</td><td>0.983380</td><td>0.017226</td></tr>
+<tr>
+<td>phylum</td><td>Bacteroidetes</td><td>976</td><td>10657</td><td>740993</td><td>23425</td><td>476299</td><td>1.555731</td><td>0.238110</td><td>0.004171</td></tr>
+<tr>
+<td>phylum</td><td>Pithoviridae - no_o_rank - no_c_rank - no_p_rank</td><td>0</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>phylum</td><td>Mimiviridae - no_o_rank - no_c_rank - no_p_rank</td><td>0</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>class</td><td>Gammaproteobacteria</td><td>1236</td><td>554541</td><td>36499436</td><td>738127</td><td>5248070</td><td>6.954830</td><td>23.514294</td><td>0.411911</td></tr>
+<tr>
+<td>class</td><td>Bacilli</td><td>91061</td><td>571289</td><td>40449182</td><td>984360</td><td>13270383</td><td>3.048079</td><td>19.253827</td><td>0.337278</td></tr>
+<tr>
+<td>class</td><td>Actinobacteria</td><td>1760</td><td>252123</td><td>15641256</td><td>318562</td><td>5784499</td><td>2.703995</td><td>11.781805</td><td>0.206387</td></tr>
+<tr>
+<td>class</td><td>Caudovirales - no_c_rank</td><td>0</td><td>394</td><td>25219</td><td>821</td><td>8194</td><td>3.077740</td><td>0.983380</td><td>0.017226</td></tr>
+<tr>
+<td>class</td><td>Alphaproteobacteria</td><td>28211</td><td>22289</td><td>1496588</td><td>36985</td><td>1123667</td><td>1.331879</td><td>0.909737</td><td>0.015936</td></tr>
+<tr>
+<td>class</td><td>Betaproteobacteria</td><td>28216</td><td>6352</td><td>403327</td><td>8725</td><td>282402</td><td>1.428202</td><td>0.215694</td><td>0.003778</td></tr>
+<tr>
+<td>class</td><td>Pithoviridae - no_o_rank - no_c_rank</td><td>0</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>class</td><td>Sphingobacteriia</td><td>117747</td><td>8208</td><td>588050</td><td>19715</td><td>358747</td><td>1.639177</td><td>0.146612</td><td>0.002568</td></tr>
+<tr>
+<td>class</td><td>Flavobacteriia</td><td>117743</td><td>2449</td><td>152943</td><td>3710</td><td>117552</td><td>1.301067</td><td>0.091498</td><td>0.001603</td></tr>
+<tr>
+<td>class</td><td>Deltaproteobacteria</td><td>28221</td><td>2055</td><td>141532</td><td>3321</td><td>119094</td><td>1.188406</td><td>0.024637</td><td>0.000432</td></tr>
+<tr>
+<td>class</td><td>Mimiviridae - no_o_rank - no_c_rank</td><td>0</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>order</td><td>Xanthomonadales</td><td>135614</td><td>507901</td><td>33402460</td><td>677407</td><td>3128443</td><td>10.677024</td><td>21.231013</td><td>0.371913</td></tr>
+<tr>
+<td>order</td><td>Bacillales</td><td>1385</td><td>571289</td><td>40449182</td><td>984360</td><td>13270383</td><td>3.048079</td><td>19.253827</td><td>0.337278</td></tr>
+<tr>
+<td>order</td><td>Streptomycetales</td><td>85011</td><td>164048</td><td>9874359</td><td>196826</td><td>2354577</td><td>4.193687</td><td>8.317521</td><td>0.145702</td></tr>
+<tr>
+<td>order</td><td>Micrococcales</td><td>85006</td><td>80559</td><td>5253769</td><td>112138</td><td>3012168</td><td>1.744182</td><td>3.001879</td><td>0.052585</td></tr>
+<tr>
+<td>order</td><td>Pseudomonadales</td><td>72274</td><td>34635</td><td>2239841</td><td>48828</td><td>1472485</td><td>1.521130</td><td>1.350615</td><td>0.023659</td></tr>
+<tr>
+<td>order</td><td>Caudovirales</td><td>28883</td><td>394</td><td>25219</td><td>821</td><td>8194</td><td>3.077740</td><td>0.983380</td><td>0.017226</td></tr>
+<tr>
+<td>order</td><td>Enterobacterales</td><td>91347</td><td>12005</td><td>857135</td><td>11892</td><td>647142</td><td>1.324493</td><td>0.932667</td><td>0.016338</td></tr>
+<tr>
+<td>order</td><td>Rhizobiales</td><td>356</td><td>17207</td><td>1165354</td><td>29064</td><td>853040</td><td>1.366119</td><td>0.732665</td><td>0.012834</td></tr>
+<tr>
+<td>order</td><td>Corynebacteriales</td><td>85007</td><td>3683</td><td>257750</td><td>4623</td><td>209847</td><td>1.228276</td><td>0.303768</td><td>0.005321</td></tr>
+<tr>
+<td>order</td><td>Burkholderiales</td><td>80840</td><td>6352</td><td>403327</td><td>8725</td><td>282402</td><td>1.428202</td><td>0.215694</td><td>0.003778</td></tr>
+<tr>
+<td>order</td><td>Pithoviridae - no_o_rank</td><td>0</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>order</td><td>Sphingobacteriales</td><td>200666</td><td>8208</td><td>588050</td><td>19715</td><td>358747</td><td>1.639177</td><td>0.146612</td><td>0.002568</td></tr>
+<tr>
+<td>order</td><td>Propionibacteriales</td><td>85009</td><td>3580</td><td>239795</td><td>4818</td><td>194934</td><td>1.230134</td><td>0.143239</td><td>0.002509</td></tr>
+<tr>
+<td>order</td><td>Sphingomonadales</td><td>204457</td><td>3363</td><td>234834</td><td>5062</td><td>193444</td><td>1.213964</td><td>0.115686</td><td>0.002027</td></tr>
+<tr>
+<td>order</td><td>Flavobacteriales</td><td>200644</td><td>2449</td><td>152943</td><td>3710</td><td>117552</td><td>1.301067</td><td>0.091498</td><td>0.001603</td></tr>
+<tr>
+<td>order</td><td>Caulobacterales</td><td>204458</td><td>1719</td><td>96400</td><td>2859</td><td>77183</td><td>1.248980</td><td>0.061386</td><td>0.001075</td></tr>
+<tr>
+<td>order</td><td>Myxococcales</td><td>29</td><td>2055</td><td>141532</td><td>3321</td><td>119094</td><td>1.188406</td><td>0.024637</td><td>0.000432</td></tr>
+<tr>
+<td>order</td><td>Mimiviridae - no_o_rank</td><td>0</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>order</td><td>Micromonosporales</td><td>85008</td><td>253</td><td>15583</td><td>157</td><td>12973</td><td>1.201187</td><td>0.015399</td><td>0.000270</td></tr>
+<tr>
+<td>family</td><td>Xanthomonadaceae</td><td>32033</td><td>506791</td><td>33326605</td><td>675116</td><td>3065610</td><td>10.871117</td><td>21.200381</td><td>0.371377</td></tr>
+<tr>
+<td>family</td><td>Bacillaceae</td><td>186817</td><td>285001</td><td>19905437</td><td>548146</td><td>5686256</td><td>3.500623</td><td>12.104238</td><td>0.212035</td></tr>
+<tr>
+<td>family</td><td>Streptomycetaceae</td><td>2062</td><td>164048</td><td>9874359</td><td>196826</td><td>2354577</td><td>4.193687</td><td>8.317521</td><td>0.145702</td></tr>
+<tr>
+<td>family</td><td>Paenibacillaceae</td><td>186822</td><td>265255</td><td>18994145</td><td>405250</td><td>6471336</td><td>2.935120</td><td>6.523683</td><td>0.114278</td></tr>
+<tr>
+<td>family</td><td>Microbacteriaceae</td><td>85023</td><td>32761</td><td>2119003</td><td>46689</td><td>1251895</td><td>1.692636</td><td>1.436297</td><td>0.025160</td></tr>
+<tr>
+<td>family</td><td>Pseudomonadaceae</td><td>135621</td><td>34635</td><td>2239841</td><td>48828</td><td>1472485</td><td>1.521130</td><td>1.350615</td><td>0.023659</td></tr>
+<tr>
+<td>family</td><td>Cellulomonadaceae</td><td>85016</td><td>24163</td><td>1564138</td><td>38212</td><td>635569</td><td>2.461004</td><td>0.855991</td><td>0.014995</td></tr>
+<tr>
+<td>family</td><td>Planococcaceae</td><td>186818</td><td>21033</td><td>1549600</td><td>30964</td><td>1112791</td><td>1.392535</td><td>0.625906</td><td>0.010964</td></tr>
+<tr>
+<td>family</td><td>Podoviridae</td><td>10744</td><td>290</td><td>18612</td><td>685</td><td>3768</td><td>4.939490</td><td>0.579272</td><td>0.010147</td></tr>
+<tr>
+<td>family</td><td>Promicromonosporaceae</td><td>85017</td><td>18401</td><td>1174753</td><td>21576</td><td>813553</td><td>1.443978</td><td>0.552778</td><td>0.009683</td></tr>
+<tr>
+<td>family</td><td>Yersiniaceae</td><td>1903411</td><td>1636</td><td>120081</td><td>1361</td><td>78172</td><td>1.536113</td><td>0.498013</td><td>0.008724</td></tr>
+<tr>
+<td>family</td><td>Rhizobiaceae</td><td>82115</td><td>7274</td><td>472750</td><td>11499</td><td>279819</td><td>1.689485</td><td>0.446975</td><td>0.007830</td></tr>
+<tr>
+<td>family</td><td>Siphoviridae</td><td>10699</td><td>104</td><td>6607</td><td>136</td><td>4426</td><td>1.492770</td><td>0.404109</td><td>0.007079</td></tr>
+<tr>
+<td>family</td><td>Nocardiaceae</td><td>85025</td><td>3683</td><td>257750</td><td>4623</td><td>209847</td><td>1.228276</td><td>0.303768</td><td>0.005321</td></tr>
+<tr>
+<td>family</td><td>Enterobacteriaceae</td><td>543</td><td>2700</td><td>172658</td><td>3319</td><td>143238</td><td>1.205392</td><td>0.233604</td><td>0.004092</td></tr>
+<tr>
+<td>family</td><td>Alcaligenaceae</td><td>506</td><td>6352</td><td>403327</td><td>8725</td><td>282402</td><td>1.428202</td><td>0.215694</td><td>0.003778</td></tr>
+<tr>
+<td>family</td><td>Erwiniaceae</td><td>1903409</td><td>7669</td><td>564396</td><td>7212</td><td>425732</td><td>1.325707</td><td>0.201050</td><td>0.003522</td></tr>
+<tr>
+<td>family</td><td>Micrococcaceae</td><td>1268</td><td>5234</td><td>395875</td><td>5661</td><td>311151</td><td>1.272292</td><td>0.156812</td><td>0.002747</td></tr>
+<tr>
+<td>family</td><td>Pithoviridae</td><td>2023203</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>family</td><td>Sphingobacteriaceae</td><td>84566</td><td>8208</td><td>588050</td><td>19715</td><td>358747</td><td>1.639177</td><td>0.146612</td><td>0.002568</td></tr>
+<tr>
+<td>family</td><td>Nocardioidaceae</td><td>85015</td><td>3580</td><td>239795</td><td>4818</td><td>194934</td><td>1.230134</td><td>0.143239</td><td>0.002509</td></tr>
+<tr>
+<td>family</td><td>Sphingomonadaceae</td><td>41297</td><td>3363</td><td>234834</td><td>5062</td><td>193444</td><td>1.213964</td><td>0.115686</td><td>0.002027</td></tr>
+<tr>
+<td>family</td><td>Xanthobacteraceae</td><td>335928</td><td>3120</td><td>197456</td><td>5202</td><td>159850</td><td>1.235258</td><td>0.094601</td><td>0.001657</td></tr>
+<tr>
+<td>family</td><td>Flavobacteriaceae</td><td>49546</td><td>2449</td><td>152943</td><td>3710</td><td>117552</td><td>1.301067</td><td>0.091498</td><td>0.001603</td></tr>
+<tr>
+<td>family</td><td>Brucellaceae</td><td>118882</td><td>2298</td><td>176154</td><td>3524</td><td>145227</td><td>1.212956</td><td>0.082927</td><td>0.001453</td></tr>
+<tr>
+<td>family</td><td>Caulobacteraceae</td><td>76892</td><td>1719</td><td>96400</td><td>2859</td><td>77183</td><td>1.248980</td><td>0.061386</td><td>0.001075</td></tr>
+<tr>
+<td>family</td><td>Aurantimonadaceae</td><td>255475</td><td>1513</td><td>114140</td><td>1718</td><td>93876</td><td>1.215859</td><td>0.046417</td><td>0.000813</td></tr>
+<tr>
+<td>family</td><td>Hyphomicrobiaceae</td><td>45401</td><td>1958</td><td>131866</td><td>4336</td><td>111940</td><td>1.178006</td><td>0.045051</td><td>0.000789</td></tr>
+<tr>
+<td>family</td><td>Rhodanobacteraceae</td><td>1775411</td><td>1110</td><td>75855</td><td>2291</td><td>62833</td><td>1.207248</td><td>0.030631</td><td>0.000537</td></tr>
+<tr>
+<td>family</td><td>Myxococcaceae</td><td>31</td><td>2055</td><td>141532</td><td>3321</td><td>119094</td><td>1.188406</td><td>0.024637</td><td>0.000432</td></tr>
+<tr>
+<td>family</td><td>Mimiviridae</td><td>549779</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>family</td><td>Pseudorhodoplanes - no_f_rank</td><td>0</td><td>1044</td><td>72988</td><td>2785</td><td>62328</td><td>1.171031</td><td>0.016694</td><td>0.000292</td></tr>
+<tr>
+<td>family</td><td>Micromonosporaceae</td><td>28056</td><td>253</td><td>15583</td><td>157</td><td>12973</td><td>1.201187</td><td>0.015399</td><td>0.000270</td></tr>
+<tr>
+<td>genus</td><td>Stenotrophomonas</td><td>40323</td><td>497284</td><td>32706598</td><td>656729</td><td>2715320</td><td>12.045209</td><td>20.769857</td><td>0.363835</td></tr>
+<tr>
+<td>genus</td><td>Bacillus</td><td>1386</td><td>278210</td><td>19404871</td><td>540668</td><td>5288365</td><td>3.669352</td><td>11.891043</td><td>0.208301</td></tr>
+<tr>
+<td>genus</td><td>Streptomyces</td><td>1883</td><td>156340</td><td>9467553</td><td>186787</td><td>2314554</td><td>4.090444</td><td>8.068985</td><td>0.141348</td></tr>
+<tr>
+<td>genus</td><td>Paenibacillus</td><td>44249</td><td>265255</td><td>18994145</td><td>405250</td><td>6471336</td><td>2.935120</td><td>6.523683</td><td>0.114278</td></tr>
+<tr>
+<td>genus</td><td>Pseudomonas</td><td>286</td><td>34635</td><td>2239841</td><td>48828</td><td>1472485</td><td>1.521130</td><td>1.350615</td><td>0.023659</td></tr>
+<tr>
+<td>genus</td><td>Microbacterium</td><td>33882</td><td>23295</td><td>1530047</td><td>33645</td><td>867208</td><td>1.764337</td><td>1.082521</td><td>0.018963</td></tr>
+<tr>
+<td>genus</td><td>Oerskovia</td><td>162491</td><td>24163</td><td>1564138</td><td>38212</td><td>635569</td><td>2.461004</td><td>0.855991</td><td>0.014995</td></tr>
+<tr>
+<td>genus</td><td>Xanthomonas citri phage CP2 - no_g_rank</td><td>0</td><td>290</td><td>18612</td><td>685</td><td>3768</td><td>4.939490</td><td>0.579272</td><td>0.010147</td></tr>
+<tr>
+<td>genus</td><td>Rahnella</td><td>34037</td><td>1636</td><td>120081</td><td>1361</td><td>78172</td><td>1.536113</td><td>0.498013</td><td>0.008724</td></tr>
+<tr>
+<td>genus</td><td>Solibacillus</td><td>648800</td><td>16532</td><td>1222455</td><td>26363</td><td>864702</td><td>1.413730</td><td>0.493450</td><td>0.008644</td></tr>
+<tr>
+<td>genus</td><td>Agrobacterium</td><td>357</td><td>4742</td><td>312394</td><td>5995</td><td>198279</td><td>1.575527</td><td>0.405448</td><td>0.007102</td></tr>
+<tr>
+<td>genus</td><td>Promicromonospora</td><td>43676</td><td>13597</td><td>893459</td><td>16193</td><td>600949</td><td>1.486747</td><td>0.342422</td><td>0.005998</td></tr>
+<tr>
+<td>genus</td><td>Streptomyces phage ToastyFinz - no_g_rank</td><td>0</td><td>86</td><td>5286</td><td>96</td><td>3401</td><td>1.554249</td><td>0.323857</td><td>0.005673</td></tr>
+<tr>
+<td>genus</td><td>Pseudoxanthomonas</td><td>83618</td><td>8983</td><td>574462</td><td>17149</td><td>335905</td><td>1.710192</td><td>0.289227</td><td>0.005067</td></tr>
+<tr>
+<td>genus</td><td>Rhodococcus</td><td>1827</td><td>1841</td><td>133567</td><td>1538</td><td>104558</td><td>1.277444</td><td>0.268833</td><td>0.004709</td></tr>
+<tr>
+<td>genus</td><td>Agromyces</td><td>33877</td><td>7493</td><td>469891</td><td>11312</td><td>284762</td><td>1.650118</td><td>0.257786</td><td>0.004516</td></tr>
+<tr>
+<td>genus</td><td>Kitasatospora</td><td>2063</td><td>7708</td><td>406806</td><td>10039</td><td>40023</td><td>10.164306</td><td>0.248536</td><td>0.004354</td></tr>
+<tr>
+<td>genus</td><td>Achromobacter</td><td>222</td><td>6352</td><td>403327</td><td>8725</td><td>282402</td><td>1.428202</td><td>0.215694</td><td>0.003778</td></tr>
+<tr>
+<td>genus</td><td>Cellulosimicrobium</td><td>157920</td><td>4344</td><td>253101</td><td>4669</td><td>193299</td><td>1.309376</td><td>0.194242</td><td>0.003403</td></tr>
+<tr>
+<td>genus</td><td>Erwinia</td><td>551</td><td>7013</td><td>522888</td><td>6588</td><td>391794</td><td>1.334599</td><td>0.175009</td><td>0.003066</td></tr>
+<tr>
+<td>genus</td><td>Arthrobacter</td><td>1663</td><td>5234</td><td>395875</td><td>5661</td><td>311151</td><td>1.272292</td><td>0.156812</td><td>0.002747</td></tr>
+<tr>
+<td>genus</td><td>Cedratvirus A11 - no_g_rank</td><td>0</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>genus</td><td>Xanthomonas</td><td>338</td><td>524</td><td>45545</td><td>1238</td><td>14385</td><td>3.166145</td><td>0.141298</td><td>0.002475</td></tr>
+<tr>
+<td>genus</td><td>Paenisporosarcina</td><td>651660</td><td>4501</td><td>327145</td><td>4601</td><td>248089</td><td>1.318660</td><td>0.132456</td><td>0.002320</td></tr>
+<tr>
+<td>genus</td><td>Aeromicrobium</td><td>2040</td><td>2801</td><td>187575</td><td>3299</td><td>150449</td><td>1.246768</td><td>0.124433</td><td>0.002180</td></tr>
+<tr>
+<td>genus</td><td>Curtobacterium</td><td>2034</td><td>1973</td><td>119065</td><td>1732</td><td>99925</td><td>1.191544</td><td>0.095991</td><td>0.001682</td></tr>
+<tr>
+<td>genus</td><td>Lysinibacillus</td><td>400634</td><td>2778</td><td>187669</td><td>1539</td><td>147678</td><td>1.270799</td><td>0.091187</td><td>0.001597</td></tr>
+<tr>
+<td>genus</td><td>Pseudosphingobacterium</td><td>407021</td><td>6023</td><td>440185</td><td>14909</td><td>246825</td><td>1.783389</td><td>0.089047</td><td>0.001560</td></tr>
+<tr>
+<td>genus</td><td>Sphingobium</td><td>165695</td><td>1710</td><td>119978</td><td>2942</td><td>96132</td><td>1.248055</td><td>0.083449</td><td>0.001462</td></tr>
+<tr>
+<td>genus</td><td>Starkeya</td><td>152053</td><td>2597</td><td>167298</td><td>4287</td><td>134928</td><td>1.239906</td><td>0.079832</td><td>0.001398</td></tr>
+<tr>
+<td>genus</td><td>Enterobacter</td><td>547</td><td>263</td><td>16545</td><td>357</td><td>14488</td><td>1.141980</td><td>0.075765</td><td>0.001327</td></tr>
+<tr>
+<td>genus</td><td>Terribacillus</td><td>459532</td><td>2402</td><td>191559</td><td>3302</td><td>152035</td><td>1.259966</td><td>0.075159</td><td>0.001317</td></tr>
+<tr>
+<td>genus</td><td>Lelliottia</td><td>1330545</td><td>1537</td><td>98125</td><td>1350</td><td>79346</td><td>1.236672</td><td>0.069886</td><td>0.001224</td></tr>
+<tr>
+<td>genus</td><td>Klebsiella</td><td>570</td><td>60</td><td>4711</td><td>103</td><td>3683</td><td>1.279120</td><td>0.060824</td><td>0.001065</td></tr>
+<tr>
+<td>genus</td><td>Chryseobacterium</td><td>59732</td><td>1508</td><td>91956</td><td>2262</td><td>67523</td><td>1.361847</td><td>0.058016</td><td>0.001016</td></tr>
+<tr>
+<td>genus</td><td>Ochrobactrum</td><td>528</td><td>2289</td><td>175412</td><td>3507</td><td>144637</td><td>1.212774</td><td>0.053712</td><td>0.000941</td></tr>
+<tr>
+<td>genus</td><td>N15virus</td><td>308911</td><td>15</td><td>1138</td><td>34</td><td>884</td><td>1.287330</td><td>0.051167</td><td>0.000896</td></tr>
+<tr>
+<td>genus</td><td>Brevundimonas</td><td>41275</td><td>1166</td><td>65062</td><td>1957</td><td>50762</td><td>1.281707</td><td>0.048921</td><td>0.000857</td></tr>
+<tr>
+<td>genus</td><td>Fictibacillus</td><td>1329200</td><td>1611</td><td>121338</td><td>2637</td><td>98178</td><td>1.235898</td><td>0.046849</td><td>0.000821</td></tr>
+<tr>
+<td>genus</td><td>Aureimonas</td><td>414371</td><td>1513</td><td>114140</td><td>1718</td><td>93876</td><td>1.215859</td><td>0.046417</td><td>0.000813</td></tr>
+<tr>
+<td>genus</td><td>Devosia</td><td>46913</td><td>1958</td><td>131866</td><td>4336</td><td>111940</td><td>1.178006</td><td>0.045051</td><td>0.000789</td></tr>
+<tr>
+<td>genus</td><td>Neorhizobium</td><td>1525371</td><td>2532</td><td>160356</td><td>5504</td><td>81540</td><td>1.966593</td><td>0.041528</td><td>0.000727</td></tr>
+<tr>
+<td>genus</td><td>Nocardia</td><td>1817</td><td>1842</td><td>124183</td><td>3085</td><td>105289</td><td>1.179449</td><td>0.034935</td><td>0.000612</td></tr>
+<tr>
+<td>genus</td><td>Flavobacterium</td><td>237</td><td>941</td><td>60987</td><td>1448</td><td>50029</td><td>1.219033</td><td>0.033481</td><td>0.000587</td></tr>
+<tr>
+<td>genus</td><td>Pedobacter</td><td>84567</td><td>1781</td><td>117465</td><td>3949</td><td>88621</td><td>1.325476</td><td>0.032695</td><td>0.000573</td></tr>
+<tr>
+<td>genus</td><td>Brucella</td><td>234</td><td>9</td><td>742</td><td>17</td><td>590</td><td>1.257627</td><td>0.029215</td><td>0.000512</td></tr>
+<tr>
+<td>genus</td><td>Cecivirus</td><td>1623290</td><td>3</td><td>183</td><td>6</td><td>141</td><td>1.297872</td><td>0.029085</td><td>0.000509</td></tr>
+<tr>
+<td>genus</td><td>Raoultella</td><td>160674</td><td>840</td><td>53277</td><td>1509</td><td>45721</td><td>1.165263</td><td>0.027129</td><td>0.000475</td></tr>
+<tr>
+<td>genus</td><td>Pantoea</td><td>53335</td><td>656</td><td>41508</td><td>624</td><td>33938</td><td>1.223054</td><td>0.026041</td><td>0.000456</td></tr>
+<tr>
+<td>genus</td><td>Sphingobacterium</td><td>28453</td><td>404</td><td>30400</td><td>857</td><td>23301</td><td>1.304665</td><td>0.024870</td><td>0.000436</td></tr>
+<tr>
+<td>genus</td><td>Myxococcus</td><td>32</td><td>2055</td><td>141532</td><td>3321</td><td>119094</td><td>1.188406</td><td>0.024637</td><td>0.000432</td></tr>
+<tr>
+<td>genus</td><td>Nocardioides</td><td>1839</td><td>779</td><td>52220</td><td>1519</td><td>44485</td><td>1.173879</td><td>0.018806</td><td>0.000329</td></tr>
+<tr>
+<td>genus</td><td>Megavirus chiliensis - no_g_rank</td><td>0</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>genus</td><td>Novosphingobium</td><td>165696</td><td>921</td><td>64427</td><td>1281</td><td>53909</td><td>1.195107</td><td>0.017192</td><td>0.000301</td></tr>
+<tr>
+<td>genus</td><td>Pseudorhodoplanes</td><td>1734920</td><td>1044</td><td>72988</td><td>2785</td><td>62328</td><td>1.171031</td><td>0.016694</td><td>0.000292</td></tr>
+<tr>
+<td>genus</td><td>Dokdonella</td><td>323413</td><td>524</td><td>34641</td><td>1035</td><td>27550</td><td>1.257387</td><td>0.016536</td><td>0.000290</td></tr>
+<tr>
+<td>genus</td><td>Krasilnikoviella</td><td>1914244</td><td>460</td><td>28193</td><td>714</td><td>19305</td><td>1.460399</td><td>0.016115</td><td>0.000282</td></tr>
+<tr>
+<td>genus</td><td>Micromonospora</td><td>1873</td><td>253</td><td>15583</td><td>157</td><td>12973</td><td>1.201187</td><td>0.015399</td><td>0.000270</td></tr>
+<tr>
+<td>genus</td><td>Sphingomonas</td><td>13687</td><td>732</td><td>50429</td><td>839</td><td>43403</td><td>1.161878</td><td>0.015044</td><td>0.000264</td></tr>
+<tr>
+<td>genus</td><td>Ancylobacter</td><td>99</td><td>523</td><td>30158</td><td>915</td><td>24922</td><td>1.210095</td><td>0.014769</td><td>0.000259</td></tr>
+<tr>
+<td>genus</td><td>Luteibacter</td><td>242605</td><td>586</td><td>41214</td><td>1256</td><td>35283</td><td>1.168098</td><td>0.014095</td><td>0.000247</td></tr>
+<tr>
+<td>genus</td><td>Caulobacter</td><td>75</td><td>553</td><td>31338</td><td>902</td><td>26421</td><td>1.186102</td><td>0.012465</td><td>0.000218</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas sp. LM091</td><td>1904944</td><td>293747</td><td>19140056</td><td>437738</td><td>941099</td><td>20.337984</td><td>12.027937</td><td>0.210699</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas rhizophila</td><td>216778</td><td>187418</td><td>12605112</td><td>194549</td><td>1379966</td><td>9.134364</td><td>7.782211</td><td>0.136325</td></tr>
+<tr>
+<td>species</td><td>Bacillus simplex</td><td>1478</td><td>215010</td><td>15413031</td><td>476113</td><td>2859778</td><td>5.389590</td><td>5.229504</td><td>0.091608</td></tr>
+<tr>
+<td>species</td><td>Bacillus megaterium</td><td>1404</td><td>22059</td><td>1436295</td><td>27092</td><td>656133</td><td>2.189030</td><td>3.641055</td><td>0.063782</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. FSL P4-0081</td><td>1536769</td><td>90105</td><td>5781234</td><td>85756</td><td>919685</td><td>6.286102</td><td>3.030688</td><td>0.053090</td></tr>
+<tr>
+<td>species</td><td>Streptomyces fulvissimus</td><td>68202</td><td>43546</td><td>2457802</td><td>52291</td><td>509836</td><td>4.820770</td><td>1.643243</td><td>0.028785</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. SirexAA-E</td><td>862751</td><td>48158</td><td>3079400</td><td>36207</td><td>1086530</td><td>2.834160</td><td>1.606560</td><td>0.028143</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus xylanexedens</td><td>528191</td><td>89315</td><td>7122291</td><td>192465</td><td>2940334</td><td>2.422273</td><td>1.398215</td><td>0.024493</td></tr>
+<tr>
+<td>species</td><td>Bacillus mycoides</td><td>1405</td><td>18025</td><td>1015597</td><td>5680</td><td>690331</td><td>1.471174</td><td>0.959760</td><td>0.016813</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus borealis</td><td>160799</td><td>35431</td><td>2572704</td><td>68570</td><td>490552</td><td>5.244508</td><td>0.869673</td><td>0.015234</td></tr>
+<tr>
+<td>species</td><td>Oerskovia turbata</td><td>1713</td><td>24163</td><td>1564138</td><td>38212</td><td>635569</td><td>2.461004</td><td>0.855991</td><td>0.014995</td></tr>
+<tr>
+<td>species</td><td>Microbacterium oxydans</td><td>82380</td><td>19146</td><td>1272248</td><td>28872</td><td>668729</td><td>1.902487</td><td>0.749752</td><td>0.013134</td></tr>
+<tr>
+<td>species</td><td>Streptomyces atroolivaceus</td><td>66869</td><td>29772</td><td>1667846</td><td>47516</td><td>155325</td><td>10.737782</td><td>0.631986</td><td>0.011071</td></tr>
+<tr>
+<td>species</td><td>Streptomyces olivaceus</td><td>47716</td><td>4789</td><td>353691</td><td>6748</td><td>16206</td><td>21.824695</td><td>0.581487</td><td>0.010186</td></tr>
+<tr>
+<td>species</td><td>Xanthomonas citri phage CP2</td><td>1188795</td><td>290</td><td>18612</td><td>685</td><td>3768</td><td>4.939490</td><td>0.579272</td><td>0.010147</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas koreensis</td><td>198620</td><td>17756</td><td>1151822</td><td>26315</td><td>683094</td><td>1.686184</td><td>0.541278</td><td>0.009482</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. FSL R5-0912</td><td>1536771</td><td>15529</td><td>956015</td><td>22971</td><td>207484</td><td>4.607656</td><td>0.498066</td><td>0.008725</td></tr>
+<tr>
+<td>species</td><td>Solibacillus silvestris</td><td>76853</td><td>16532</td><td>1222455</td><td>26363</td><td>864702</td><td>1.413730</td><td>0.493450</td><td>0.008644</td></tr>
+<tr>
+<td>species</td><td>Bacillus pumilus</td><td>1408</td><td>4900</td><td>294273</td><td>5969</td><td>237731</td><td>1.237840</td><td>0.463760</td><td>0.008124</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. SM17</td><td>565560</td><td>636</td><td>43231</td><td>586</td><td>20711</td><td>2.087345</td><td>0.441552</td><td>0.007735</td></tr>
+<tr>
+<td>species</td><td>Rahnella aquatilis</td><td>34038</td><td>1429</td><td>104882</td><td>1061</td><td>68178</td><td>1.538355</td><td>0.434785</td><td>0.007616</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. CFMR 7</td><td>1649184</td><td>3636</td><td>262731</td><td>5986</td><td>27739</td><td>9.471538</td><td>0.417670</td><td>0.007317</td></tr>
+<tr>
+<td>species</td><td>Streptomyces globisporus</td><td>1908</td><td>6867</td><td>445438</td><td>9255</td><td>121963</td><td>3.652239</td><td>0.409843</td><td>0.007179</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus odorifer</td><td>189426</td><td>20089</td><td>1518943</td><td>17527</td><td>1136491</td><td>1.336520</td><td>0.381019</td><td>0.006674</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas fluorescens</td><td>294</td><td>6710</td><td>443180</td><td>5111</td><td>340484</td><td>1.301618</td><td>0.375874</td><td>0.006584</td></tr>
+<tr>
+<td>species</td><td>Bacillus sp. Y-01</td><td>2052936</td><td>223</td><td>14315</td><td>136</td><td>8297</td><td>1.725322</td><td>0.363953</td><td>0.006376</td></tr>
+<tr>
+<td>species</td><td>Promicromonospora sukumoe</td><td>88382</td><td>13597</td><td>893459</td><td>16193</td><td>600949</td><td>1.486747</td><td>0.342422</td><td>0.005998</td></tr>
+<tr>
+<td>species</td><td>Streptomyces albus</td><td>1888</td><td>648</td><td>45014</td><td>484</td><td>32308</td><td>1.393277</td><td>0.333098</td><td>0.005835</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas sp. MYb57</td><td>1827305</td><td>3018</td><td>198965</td><td>2482</td><td>124099</td><td>1.603276</td><td>0.326135</td><td>0.005713</td></tr>
+<tr>
+<td>species</td><td>Streptomyces phage ToastyFinz</td><td>1965452</td><td>86</td><td>5286</td><td>96</td><td>3401</td><td>1.554249</td><td>0.323857</td><td>0.005673</td></tr>
+<tr>
+<td>species</td><td>Streptomyces cavourensis</td><td>67258</td><td>1360</td><td>84595</td><td>2590</td><td>15189</td><td>5.569491</td><td>0.321968</td><td>0.005640</td></tr>
+<tr>
+<td>species</td><td>Agrobacterium sp. H13-3</td><td>861208</td><td>2155</td><td>153445</td><td>1777</td><td>86231</td><td>1.779464</td><td>0.282835</td><td>0.004955</td></tr>
+<tr>
+<td>species</td><td>Bacillus safensis</td><td>561879</td><td>1765</td><td>92827</td><td>1453</td><td>71493</td><td>1.298407</td><td>0.265677</td><td>0.004654</td></tr>
+<tr>
+<td>species</td><td>Streptomyces albidoflavus</td><td>1886</td><td>272</td><td>20674</td><td>215</td><td>12237</td><td>1.689466</td><td>0.255873</td><td>0.004482</td></tr>
+<tr>
+<td>species</td><td>Kitasatospora albolonga</td><td>68173</td><td>7708</td><td>406806</td><td>10039</td><td>40023</td><td>10.164306</td><td>0.248536</td><td>0.004354</td></tr>
+<tr>
+<td>species</td><td>Streptomyces pratensis</td><td>1169025</td><td>1382</td><td>91909</td><td>2812</td><td>13304</td><td>6.908373</td><td>0.244948</td><td>0.004291</td></tr>
+<tr>
+<td>species</td><td>Rhodococcus erythropolis</td><td>1833</td><td>1618</td><td>115326</td><td>1066</td><td>89780</td><td>1.284540</td><td>0.236984</td><td>0.004151</td></tr>
+<tr>
+<td>species</td><td>Agromyces aureus</td><td>453304</td><td>6749</td><td>426103</td><td>10086</td><td>248399</td><td>1.715397</td><td>0.230724</td><td>0.004042</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. S8</td><td>1837283</td><td>2481</td><td>159385</td><td>4256</td><td>24481</td><td>6.510559</td><td>0.228919</td><td>0.004010</td></tr>
+<tr>
+<td>species</td><td>Bacillus circulans</td><td>1397</td><td>8480</td><td>611095</td><td>11607</td><td>436889</td><td>1.398742</td><td>0.205585</td><td>0.003601</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas chelatiphaga</td><td>517011</td><td>5383</td><td>316314</td><td>9214</td><td>141391</td><td>2.237158</td><td>0.198519</td><td>0.003478</td></tr>
+<tr>
+<td>species</td><td>Pseudoxanthomonas indica</td><td>428993</td><td>6244</td><td>406068</td><td>12054</td><td>221223</td><td>1.835560</td><td>0.197222</td><td>0.003455</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas maltophilia</td><td>40324</td><td>3541</td><td>205531</td><td>6159</td><td>61481</td><td>3.343000</td><td>0.184649</td><td>0.003235</td></tr>
+<tr>
+<td>species</td><td>Erwinia billingiae</td><td>182337</td><td>7013</td><td>522888</td><td>6588</td><td>391794</td><td>1.334599</td><td>0.175009</td><td>0.003066</td></tr>
+<tr>
+<td>species</td><td>Streptomyces bacillaris</td><td>68179</td><td>1484</td><td>98776</td><td>2016</td><td>25503</td><td>3.873113</td><td>0.156795</td><td>0.002747</td></tr>
+<tr>
+<td>species</td><td>Cedratvirus A11</td><td>1903266</td><td>889</td><td>70964</td><td>2330</td><td>52404</td><td>1.354171</td><td>0.146995</td><td>0.002575</td></tr>
+<tr>
+<td>species</td><td>Bacillus altitudinis</td><td>293387</td><td>97</td><td>5730</td><td>83</td><td>4553</td><td>1.258511</td><td>0.142805</td><td>0.002502</td></tr>
+<tr>
+<td>species</td><td>Xanthomonas euvesicatoria</td><td>456327</td><td>524</td><td>45545</td><td>1238</td><td>14385</td><td>3.166145</td><td>0.141298</td><td>0.002475</td></tr>
+<tr>
+<td>species</td><td>Cellulosimicrobium cellulans</td><td>1710</td><td>3347</td><td>196740</td><td>3811</td><td>147409</td><td>1.334654</td><td>0.139686</td><td>0.002447</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. FR-008</td><td>206662</td><td>268</td><td>18684</td><td>271</td><td>11364</td><td>1.644139</td><td>0.133819</td><td>0.002344</td></tr>
+<tr>
+<td>species</td><td>Arthrobacter luteolus</td><td>98672</td><td>4473</td><td>341480</td><td>4039</td><td>265361</td><td>1.286851</td><td>0.133809</td><td>0.002344</td></tr>
+<tr>
+<td>species</td><td>Paenisporosarcina quisquiliarum</td><td>365346</td><td>4501</td><td>327145</td><td>4601</td><td>248089</td><td>1.318660</td><td>0.132456</td><td>0.002320</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas panacihumi</td><td>676599</td><td>3262</td><td>184071</td><td>5347</td><td>35436</td><td>5.194463</td><td>0.131118</td><td>0.002297</td></tr>
+<tr>
+<td>species</td><td>Aeromicrobium choanae</td><td>1736691</td><td>2801</td><td>187575</td><td>3299</td><td>150449</td><td>1.246768</td><td>0.124433</td><td>0.002180</td></tr>
+<tr>
+<td>species</td><td>Stenotrophomonas sp. G4</td><td>2303750</td><td>915</td><td>56549</td><td>1240</td><td>31848</td><td>1.775590</td><td>0.119287</td><td>0.002090</td></tr>
+<tr>
+<td>species</td><td>Achromobacter spanius</td><td>217203</td><td>4725</td><td>296400</td><td>6517</td><td>225517</td><td>1.314313</td><td>0.114745</td><td>0.002010</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. Y412MC10</td><td>481743</td><td>2561</td><td>171889</td><td>1843</td><td>133704</td><td>1.285594</td><td>0.109863</td><td>0.001925</td></tr>
+<tr>
+<td>species</td><td>Agrobacterium tumefaciens</td><td>358</td><td>2042</td><td>124378</td><td>3324</td><td>88202</td><td>1.410149</td><td>0.105684</td><td>0.001851</td></tr>
+<tr>
+<td>species</td><td>Streptomyces lividans</td><td>1916</td><td>225</td><td>16574</td><td>542</td><td>5626</td><td>2.945965</td><td>0.102760</td><td>0.001800</td></tr>
+<tr>
+<td>species</td><td>Bacillus cellulasensis</td><td>1049581</td><td>66</td><td>4005</td><td>96</td><td>2965</td><td>1.350759</td><td>0.102569</td><td>0.001797</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. PAMC 26508</td><td>1265601</td><td>595</td><td>35836</td><td>904</td><td>11235</td><td>3.189675</td><td>0.101103</td><td>0.001771</td></tr>
+<tr>
+<td>species</td><td>Streptomyces koyangensis</td><td>188770</td><td>1368</td><td>80490</td><td>1539</td><td>55968</td><td>1.438143</td><td>0.099595</td><td>0.001745</td></tr>
+<tr>
+<td>species</td><td>Bacillus cereus</td><td>1396</td><td>183</td><td>11843</td><td>189</td><td>8909</td><td>1.329330</td><td>0.093792</td><td>0.001643</td></tr>
+<tr>
+<td>species</td><td>Streptomyces griseus</td><td>1911</td><td>3052</td><td>167416</td><td>4936</td><td>26686</td><td>6.273552</td><td>0.092030</td><td>0.001612</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. FSL R7-0331</td><td>1536773</td><td>4446</td><td>314684</td><td>2103</td><td>244987</td><td>1.284493</td><td>0.090703</td><td>0.001589</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sampsonii</td><td>42239</td><td>182</td><td>11769</td><td>184</td><td>6880</td><td>1.710610</td><td>0.089345</td><td>0.001565</td></tr>
+<tr>
+<td>species</td><td>Pseudosphingobacterium domesticum</td><td>407022</td><td>6023</td><td>440185</td><td>14909</td><td>246825</td><td>1.783389</td><td>0.089047</td><td>0.001560</td></tr>
+<tr>
+<td>species</td><td>Microbacterium sp. CGR1</td><td>1696072</td><td>334</td><td>23360</td><td>376</td><td>17999</td><td>1.297850</td><td>0.085581</td><td>0.001499</td></tr>
+<tr>
+<td>species</td><td>Sphingobium yanoikuyae</td><td>13690</td><td>1710</td><td>119978</td><td>2942</td><td>96132</td><td>1.248055</td><td>0.083449</td><td>0.001462</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas putida</td><td>303</td><td>2915</td><td>174978</td><td>5221</td><td>123323</td><td>1.418859</td><td>0.080937</td><td>0.001418</td></tr>
+<tr>
+<td>species</td><td>Starkeya novella</td><td>921</td><td>2597</td><td>167298</td><td>4287</td><td>134928</td><td>1.239906</td><td>0.079832</td><td>0.001398</td></tr>
+<tr>
+<td>species</td><td>Microbacterium sp. 1.5R</td><td>1916917</td><td>344</td><td>23390</td><td>363</td><td>17347</td><td>1.348360</td><td>0.078157</td><td>0.001369</td></tr>
+<tr>
+<td>species</td><td>Curtobacterium sp. BH-2-1-1</td><td>1905847</td><td>1487</td><td>89812</td><td>1084</td><td>75122</td><td>1.195549</td><td>0.075972</td><td>0.001331</td></tr>
+<tr>
+<td>species</td><td>Terribacillus aidingensis</td><td>586416</td><td>2402</td><td>191559</td><td>3302</td><td>152035</td><td>1.259966</td><td>0.075159</td><td>0.001317</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. SM18</td><td>1736046</td><td>2834</td><td>158399</td><td>3947</td><td>39317</td><td>4.028766</td><td>0.074541</td><td>0.001306</td></tr>
+<tr>
+<td>species</td><td>Pseudoxanthomonas mexicana</td><td>128785</td><td>2232</td><td>139081</td><td>4227</td><td>97398</td><td>1.427966</td><td>0.071819</td><td>0.001258</td></tr>
+<tr>
+<td>species</td><td>Microbacterium barkeri</td><td>33917</td><td>1535</td><td>93850</td><td>1131</td><td>71629</td><td>1.310224</td><td>0.071103</td><td>0.001246</td></tr>
+<tr>
+<td>species</td><td>Bacillus aryabhattai</td><td>412384</td><td>95</td><td>6196</td><td>156</td><td>3593</td><td>1.724464</td><td>0.070388</td><td>0.001233</td></tr>
+<tr>
+<td>species</td><td>Achromobacter xylosoxidans</td><td>85698</td><td>374</td><td>32944</td><td>401</td><td>12263</td><td>2.686455</td><td>0.070209</td><td>0.001230</td></tr>
+<tr>
+<td>species</td><td>Lelliottia sp. WB101</td><td>2153385</td><td>1537</td><td>98125</td><td>1350</td><td>79346</td><td>1.236672</td><td>0.069886</td><td>0.001224</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. Tue 6075</td><td>1661694</td><td>1319</td><td>74892</td><td>1999</td><td>18854</td><td>3.972207</td><td>0.068049</td><td>0.001192</td></tr>
+<tr>
+<td>species</td><td>Rahnella sp. Y9602</td><td>741091</td><td>207</td><td>15199</td><td>300</td><td>9994</td><td>1.520812</td><td>0.063228</td><td>0.001108</td></tr>
+<tr>
+<td>species</td><td>Lysinibacillus sp. YS11</td><td>2072025</td><td>2040</td><td>142494</td><td>1173</td><td>111787</td><td>1.274692</td><td>0.060913</td><td>0.001067</td></tr>
+<tr>
+<td>species</td><td>Klebsiella sp. LTGPAF-6F</td><td>1905288</td><td>60</td><td>4711</td><td>103</td><td>3683</td><td>1.279120</td><td>0.060824</td><td>0.001065</td></tr>
+<tr>
+<td>species</td><td>Bacillus sp. WP8</td><td>756828</td><td>105</td><td>5510</td><td>89</td><td>4593</td><td>1.199652</td><td>0.057065</td><td>0.001000</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas kuykendallii</td><td>1007099</td><td>1562</td><td>100098</td><td>2864</td><td>79749</td><td>1.255163</td><td>0.055918</td><td>0.000980</td></tr>
+<tr>
+<td>species</td><td>Cellulosimicrobium sp. TH-20</td><td>1980001</td><td>997</td><td>56361</td><td>858</td><td>45890</td><td>1.228176</td><td>0.054556</td><td>0.000956</td></tr>
+<tr>
+<td>species</td><td>Ochrobactrum anthropi</td><td>529</td><td>2289</td><td>175412</td><td>3507</td><td>144637</td><td>1.212774</td><td>0.053712</td><td>0.000941</td></tr>
+<tr>
+<td>species</td><td>Enterobacter cloacae</td><td>550</td><td>41</td><td>3085</td><td>58</td><td>2585</td><td>1.193424</td><td>0.053124</td><td>0.000931</td></tr>
+<tr>
+<td>species</td><td>Escherichia virus N15</td><td>40631</td><td>15</td><td>1138</td><td>34</td><td>884</td><td>1.287330</td><td>0.051167</td><td>0.000896</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas silesiensis</td><td>1853130</td><td>1766</td><td>117435</td><td>2776</td><td>88998</td><td>1.319524</td><td>0.051090</td><td>0.000895</td></tr>
+<tr>
+<td>species</td><td>Bacillus kochii</td><td>859143</td><td>1854</td><td>138969</td><td>1187</td><td>110080</td><td>1.262436</td><td>0.048529</td><td>0.000850</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus pabuli</td><td>1472</td><td>3451</td><td>247429</td><td>7784</td><td>163888</td><td>1.509744</td><td>0.047054</td><td>0.000824</td></tr>
+<tr>
+<td>species</td><td>Fictibacillus arsenicus</td><td>255247</td><td>1611</td><td>121338</td><td>2637</td><td>98178</td><td>1.235898</td><td>0.046849</td><td>0.000821</td></tr>
+<tr>
+<td>species</td><td>Aureimonas altamirensis</td><td>370622</td><td>1513</td><td>114140</td><td>1718</td><td>93876</td><td>1.215859</td><td>0.046417</td><td>0.000813</td></tr>
+<tr>
+<td>species</td><td>Neorhizobium sp. NCHU2750</td><td>1825976</td><td>2532</td><td>160356</td><td>5504</td><td>81540</td><td>1.966593</td><td>0.041528</td><td>0.000727</td></tr>
+<tr>
+<td>species</td><td>Chryseobacterium scophthalmum</td><td>59733</td><td>1068</td><td>62944</td><td>1655</td><td>46829</td><td>1.344124</td><td>0.041086</td><td>0.000720</td></tr>
+<tr>
+<td>species</td><td>Microbacterium foliorum</td><td>104336</td><td>1103</td><td>62375</td><td>1733</td><td>46040</td><td>1.354800</td><td>0.041069</td><td>0.000719</td></tr>
+<tr>
+<td>species</td><td>Bacillus butanolivorans</td><td>421767</td><td>1726</td><td>110118</td><td>3289</td><td>49745</td><td>2.213650</td><td>0.040584</td><td>0.000711</td></tr>
+<tr>
+<td>species</td><td>Bacillus muralis</td><td>264697</td><td>1887</td><td>124818</td><td>5071</td><td>49294</td><td>2.532113</td><td>0.040242</td><td>0.000705</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas sp. Lz4W</td><td>1206777</td><td>80</td><td>6347</td><td>88</td><td>4105</td><td>1.546163</td><td>0.039722</td><td>0.000696</td></tr>
+<tr>
+<td>species</td><td>Nocardia cummidelens</td><td>165807</td><td>1842</td><td>124183</td><td>3085</td><td>105289</td><td>1.179449</td><td>0.034935</td><td>0.000612</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas azotoformans</td><td>47878</td><td>809</td><td>49663</td><td>1034</td><td>39672</td><td>1.251840</td><td>0.034269</td><td>0.000600</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. FSL H7-0357</td><td>1536774</td><td>2286</td><td>170583</td><td>3962</td><td>127469</td><td>1.338231</td><td>0.033818</td><td>0.000592</td></tr>
+<tr>
+<td>species</td><td>Streptomyces sp. CLI2509</td><td>1984801</td><td>1466</td><td>93001</td><td>1503</td><td>77292</td><td>1.203242</td><td>0.033802</td><td>0.000592</td></tr>
+<tr>
+<td>species</td><td>Bacillus sp. IHB B 7164</td><td>1827146</td><td>18</td><td>767</td><td>5</td><td>548</td><td>1.399635</td><td>0.033006</td><td>0.000578</td></tr>
+<tr>
+<td>species</td><td>Pedobacter ginsengisoli</td><td>363852</td><td>1781</td><td>117465</td><td>3949</td><td>88621</td><td>1.325476</td><td>0.032695</td><td>0.000573</td></tr>
+<tr>
+<td>species</td><td>Devosia riboflavina</td><td>46914</td><td>1443</td><td>97790</td><td>3353</td><td>82305</td><td>1.188142</td><td>0.031799</td><td>0.000557</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas syringae group genomosp. 3</td><td>251701</td><td>186</td><td>15098</td><td>282</td><td>8610</td><td>1.753542</td><td>0.031533</td><td>0.000552</td></tr>
+<tr>
+<td>species</td><td>Achromobacter sp. B7</td><td>2282475</td><td>1253</td><td>73983</td><td>1807</td><td>44622</td><td>1.657994</td><td>0.030740</td><td>0.000538</td></tr>
+<tr>
+<td>species</td><td>Lysinibacillus fusiformis</td><td>28031</td><td>738</td><td>45175</td><td>366</td><td>35891</td><td>1.258672</td><td>0.030274</td><td>0.000530</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas sp. UW4</td><td>1207075</td><td>893</td><td>56554</td><td>1701</td><td>27496</td><td>2.056808</td><td>0.030193</td><td>0.000529</td></tr>
+<tr>
+<td>species</td><td>Brucella pinnipedialis</td><td>120576</td><td>9</td><td>742</td><td>17</td><td>590</td><td>1.257627</td><td>0.029215</td><td>0.000512</td></tr>
+<tr>
+<td>species</td><td>Bacillus virus IEBH</td><td>552525</td><td>3</td><td>183</td><td>6</td><td>141</td><td>1.297872</td><td>0.029085</td><td>0.000509</td></tr>
+<tr>
+<td>species</td><td>Raoultella ornithinolytica</td><td>54291</td><td>840</td><td>53277</td><td>1509</td><td>45721</td><td>1.165263</td><td>0.027129</td><td>0.000475</td></tr>
+<tr>
+<td>species</td><td>Agromyces cerinus</td><td>33878</td><td>744</td><td>43788</td><td>1226</td><td>36363</td><td>1.204191</td><td>0.027061</td><td>0.000474</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas sp. MYb193</td><td>1827300</td><td>266</td><td>18337</td><td>326</td><td>14637</td><td>1.252784</td><td>0.026639</td><td>0.000467</td></tr>
+<tr>
+<td>species</td><td>Pantoea agglomerans</td><td>549</td><td>656</td><td>41508</td><td>624</td><td>33938</td><td>1.223054</td><td>0.026041</td><td>0.000456</td></tr>
+<tr>
+<td>species</td><td>Bacillus mobilis</td><td>2026190</td><td>166</td><td>8489</td><td>133</td><td>6319</td><td>1.343409</td><td>0.025778</td><td>0.000452</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas sp. DR 5-09</td><td>1534110</td><td>346</td><td>22697</td><td>672</td><td>13214</td><td>1.717648</td><td>0.024960</td><td>0.000437</td></tr>
+<tr>
+<td>species</td><td>Sphingobacterium sp. B29</td><td>1933220</td><td>404</td><td>30400</td><td>857</td><td>23301</td><td>1.304665</td><td>0.024870</td><td>0.000436</td></tr>
+<tr>
+<td>species</td><td>Myxococcus fulvus</td><td>33</td><td>2055</td><td>141532</td><td>3321</td><td>119094</td><td>1.188406</td><td>0.024637</td><td>0.000432</td></tr>
+<tr>
+<td>species</td><td>Bacillus sp. FDAARGOS_235</td><td>1839798</td><td>47</td><td>2893</td><td>31</td><td>2411</td><td>1.199917</td><td>0.024217</td><td>0.000424</td></tr>
+<tr>
+<td>species</td><td>Microbacterium pygmaeum</td><td>370764</td><td>654</td><td>43539</td><td>861</td><td>37221</td><td>1.169743</td><td>0.023073</td><td>0.000404</td></tr>
+<tr>
+<td>species</td><td>Arthrobacter sp. YC-RL1</td><td>1652545</td><td>761</td><td>54395</td><td>1622</td><td>45790</td><td>1.187923</td><td>0.023003</td><td>0.000403</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus lautus</td><td>1401</td><td>607</td><td>39608</td><td>1025</td><td>32838</td><td>1.206164</td><td>0.022381</td><td>0.000392</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus sp. FSL R7-0273</td><td>1536772</td><td>1202</td><td>82658</td><td>1025</td><td>62517</td><td>1.322168</td><td>0.022337</td><td>0.000391</td></tr>
+<tr>
+<td>species</td><td>Flavobacterium sp. HYN0086</td><td>2249356</td><td>628</td><td>39797</td><td>714</td><td>32029</td><td>1.242530</td><td>0.021740</td><td>0.000381</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas lutea</td><td>243924</td><td>1180</td><td>69337</td><td>2117</td><td>38812</td><td>1.786484</td><td>0.021613</td><td>0.000379</td></tr>
+<tr>
+<td>species</td><td>Brevundimonas naejangsanensis</td><td>588932</td><td>562</td><td>31916</td><td>958</td><td>23808</td><td>1.340558</td><td>0.021330</td><td>0.000374</td></tr>
+<tr>
+<td>species</td><td>Pseudoxanthomonas spadix</td><td>415229</td><td>507</td><td>29313</td><td>868</td><td>17284</td><td>1.695962</td><td>0.020185</td><td>0.000354</td></tr>
+<tr>
+<td>species</td><td>Curtobacterium flaccumfaciens</td><td>2035</td><td>486</td><td>29253</td><td>648</td><td>24803</td><td>1.179414</td><td>0.020018</td><td>0.000351</td></tr>
+<tr>
+<td>species</td><td>Paenibacillus polymyxa</td><td>1406</td><td>233</td><td>16107</td><td>219</td><td>11387</td><td>1.414508</td><td>0.019866</td><td>0.000348</td></tr>
+<tr>
+<td>species</td><td>Nocardioides luteus</td><td>1844</td><td>779</td><td>52220</td><td>1519</td><td>44485</td><td>1.173879</td><td>0.018806</td><td>0.000329</td></tr>
+<tr>
+<td>species</td><td>Bacillus toyonensis</td><td>155322</td><td>11</td><td>674</td><td>16</td><td>586</td><td>1.150171</td><td>0.018756</td><td>0.000329</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas sp. LH1G9</td><td>2083055</td><td>99</td><td>8795</td><td>156</td><td>6146</td><td>1.431012</td><td>0.018563</td><td>0.000325</td></tr>
+<tr>
+<td>species</td><td>Bacillus anthracis</td><td>1392</td><td>25</td><td>1633</td><td>23</td><td>1271</td><td>1.284815</td><td>0.018492</td><td>0.000324</td></tr>
+<tr>
+<td>species</td><td>Pseudomonas amygdali</td><td>47877</td><td>67</td><td>5500</td><td>165</td><td>4145</td><td>1.326900</td><td>0.018027</td><td>0.000316</td></tr>
+<tr>
+<td>species</td><td>Microbacterium maritypicum</td><td>300020</td><td>106</td><td>6631</td><td>174</td><td>4935</td><td>1.343668</td><td>0.017701</td><td>0.000310</td></tr>
+<tr>
+<td>species</td><td>Rhodococcus sp. BH4</td><td>1807790</td><td>106</td><td>8736</td><td>243</td><td>6875</td><td>1.270691</td><td>0.017551</td><td>0.000307</td></tr>
+<tr>
+<td>species</td><td>Megavirus chiliensis</td><td>1094892</td><td>7</td><td>298</td><td>0</td><td>248</td><td>1.201613</td><td>0.017437</td><td>0.000305</td></tr>
+<tr>
+<td>species</td><td>Novosphingobium resinovorum</td><td>158500</td><td>921</td><td>64427</td><td>1281</td><td>53909</td><td>1.195107</td><td>0.017192</td><td>0.000301</td></tr>
+<tr>
+<td>species</td><td>Chryseobacterium formosense</td><td>236814</td><td>440</td><td>29012</td><td>607</td><td>20694</td><td>1.401952</td><td>0.016930</td><td>0.000297</td></tr>
+<tr>
+<td>species</td><td>Agrobacterium fabrum</td><td>1176649</td><td>545</td><td>34571</td><td>894</td><td>23846</td><td>1.449761</td><td>0.016929</td><td>0.000297</td></tr>
+<tr>
+<td>species</td><td>Pseudorhodoplanes sinuspersici</td><td>1235591</td><td>1044</td><td>72988</td><td>2785</td><td>62328</td><td>1.171031</td><td>0.016694</td><td>0.000292</td></tr>
+<tr>
+<td>species</td><td>Dokdonella koreensis</td><td>323415</td><td>524</td><td>34641</td><td>1035</td><td>27550</td><td>1.257387</td><td>0.016536</td><td>0.000290</td></tr>
+<tr>
+<td>species</td><td>Krasilnikoviella flava</td><td>526729</td><td>460</td><td>28193</td><td>714</td><td>19305</td><td>1.460399</td><td>0.016115</td><td>0.000282</td></tr>
+<tr>
+<td>species</td><td>Bacillus litoralis</td><td>152268</td><td>711</td><td>51192</td><td>1330</td><td>38484</td><td>1.330215</td><td>0.016111</td><td>0.000282</td></tr>
+<tr>
+<td>species</td><td>Microbacterium sp. TPU 3598</td><td>1938334</td><td>73</td><td>4654</td><td>135</td><td>3308</td><td>1.406892</td><td>0.016086</td><td>0.000282</td></tr>
+<tr>
+<td>species</td><td>Bacillus eiseniae</td><td>762947</td><td>710</td><td>52360</td><td>899</td><td>42704</td><td>1.226115</td><td>0.015940</td><td>0.000279</td></tr>
+<tr>
+<td>species</td><td>Micromonospora sp. B006</td><td>2201999</td><td>253</td><td>15583</td><td>157</td><td>12973</td><td>1.201187</td><td>0.015399</td><td>0.000270</td></tr>
+<tr>
+<td>species</td><td>Sphingomonas sanxanigenens</td><td>397260</td><td>732</td><td>50429</td><td>839</td><td>43403</td><td>1.161878</td><td>0.015044</td><td>0.000264</td></tr>
+<tr>
+<td>species</td><td>Ancylobacter rudongensis</td><td>177413</td><td>523</td><td>30158</td><td>915</td><td>24922</td><td>1.210095</td><td>0.014769</td><td>0.000259</td></tr>
+<tr>
+<td>species</td><td>Brevundimonas sp. DS20</td><td>1532555</td><td>439</td><td>23541</td><td>743</td><td>19203</td><td>1.225902</td><td>0.014396</td><td>0.000252</td></tr>
+<tr>
+<td>species</td><td>Rhodococcus sp. 008</td><td>1723645</td><td>117</td><td>9505</td><td>229</td><td>7903</td><td>1.202708</td><td>0.014298</td><td>0.000250</td></tr>
+<tr>
+<td>species</td><td>Luteibacter rhizovicinus</td><td>242606</td><td>586</td><td>41214</td><td>1256</td><td>35283</td><td>1.168098</td><td>0.014095</td><td>0.000247</td></tr>
+<tr>
+<td>species</td><td>Bacillus thuringiensis</td><td>1428</td><td>47</td><td>2241</td><td>21</td><td>1658</td><td>1.351628</td><td>0.013475</td><td>0.000236</td></tr>
+<tr>
+<td>species</td><td>Devosia limi</td><td>288995</td><td>515</td><td>34076</td><td>983</td><td>29635</td><td>1.149857</td><td>0.013252</td><td>0.000232</td></tr>
+<tr>
+<td>species</td><td>Brevundimonas sp. GW460-12-10-14-LB2</td><td>1827469</td><td>165</td><td>9605</td><td>256</td><td>7751</td><td>1.239195</td><td>0.013195</td><td>0.000231</td></tr>
+<tr>
+<td>species</td><td>Caulobacter henricii</td><td>69395</td><td>553</td><td>31338</td><td>902</td><td>26421</td><td>1.186102</td><td>0.012465</td><td>0.000218</td></tr>
+<tr>
+<td>species</td><td>Flavobacterium ummariense</td><td>913024</td><td>313</td><td>21190</td><td>734</td><td>18000</td><td>1.177222</td><td>0.011742</td><td>0.000206</td></tr>
+<tr>
+<td>species</td><td>Enterobacter sp. 638</td><td>399742</td><td>213</td><td>12852</td><td>296</td><td>11344</td><td>1.132934</td><td>0.011508</td><td>0.000202</td></tr>
+<tr>
+<td>species</td><td>Enterobacter hormaechei</td><td>158836</td><td>9</td><td>608</td><td>3</td><td>559</td><td>1.087657</td><td>0.011133</td><td>0.000195</td></tr>
+</tbody>
+</table></body>
